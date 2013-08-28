@@ -12,6 +12,6 @@ To start the server:
 
 jekyll server -w
 
-Now open a browser to localhost:40000
+Now open a browser to localhost:4000
 
 

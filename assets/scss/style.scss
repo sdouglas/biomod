@@ -1,2 +1,34 @@
-@import "kraken";
+@import "grid";
 @import "mixins";
+@import "typo";
+
+
+
+
+
+
+
+/* */
+@media screen and (max-width: #{$mobile_portrait}) {
+
+
+}
+
+
+/* */
+@media screen and (max-width: #{$mobile_landscape}) {
+
+    
+
+}
+
+
+/*   */
+@media screen and (max-width: #{$tablet_portrait}) {
+ 
+}
+
+/*  */
+@media screen and (max-width: #{$tablet_landscape}) {
+ 
+}

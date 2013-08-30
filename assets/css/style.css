@@ -258,7 +258,8 @@ main {
   max-width: 68em;
   margin-left: auto;
   margin-right: auto;
-  margin: 0 auto; }
+  margin: 0 auto;
+  padding: 30px 20px; }
   main:before, main:after {
     content: " ";
     display: table; }

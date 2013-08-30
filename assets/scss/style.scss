@@ -8,19 +8,26 @@
 main { // this is the outer container
 	  @include outer-container;
 	  margin:0 auto;
+	  // wow, this line below adds padding to the MAIN element. works well. 
+	  // normally id add this to aside and section instead. lets roll with this.
+	  @include pad(30px 20px);
 }
 
+header {}
+
+footer {}
 
 
 
-@include media($mobile) { // 4 columns in total
+
+@include media($mobile) { // grid has 4 columns in total
     body {background: red; }
 
     section{@include span-columns(4);}
 	aside{@include span-columns(4);}
 }
 
-@include media($tablet) { // 8 columns in total
+@include media($tablet) { // grid has 8 columns in total
     body 	{background: yellow;}
 
     section {@include span-columns(5);}
@@ -28,14 +35,14 @@ main { // this is the outer container
 
 }
 
-@include media($desktop) { // 12 columns in total
+@include media($desktop) { // grid has 12 columns in total
     body { background: green; }
 
     section {@include span-columns(7);}
 	aside	{@include span-columns(5);}
 }
 
-@include media($largedesktop) { // 16 columns in total
+@include media($largedesktop) { // grid has 16 columns in total
     body 	{background: purple;}
 
     section {@include span-columns(8);}

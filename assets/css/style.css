@@ -1,12 +1,40 @@
-body {
-  width: 100%;
-  *zoom: 1; }
-  body:before, body:after {
-    content: "";
-    display: table; }
-  body:after {
-    clear: both; }
-
+/**
+ * Profound Grid
+ * 
+ * Built in Sass (SCSS) this responsive/adaptive grid supports both fixed and fluid layouts, 
+ * relative and fixed gutters, as well as your choice of semantic markup or generic '.grid-x' classes.
+ * 
+ * The biggest difference to other grid systems is the use of negative margins for column
+ * placements, avoiding the subpixel rounding issues that usually break/uglify fluid layouts
+ * in some browsers.
+ * 
+ * Nested columns are supported too, without having to reset the grid on each level. 
+ *
+ * Credits/Inspiration:
+ * -------------------
+ * Semantic Grid: http://www.semantic.gs
+ * Susy: http://susy.oddbird.net
+ * Negative Grid: http://chrisplaneta.com/freebies/negativegrid-fluid-css-grid-by-chris-planeta/
+ *
+ * @author Profound Creative Studio
+ * @url http://www.profoundgrid.com
+ * @url http://www.weareprofound.com 
+ */
+/**
+ * Clearfix
+ */
+/**
+ * Legacy Clearfix
+ */
+/**
+ * Establish the grid-containing element.
+ */
+/**
+ * Align an element to the grid.
+ */
+/**
+ * Apply to any column to make it the last one of the current row.
+ */
 /* */
 /* media query mixins */
 /* */
@@ -207,7 +235,494 @@ pre code {
   background-color: transparent;
   border: 0; }
 
-/* */
-/* */
-/*   */
-/*  */
+* {
+  outline: none; }
+
+html, body {
+  background: #f5f5f5; }
+
+html {
+  height: 100%; }
+
+body {
+  min-height: 100%; }
+
+main {
+  width: 960px;
+  max-width: 960px;
+  margin: 0 auto;
+  margin-bottom: 80px; }
+  main h3 {
+    width: 100%;
+    text-align: center;
+    font-family: 'Raleway', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 38px;
+    padding-top: 72px;
+    padding-bottom: 55px;
+    color: #b7b7b7; }
+  main h3.seperator {
+    border-top: 1px solid rgba(0, 0, 0, 0.1); }
+
+header, nav, footer {
+  width: 100% !important; }
+
+header.center, nav .center, footer .center {
+  margin: 0 auto; }
+
+main {
+  width: 960px;
+  margin: 0 auto;
+  overflow: hidden;
+  *zoom: 1; }
+
+section, aside {
+  overflow: hidden;
+  *zoom: 1; }
+
+* {
+  outline: none; }
+
+html, body {
+  background: #f5f5f5; }
+
+html {
+  height: 100%; }
+
+body {
+  min-height: 100%; }
+
+main {
+  width: 320px;
+  max-width: 960px;
+  margin: 0 auto;
+  margin-bottom: 80px; }
+  main h3 {
+    width: 100%;
+    text-align: center;
+    font-family: 'Raleway', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 38px;
+    padding-top: 72px;
+    padding-bottom: 55px;
+    color: #b7b7b7; }
+  main h3.seperator {
+    border-top: 1px solid rgba(0, 0, 0, 0.1); }
+
+/* Helper Class: Container */
+.row {
+  width: 320px;
+  margin: 0 auto; }
+
+/* Helper Class: Columns */
+.col1 {
+  float: left;
+  margin-right: -100%;
+  width: 17.5px; }
+
+.col2 {
+  float: left;
+  margin-right: -100%;
+  width: 45px; }
+
+.col3 {
+  float: left;
+  margin-right: -100%;
+  width: 72.5px; }
+
+.col4 {
+  float: left;
+  margin-right: -100%;
+  width: 100px; }
+
+.col5 {
+  float: left;
+  margin-right: -100%;
+  width: 127.5px; }
+
+.col6 {
+  float: left;
+  margin-right: -100%;
+  width: 155px; }
+
+.col7 {
+  float: left;
+  margin-right: -100%;
+  width: 182.5px; }
+
+.col8 {
+  float: left;
+  margin-right: -100%;
+  width: 210px; }
+
+.col9 {
+  float: left;
+  margin-right: -100%;
+  width: 237.5px; }
+
+.col10 {
+  float: left;
+  margin-right: -100%;
+  width: 265px; }
+
+.col11 {
+  float: left;
+  margin-right: -100%;
+  width: 292.5px; }
+
+.col12 {
+  float: left;
+  margin-right: -100%;
+  width: 320px; }
+
+/* Helper Class: Horizontal Position */
+.push0 {
+  margin-left: 0px; }
+
+.push1 {
+  margin-left: 27.5px; }
+
+.push2 {
+  margin-left: 55px; }
+
+.push3 {
+  margin-left: 82.5px; }
+
+.push4 {
+  margin-left: 110px; }
+
+.push5 {
+  margin-left: 137.5px; }
+
+.push6 {
+  margin-left: 165px; }
+
+.push7 {
+  margin-left: 192.5px; }
+
+.push8 {
+  margin-left: 220px; }
+
+.push9 {
+  margin-left: 247.5px; }
+
+.push10 {
+  margin-left: 275px; }
+
+.push11 {
+  margin-left: 302.5px; }
+
+main, section, aside {
+  margin-bottom: 10px; }
+
+section {
+  float: left;
+  margin-right: -100%;
+  width: 320px; }
+
+aside {
+  float: left;
+  margin-right: -100%;
+  width: 320px; }
+
+h1:after {
+  content: " 320"; }
+
+@media screen and (min-width: 720px) {
+  * {
+    outline: none; }
+
+  html, body {
+    background: #f5f5f5; }
+
+  html {
+    height: 100%; }
+
+  body {
+    min-height: 100%; }
+
+  main {
+    width: 720px;
+    max-width: 960px;
+    margin: 0 auto;
+    margin-bottom: 80px; }
+    main h3 {
+      width: 100%;
+      text-align: center;
+      font-family: 'Raleway', Arial, sans-serif;
+      font-weight: 900;
+      font-size: 38px;
+      padding-top: 72px;
+      padding-bottom: 55px;
+      color: #b7b7b7; }
+    main h3.seperator {
+      border-top: 1px solid rgba(0, 0, 0, 0.1); }
+
+  /* Helper Class: Container */
+  .row {
+    width: 720px;
+    margin: 0 auto; }
+
+  /* Helper Class: Columns */
+  .col1 {
+    float: left;
+    margin-right: -100%;
+    width: 50.83333px; }
+
+  .col2 {
+    float: left;
+    margin-right: -100%;
+    width: 111.66667px; }
+
+  .col3 {
+    float: left;
+    margin-right: -100%;
+    width: 172.5px; }
+
+  .col4 {
+    float: left;
+    margin-right: -100%;
+    width: 233.33333px; }
+
+  .col5 {
+    float: left;
+    margin-right: -100%;
+    width: 294.16667px; }
+
+  .col6 {
+    float: left;
+    margin-right: -100%;
+    width: 355px; }
+
+  .col7 {
+    float: left;
+    margin-right: -100%;
+    width: 415.83333px; }
+
+  .col8 {
+    float: left;
+    margin-right: -100%;
+    width: 476.66667px; }
+
+  .col9 {
+    float: left;
+    margin-right: -100%;
+    width: 537.5px; }
+
+  .col10 {
+    float: left;
+    margin-right: -100%;
+    width: 598.33333px; }
+
+  .col11 {
+    float: left;
+    margin-right: -100%;
+    width: 659.16667px; }
+
+  .col12 {
+    float: left;
+    margin-right: -100%;
+    width: 720px; }
+
+  /* Helper Class: Horizontal Position */
+  .push0 {
+    margin-left: 0px; }
+
+  .push1 {
+    margin-left: 60.83333px; }
+
+  .push2 {
+    margin-left: 121.66667px; }
+
+  .push3 {
+    margin-left: 182.5px; }
+
+  .push4 {
+    margin-left: 243.33333px; }
+
+  .push5 {
+    margin-left: 304.16667px; }
+
+  .push6 {
+    margin-left: 365px; }
+
+  .push7 {
+    margin-left: 425.83333px; }
+
+  .push8 {
+    margin-left: 486.66667px; }
+
+  .push9 {
+    margin-left: 547.5px; }
+
+  .push10 {
+    margin-left: 608.33333px; }
+
+  .push11 {
+    margin-left: 669.16667px; }
+
+  main, section, aside {
+    margin-bottom: 10px; }
+
+  h1:after {
+    content: " 720"; }
+
+  section {
+    float: left;
+    margin-right: -100%;
+    width: 476.66667px; }
+
+  aside {
+    float: left;
+    margin-right: -100%;
+    width: 233.33333px;
+    margin-left: 486.66667px; } }
+@media screen and (min-width: 960px) {
+  * {
+    outline: none; }
+
+  html, body {
+    background: #f5f5f5; }
+
+  html {
+    height: 100%; }
+
+  body {
+    min-height: 100%; }
+
+  main {
+    width: 960px;
+    max-width: 960px;
+    margin: 0 auto;
+    margin-bottom: 80px; }
+    main h3 {
+      width: 100%;
+      text-align: center;
+      font-family: 'Raleway', Arial, sans-serif;
+      font-weight: 900;
+      font-size: 38px;
+      padding-top: 72px;
+      padding-bottom: 55px;
+      color: #b7b7b7; }
+    main h3.seperator {
+      border-top: 1px solid rgba(0, 0, 0, 0.1); }
+
+  /* Helper Class: Container */
+  .row {
+    width: 960px;
+    margin: 0 auto; }
+
+  /* Helper Class: Columns */
+  .col1 {
+    float: left;
+    margin-right: -100%;
+    width: 61.66667px; }
+
+  .col2 {
+    float: left;
+    margin-right: -100%;
+    width: 143.33333px; }
+
+  .col3 {
+    float: left;
+    margin-right: -100%;
+    width: 225px; }
+
+  .col4 {
+    float: left;
+    margin-right: -100%;
+    width: 306.66667px; }
+
+  .col5 {
+    float: left;
+    margin-right: -100%;
+    width: 388.33333px; }
+
+  .col6 {
+    float: left;
+    margin-right: -100%;
+    width: 470px; }
+
+  .col7 {
+    float: left;
+    margin-right: -100%;
+    width: 551.66667px; }
+
+  .col8 {
+    float: left;
+    margin-right: -100%;
+    width: 633.33333px; }
+
+  .col9 {
+    float: left;
+    margin-right: -100%;
+    width: 715px; }
+
+  .col10 {
+    float: left;
+    margin-right: -100%;
+    width: 796.66667px; }
+
+  .col11 {
+    float: left;
+    margin-right: -100%;
+    width: 878.33333px; }
+
+  .col12 {
+    float: left;
+    margin-right: -100%;
+    width: 960px; }
+
+  /* Helper Class: Horizontal Position */
+  .push0 {
+    margin-left: 0px; }
+
+  .push1 {
+    margin-left: 81.66667px; }
+
+  .push2 {
+    margin-left: 163.33333px; }
+
+  .push3 {
+    margin-left: 245px; }
+
+  .push4 {
+    margin-left: 326.66667px; }
+
+  .push5 {
+    margin-left: 408.33333px; }
+
+  .push6 {
+    margin-left: 490px; }
+
+  .push7 {
+    margin-left: 571.66667px; }
+
+  .push8 {
+    margin-left: 653.33333px; }
+
+  .push9 {
+    margin-left: 735px; }
+
+  .push10 {
+    margin-left: 816.66667px; }
+
+  .push11 {
+    margin-left: 898.33333px; }
+
+  main {
+    margin-bottom: 20px; }
+
+  section {
+    float: left;
+    margin-right: -100%;
+    width: 633.33333px; }
+
+  aside {
+    float: left;
+    margin-right: -100%;
+    width: 306.66667px;
+    margin-left: 653.33333px; }
+
+  h1:after {
+    content: " 960"; } }

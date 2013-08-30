@@ -1,34 +1,155 @@
-@import "grid";
+@import "grid/_grid.scss";
 @import "mixins";
 @import "typo";
 
 
+//@import 'compass';
+//@import 'compass/reset';
+//@import 'compass/css3';
+
+//@import "icons/*.png";
+//@include all-icons-sprites;
+
+//@import 'grid/grid';
+
+
+// //////////////////////
+// CONFIG
+// //////////////////////
+
+//$total_width: 960px;
+$container_margin: auto;
+$gutter_width: 20px;
+
+$color_yellow: #fff200;
+$color_nearlyblack: #252525;
+$color_nearlynearlyblack: #454545;
+$color_body: #636363;
+$color_headlines: #b7b7b7;
+
+$max_width: 960px;
+
+// //////////////////////
+// MODULE STYLES
+// //////////////////////
+
+@import "grid/modules/global-styles";
+//@import "examples/modules/overlay";
+//@import "examples/modules/nav";
+//@import "examples/modules/header-example";
+//@import "examples/modules/footer";
+
+
+header, nav, footer {
+	width: 100% !important;
+}
+
+header.center, nav .center, footer .center{
+	margin: 0 auto;
+}
 
 
 
 
 
-/* */
-@media screen and (max-width: #{$mobile_portrait}) {
-
+main{ 
+	@include container(); 
+	@include clearfix();
+}
+section,aside{
+	@include clearfix();
 
 }
 
 
-/* */
-@media screen and (max-width: #{$mobile_landscape}) {
+///////////////////
+// LAYOUT < 720  //
+///////////////////
 
-    
+$total_width: 320px;
+$container_margin: auto;
+$gutter_width: 10px;
+
+@import "grid/modules/global-styles";
+//@import "examples/modules/overlay";
+//@import "examples/modules/nav";
+//@import "examples/modules/header-example";
+//@import "examples/modules/footer";
+
+@include generate_helper_classes();
+
+main,section,aside{
+	margin-bottom: $gutter_width;
+}
+
+section { 
+	@include column(12);	
+}
+
+aside { @include column(12); }
+
+h1:after{
+	content: " 320";
+}
+
+///////////////////
+// LAYOUT > 720  //
+///////////////////
+
+@media screen and (min-width: 720px) {
+
+	$total_width: 720px;
+	$container_margin: auto;
+	$gutter_width: 10px;
+
+	@import "grid/modules/global-styles";
+	//@import "examples/modules/overlay";
+	//@import "examples/modules/nav";
+	//@import "examples/modules/header-example";
+	//@import "examples/modules/footer";
+	@include generate_helper_classes();
+
+	main,section,aside{
+		margin-bottom: $gutter_width;
+	}
+
+	h1:after{
+		content: " 720";
+	}
+
+	section { @include column(8); }
+	aside { @include column(4); @include push(8) }
 
 }
 
+///////////////////
+// LAYOUT > 960  //
+///////////////////
 
-/*   */
-@media screen and (max-width: #{$tablet_portrait}) {
- 
-}
+@media screen and (min-width: 960px) {
 
-/*  */
-@media screen and (max-width: #{$tablet_landscape}) {
- 
+	$total_width: 960px;
+	$container_margin: auto;
+	$gutter_width: 20px;
+
+	@import "grid/modules/global-styles";
+	//@import "examples/modules/overlay";
+	//@import "examples/modules/nav";
+	//@import "examples/modules/header-example";
+	//@import "examples/modules/footer";
+	@include generate_helper_classes();
+
+	main{
+		margin-bottom: $gutter_width;
+	}
+
+	section { @include column(8); }
+	aside { 
+		@include column(4);
+		@include push(8);	
+	 }
+
+	h1:after{
+		content: " 960";
+	}
 }

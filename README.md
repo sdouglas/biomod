@@ -45,3 +45,8 @@ This site offers search based on an RSS feed, useful for static sites. I'll inve
 http://tapirgo.com/
 
 
+
+### Noteworthy links
+
+http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html
+

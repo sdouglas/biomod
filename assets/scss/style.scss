@@ -21,14 +21,14 @@ footer {}
 
 
 @include media($mobile) { // grid has 4 columns in total
-    body {background: red; }
+   // body {background: red; }
 
     section{@include span-columns(4);}
 	aside{@include span-columns(4);}
 }
 
 @include media($tablet) { // grid has 8 columns in total
-    body 	{background: yellow;}
+   // body 	{background: yellow;}
 
     section {@include span-columns(5);}
 	aside	{@include span-columns(3);}
@@ -36,14 +36,14 @@ footer {}
 }
 
 @include media($desktop) { // grid has 12 columns in total
-    body { background: green; }
+   // body { background: green; }
 
     section {@include span-columns(7);}
 	aside	{@include span-columns(5);}
 }
 
 @include media($largedesktop) { // grid has 16 columns in total
-    body 	{background: purple;}
+   // body 	{background: purple;}
 
     section {@include span-columns(8);}
 	aside	{@include span-columns(8);}

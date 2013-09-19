@@ -42,20 +42,30 @@
           Did you know that your web browser is a bit old? Some of the content on this site might not work right as a result. <a href="http://whatbrowser.org">Upgrade your browser</a> for a faster, better, and safer web experience.
       </section>
     <![endif]-->
-
-    <h1><a href="/">{{ site.name }}</a></h1>
-
+    <header>
+      <nav>
+        <!--
+        <a href="/">{{ site.name }}</a>
+        -->
+        <a id="biomod-logo-dark" href="/"></a>
+      </nav>
+    </header>
 
     <main role="main">
       
   
-  
+
 
 
           {{ content }}
 
 
-    </main> 
+    </main>
+
+    <footer>
+      {% include footer.html %}
+      
+    </footer>
 
     <!-- Javascript -->
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->

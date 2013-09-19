@@ -1,0 +1,31 @@
+$crimson: #ff2935;
+$charcoal: #272727;
+
+$brown:#716b67;
+
+
+
+header{
+	background:$charcoal
+}
+
+body{
+	background: $brown;
+}
+
+
+section {
+	// sections default with white background and 0 padding.
+	// to give padding to text, wrap it in paragraph tag
+	background:white;
+	p {padding:20px}
+}
+
+
+#biomod-logo-dark{
+	background:url(../images/biomod-logo-dark.jpg) no-repeat;
+	height:66px;
+	width:247px;
+	display:block;
+	text-align:-10000px;
+}

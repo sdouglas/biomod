@@ -3,19 +3,26 @@
 @import "neat/neat";
 
 @import "typo";
+@import "colors";
 
+
+body {
+	margin:0;
+}
 
 main { // this is the outer container
 	  @include outer-container;
 	  margin:0 auto;
+	  min-height:600px;
 	  // wow, this line below adds padding to the MAIN element. works well. 
 	  // normally id add this to aside and section instead. lets roll with this.
-	  @include pad(30px 20px);
+	  @include pad(30px 0px);
 }
 
-header {}
+header {padding:20px 0;}
+header nav {@include outer-container;}
 
-footer {}
+footer {background:black;padding:20px 0;}
 
 
 
@@ -24,14 +31,14 @@ footer {}
    // body {background: red; }
 
     section{@include span-columns(4);}
-	aside{@include span-columns(4);}
+	aside section{@include span-columns(4);}
 }
 
 @include media($tablet) { // grid has 8 columns in total
    // body 	{background: yellow;}
 
     section {@include span-columns(5);}
-	aside	{@include span-columns(3);}
+	aside section {@include span-columns(3);}
 
 }
 
@@ -39,13 +46,13 @@ footer {}
    // body { background: green; }
 
     section {@include span-columns(7);}
-	aside	{@include span-columns(5);}
+	aside section {@include span-columns(5);}
 }
 
 @include media($largedesktop) { // grid has 16 columns in total
    // body 	{background: purple;}
 
     section {@include span-columns(8);}
-	aside	{@include span-columns(8);}
+	aside section {@include span-columns(8);}
 
 }

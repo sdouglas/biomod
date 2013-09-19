@@ -1,8 +1,8 @@
 $crimson: #ff2935;
 $charcoal: #272727;
 
-$brown:#716b67;
-
+$brown:	#716b67;
+$blue:	#009dd4;
 
 
 header{
@@ -19,6 +19,7 @@ section {
 	// to give padding to text, wrap it in paragraph tag
 	background:white;
 	p {padding:20px}
+	header{ background:$blue;}
 }
 
 

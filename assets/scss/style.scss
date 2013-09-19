@@ -19,8 +19,25 @@ main { // this is the outer container
 	  @include pad(30px 0px);
 }
 
+// omega class
+.omega {@include omega();}
+
+.row {
+	@include outer-container;
+	@include pad(0 0 20px 0);
+
+}
+
+// top header
 header {padding:20px 0;}
 header nav {@include outer-container;}
+
+// headers inside section boxes
+// color of which is in color.scss
+section header {
+	padding:0;
+	margin:0;
+}
 
 footer {background:black;padding:20px 0;}
 
@@ -32,6 +49,9 @@ footer {background:black;padding:20px 0;}
 
     section{@include span-columns(4);}
 	aside section{@include span-columns(4);}
+
+	// frontpage column, third of the width of #main.
+	section.third{@include span-columns(4);}
 }
 
 @include media($tablet) { // grid has 8 columns in total
@@ -40,6 +60,9 @@ footer {background:black;padding:20px 0;}
     section {@include span-columns(5);}
 	aside section {@include span-columns(3);}
 
+	// frontpage column, third of the width of #main.
+	section.third{@include span-columns(8);}
+
 }
 
 @include media($desktop) { // grid has 12 columns in total
@@ -47,6 +70,9 @@ footer {background:black;padding:20px 0;}
 
     section {@include span-columns(7);}
 	aside section {@include span-columns(5);}
+
+	// frontpage column, third of the width of #main.
+	section.third{@include span-columns(4);}
 }
 
 @include media($largedesktop) { // grid has 16 columns in total
@@ -54,5 +80,8 @@ footer {background:black;padding:20px 0;}
 
     section {@include span-columns(8);}
 	aside section {@include span-columns(8);}
+
+	// frontpage column, third of the width of #main.
+	section.third{@include span-columns(5);}
 
 }

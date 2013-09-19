@@ -8,14 +8,14 @@
 
 body { 
     font-family: "Helvetica Neue", Arial, sans-serif;
-    font-size: 106.25%; 
-    line-height: 1.470588235; 
+    font-size: 100%; 
+    line-height: 1.5; 
     color: #272727; 
     background: #ffffff;
 }
 
 p { 
-    margin-bottom: 1.529411765em; 
+    margin-bottom: 1.5em; 
 }
 
 @media (max-width:$mobile_landscape) {
@@ -85,8 +85,8 @@ a:hover img {
  *  Styling for lists */
 
 ul, ol { 
-    margin-bottom: 1.529411765em; 
-    margin-left: 2em;
+    margin-bottom: 1.5em; 
+    margin-left: 0em;
 }
 
 ul ul, ul ol, ol ol, ol ul { 
@@ -118,8 +118,8 @@ ol {
 h1, h2, h3, h4, h5, h6 { 
     line-height: 1.2; 
     font-weight: normal;
-    margin-bottom: 1em; 
-    padding-top: 1em;
+    margin:0;
+   
 }
 
 h1, .h1 { 
@@ -129,6 +129,7 @@ h1, .h1 {
 
 h2, .h2 { 
     font-size: 1.352941176em; 
+    padding:10px;
 }
 
 h3, .h3 { 

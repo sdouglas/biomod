@@ -50,3 +50,6 @@ http://tapirgo.com/
 
 http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html
 
+
+[Mr. Poole, an tool for using jekyll](https://github.com/mmcclimon/mr_poole)
+

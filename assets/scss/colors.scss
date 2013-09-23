@@ -1,17 +1,20 @@
-$crimson: #ff2935;
-$charcoal: #272727;
+$crimson: #ff2935; 
+$charcoal: #272727;// not used
 
-$brown:	#716b67;
+$brown:	#716b67;// not used
+
+$linen:#edeae3;
 $blue:	#009dd4;
 
-
 header{
-	background:$charcoal
+	background:$charcoal;
 }
 
 body{
-	background: $brown;
+	background: $linen;
 }
+
+footer {background:$brown}
 
 
 section {
@@ -21,6 +24,7 @@ section {
 	p {padding:20px}
 	header{ background:$blue;}
 }
+div.third{background:white}
 
 
 #biomod-logo-dark{

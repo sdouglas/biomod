@@ -6,38 +6,42 @@ title: Your New Jekyll Site
 
 <div class="row">
 
-	<section class="third">
-		<p>
-			BIOMOD is a design competition in which undergraduate teams compete to master control of biomolecules on the nanometer scale. Focus areas may include—but are not limited to—biomolecular robotics, biomolecular logic and computing, and structural bionanotechnology. Students conceive and execute projects during the summer and then gather in Boston in November to present their work and win awards.
-		</p>
+<section class="third">
+<p>
+BIOMOD is a design competition in which undergraduate teams compete to master control of biomolecules on the nanometer scale. Focus areas may include—but are not limited to—biomolecular robotics, biomolecular logic and computing, and structural bionanotechnology. Students conceive and execute projects during the summer and then gather in Boston in November to present their work and win awards.
+</p>	
+</section>
+
+<section class="third">
+<header>
+
+<h2>Latest News</h2>
+
+</header>
+  
+<ul>
+{% for post in site.posts %}
+<li>
+<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endfor %}
+</ul>
+	
+</section>
+
+<div class="third ">
+	<section>
+	<p>
+	Share
+	</p>
 	</section>
+</div>
 
-	<section class="third">
-		<header>
-			<h2>Latest News</h2>
-		</header>
-
-		<p>
-			
-			<ul>
-				{% for post in site.posts %}
-				<li>
-					<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-				</li>
-			    {% endfor %}
-			</ul>
-		</p>
-
-	</section>
-
-	<section class="third ">
-		Share
-	</section>
 </div>
 
 
 <section>
-	<p>
-	Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-	</p>
+<p>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+</p>	
 </section>

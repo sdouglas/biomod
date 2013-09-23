@@ -29,6 +29,9 @@
     <!-- stylesheet -->
     <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
 
+    <!-- typeface -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+
     <!-- HTML5 Shim for IE 6-8 -->
     <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -51,20 +54,12 @@
       </nav>
     </header>
 
-    <main role="main">
-      
-  
-
-
-
-          {{ content }}
-
-
-    </main>
+    <div class="row main">    
+      {{ content }}
+    </div>
 
     <footer>
-      {% include footer.html %}
-      
+      {% include footer.html %}  
     </footer>
 
     <!-- Javascript -->

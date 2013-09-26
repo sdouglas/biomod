@@ -77,6 +77,17 @@ ol {
     list-style: decimal; 
 }
 
+ul.horizontal {
+    float:right;
+
+    li {
+      display: inline;
+      list-style-type: none;
+      padding-right: 20px;
+      float: left;
+    }
+}
+
 /*  Removes list styling.
  *  For semantic reasons, should only 
  *  be used on unordered lists. */
@@ -92,8 +103,8 @@ ol {
  *  but style it as another heading type. */
 
 h1, h2, h3, h4, h5, h6 { 
+    font-family: 'Bree Serif', serif;
     line-height: 1.2; 
-    font-weight:700;
     margin:0;
    
 }

@@ -54,6 +54,8 @@ footer {padding:20px 0;}
 
 	// frontpage column, third of the width of #main.
 	.third{@include span-columns(4);}
+	.half {@include span-columns(4);}
+
 
 }
 
@@ -65,6 +67,7 @@ footer {padding:20px 0;}
 
 	// frontpage column, third of the width of #main.
 	.third{@include span-columns(8);}
+	.half {@include span-columns(4);}
 
 }
 

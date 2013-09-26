@@ -79,7 +79,11 @@ ol {
 
 ul.horizontal {
     float:right;
-
+    font-size:16px;
+    line-height:21px;
+    text-transform:uppercase;
+    a:link,a:visited {color:#ccc}
+    a:hover {color:white}
     li {
       display: inline;
       list-style-type: none;

@@ -6,12 +6,24 @@
     Sets font styles for entire site.
  * ============================================================= */
 
-body { 
-    //font-family: "Helvetica Neue", Arial, sans-serif;
-    font-family: 'Open Sans', sans-serif;
+
+@mixin regular-text {
     font-weight:300;
     font-size: 16px; 
     line-height: 28px; 
+}    
+
+@mixin small-text {
+    font-weight:300;
+    font-size: 14px; 
+    line-height: 28px; 
+}    
+
+body { 
+    //font-family: "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
+
+    @include regular-text;    
     color: #666; 
     background: #ffffff;
 }
@@ -19,6 +31,11 @@ body {
 p { 
     margin-bottom: 1.5em; 
 }
+
+footer {
+//    @include small-text;
+}
+
 
 
 /*  Colors  */
@@ -112,32 +129,32 @@ h1, h2, h3, h4, h5, h6 {
    
 }
 
-h1, .h1 { 
+h1 { 
     font-size: 1.529411765em; 
     padding-top: .5em;
 }
 
-h2, .h2 { 
-    font-size: 1.352941176em; 
-    padding:10px;
+h2 { 
+    font-size: 28px;
+    line-height:33px;
 }
 
-h3, .h3 { 
-    font-size: 1.176470588em; 
+h3 { 
+    font-size: 24px;
+    line-height:29px;
 }
 
-h4, h5, h6,
-.h4, .h5, .h6 { 
-    font-size: .882352941em; 
-    font-style: italic; 
+h4, h5, h6 { 
+    font-size: 20px;
+    line-height:25px;
 }
 
-h4, .h4 { 
+h4 { 
     text-transform: uppercase; 
 }
 
 @media (min-width: 40em) {
-    h1, .h1 {
+    h1 {
         font-size: 1.764705882em;
     }
 }

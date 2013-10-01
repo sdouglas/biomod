@@ -47,7 +47,10 @@ This site offers search based on an RSS feed, useful for static sites. I'll inve
 
 http://tapirgo.com/
 
+### Before going to prod
 
+* Add analytics code to default.html template (in the footer there)
+* Remove the line in /.gitignore pertaining to the assets/css/* directory. 
 
 ### Noteworthy links
 

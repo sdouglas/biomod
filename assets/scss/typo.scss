@@ -33,7 +33,9 @@ p {
 }
 
 footer {
-//    @include small-text;
+   @include small-text;
+   
+
 }
 
 
@@ -130,8 +132,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { 
-    font-size: 1.529411765em; 
-    padding-top: .5em;
+    font-size: 33px;
+    line-height:39px;
 }
 
 h2 { 
@@ -155,7 +157,7 @@ h4 {
 
 @media (min-width: 40em) {
     h1 {
-        font-size: 1.764705882em;
+       
     }
 }
 

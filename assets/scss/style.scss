@@ -23,7 +23,6 @@ body {
 
 .main { // this is the outer container
 	 
-	  min-height:600px;
 	  // wow, this line below adds padding to the MAIN element. works well. 
 	  // normally id add this to aside and section instead. lets roll with this.
 	  @include pad(30px 0px);

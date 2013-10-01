@@ -55,7 +55,7 @@ footer {padding:20px 0;}
 	// frontpage column, third of the width of #main.
 	.third{@include span-columns(4);}
 	.half {@include span-columns(4);}
-
+	.quarter{@include span-columns(4);}
 
 }
 
@@ -68,6 +68,7 @@ footer {padding:20px 0;}
 	// frontpage column, third of the width of #main.
 	.third{@include span-columns(8);}
 	.half {@include span-columns(4);}
+	.quarter{@include span-columns(2);}
 
 }
 
@@ -79,6 +80,8 @@ footer {padding:20px 0;}
 
 	// frontpage column, third of the width of #main.
 	.third{@include span-columns(4);}
+	.half {@include span-columns(6);}
+	.quarter{@include span-columns(3);}	
 }
 
 @include media($largedesktop) { // grid has 16 columns in total
@@ -89,5 +92,7 @@ footer {padding:20px 0;}
 
 	// frontpage column, third of the width of #main.
 	.third{@include span-columns(5);}
+	.half {@include span-columns(8);}
+	.quarter{@include span-columns(4);}	
 
 }

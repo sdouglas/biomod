@@ -31,6 +31,9 @@ Now, the site only loads the .css files, it doesn't know about the the .scss fil
 
 Never change a .css file, only change a .scss file, or the SASS compiler will overwrite those changes.
 
+### Important issue with CSS
+  
+CSS files aren't being tracked until we're ready for production: this is because every commit creates stupid conflicts needing merges. SO in production, the line in .gitignore must be removed so git just tracks css files again.
 
 ### technologies used
 

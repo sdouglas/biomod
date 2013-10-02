@@ -84,8 +84,11 @@ main section, aside section {
 	aside section {@include span-columns(3);}
 
 	// frontpage column, third of the width of #main.
-	.third{@include span-columns(8);}
-	.two-thirds{@include span-columns(8);}
+	.third{
+		@include span-columns(2.6);
+
+	}
+	.two-thirds{@include span-columns(5.2);}
 	.half {@include span-columns(4);}
 	.quarter{@include span-columns(2);}
 

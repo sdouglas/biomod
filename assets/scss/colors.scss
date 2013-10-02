@@ -57,8 +57,11 @@ div.third{background:white}
 	padding: 30px 20px;
 	color: $snow;
 }
-.featured {
+.featured.salmon {
 	background: $salmon;
+}
+.featured.white {
+	background: white;
 }
 
 /* backgrounds */

@@ -133,8 +133,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { 
-    font-size: 33px;
-    line-height:39px;
+    font-size: 32px;
+    line-height:45px;
+
+}
+#mission{
+
+    h1{
+        letter-spacing:-1px;
+        text-align:right;
+        color:black;
+    }
 }
 
 h2 { 

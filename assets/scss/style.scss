@@ -41,6 +41,11 @@ section header {
 
 footer {padding-top:20px;}
 
+main section, aside section { 	
+	@include pad(20px);
+}
+
+
 .featured {padding:20px 0;}
 
 
@@ -48,11 +53,12 @@ footer {padding-top:20px;}
 
    // body {background: red; }
 
-    section{@include span-columns(4);}
+    main {@include span-columns(4);}
 	aside section{@include span-columns(4);}
 
 	// frontpage column, third of the width of #main.
 	.third{@include span-columns(4);}
+	.two-thirds{@include span-columns(4);}
 	.half {@include span-columns(4);}
 	.quarter{@include span-columns(4);}
 
@@ -61,11 +67,12 @@ footer {padding-top:20px;}
 @include media($tablet) { // grid has 8 columns in total
    // body 	{background: yellow;}
 
-    section {@include span-columns(5);}
+    main {@include span-columns(5);}
 	aside section {@include span-columns(3);}
 
 	// frontpage column, third of the width of #main.
 	.third{@include span-columns(8);}
+	.two-thirds{@include span-columns(8);}
 	.half {@include span-columns(4);}
 	.quarter{@include span-columns(2);}
 
@@ -74,11 +81,12 @@ footer {padding-top:20px;}
 @include media($desktop) { // grid has 12 columns in total
    // body { background: green; }
 
-    section {@include span-columns(7);}
-	aside section {@include span-columns(5);}
+    main {@include span-columns(8);}
+	aside section {@include span-columns(4);}
 
 	// frontpage column, third of the width of #main.
 	.third{@include span-columns(4);}
+	.two-thirds{@include span-columns(8);}
 	.half {@include span-columns(6);}
 	.quarter{@include span-columns(3);}	
 }
@@ -86,11 +94,12 @@ footer {padding-top:20px;}
 @include media($largedesktop) { // grid has 16 columns in total
    // body 	{background: purple;}
 
-    section {@include span-columns(8);}
-	aside section {@include span-columns(8);}
+    main {@include span-columns(11);}
+	aside section {@include span-columns(5);}
 
 	// frontpage column, third of the width of #main.
 	.third{@include span-columns(5);}
+	.two-thirds{@include span-columns(11);}
 	.half {@include span-columns(8);}
 	.quarter{@include span-columns(4);}	
 

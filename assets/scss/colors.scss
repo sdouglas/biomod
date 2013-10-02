@@ -12,8 +12,14 @@ header{
 	background:$charcoal;
 }
 
+// default body class is light grey
 body{
 	background: $snow;
+}
+
+// body class on blogs (posts) is dark
+body.post{
+	background:$charcoal
 }
 
 footer {
@@ -30,7 +36,7 @@ section {
 	// sections default with white background and 0 padding.
 	// to give padding to text, wrap it in paragraph tag
 	background:white;
-	p,h1,h2,h3,h4,h5,h6 {padding:20px}
+	// p,h1,h2,h3,h4,h5,h6 {padding:20px}
 
 	header{ background:$blue;}
 }
@@ -53,4 +59,9 @@ div.third{background:white}
 }
 .featured {
 	background: $salmon;
+}
+
+/* backgrounds */
+.charcoal {
+	background:$charcoal;
 }

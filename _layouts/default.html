@@ -38,7 +38,7 @@
     <![endif]-->
 
   </head>
-  <body>
+  <body class="{% if page.body_class %} {{ page.body_class }}{% endif %}">
     <!-- Old Browser Warning -->
     <!--[if lt IE 8]>
       <section class="container">

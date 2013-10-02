@@ -61,17 +61,19 @@ tshirt ad
 
 		<h2>Latest News</h2>
 	
-	  
-		<ul>
-		{% for post in site.posts %}
-		<li>
-		<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+		<div class="posts flexslider">
+			<ul class="slides">
+			{% for post in site.posts %}
+			<li>
+			<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
 
-		{{ post.excerpt }}
+			{{ post.excerpt }}
 
-		</li>
-		{% endfor %}
-		</ul>
+			</li>
+			{% endfor %}
+			</ul>
+		</div>
+		<div class="post-nav">nav me</div>
 	</div>
 
 </div><!--end .row-->

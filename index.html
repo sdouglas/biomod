@@ -10,7 +10,7 @@ title: Biomod | The Biomolecular Design Competition
 
 		<div id="mission">
 			<h1>
-				BIOMOD is a design competition in which undergraduate teams compete to master control of biomolecules on the nanometer scale.<!-- Focus areas may include — but are not limited to — biomolecular robotics, biomolecular logic and computing, and structural bionanotechnology. Students conceive and execute projects during the summer and then gather in Boston in November to present their work and win awards.-->
+				BIOMOD is an <em>annual design competition</em> in which undergraduate teams compete to master control of biomolecules on the nanometer scale.<!-- Focus areas may include — but are not limited to — biomolecular robotics, biomolecular logic and computing, and structural bionanotechnology. Students conceive and execute projects during the summer and then gather in Boston in November to present their work and win awards.-->
 			</h1>
 		</div>
 
@@ -59,15 +59,18 @@ tshirt ad
 
 	<div class="half">
 
-		<h2>Latest News</h2>
+		<h2>Latest Blogs<small><a href="/blogs">See All</a></small></h2>
 	
 		<div class="posts flexslider">
 			<ul class="slides">
 			{% for post in site.posts %}
 			<li>
-			<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+			<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+			<span>{{ post.date | date_to_string }}</span> 
 
 			{{ post.excerpt }}
+
+			<a href="{{ post.url }}">Continue Reading</a>
 
 			</li>
 			{% endfor %}

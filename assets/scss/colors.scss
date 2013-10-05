@@ -68,3 +68,10 @@ div.third{background:white}
 .charcoal {
 	background:$charcoal;
 }
+
+h1{
+    em {
+    	font-style:normal;
+        color:$salmon;
+    }
+}

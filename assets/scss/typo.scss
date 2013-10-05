@@ -37,6 +37,11 @@ footer .quarter {
    
 
 }
+footer.subfooter p{
+    @include small-text;
+    color:#868a8d;
+    small{float:right}
+}
 
 
 
@@ -150,6 +155,7 @@ h2 {
     font-size: 28px;
     line-height:33px;
 }
+h2 small {float:right;font-size:20px;}
 
 h3 { 
     font-size: 24px;

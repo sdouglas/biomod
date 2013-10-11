@@ -9,12 +9,12 @@ $blue:	#009dd4;
 $salmon:#fa4951;
 
 header{
-	background:$charcoal;
+	;
 }
 
 // default body class is light grey
 body{
-	background: $snow;
+	background: white;
 }
 
 // body class on blogs (posts) is dark
@@ -31,6 +31,10 @@ footer.subfooter{
 	background:$charcoal;
 }
 
+header ul.horizontal {
+    background:$charcoal;
+    padding:10px 10px 10px 14px;
+}
 
 section {
 	// sections default with white background and 0 padding.
@@ -43,13 +47,28 @@ section {
 div.third{background:white}
 
 
-#biomod-logo-dark{
-	background:url(../images/biomod_logo.png) no-repeat;
+#biomod{
+	width:200px;
 	height:50px;
-	//width:px;
+	background:url(../images/biomodlogo.png) no-repeat;
 	display:block;
-	text-align:-10000px;
+	float:left;
+//	text-align:-10000px;
 
+}
+#wyss {
+	width:219px;
+	height:70px;
+	background:url(../images/wysslogo.png) no-repeat;
+	display:block;
+	float:right;
+}
+
+#tshirt {
+	padding:0;
+	img {width:100%}
+	p{padding:20px;}
+	//background:url(../images/tshirt.png) no-repeat;
 }
 
 .callout {
@@ -75,3 +94,4 @@ h1{
         color:$salmon;
     }
 }
+

@@ -158,7 +158,10 @@ h2 {
     font-size: 28px;
     line-height:33px;
 }
-h2 small {float:right;font-size:20px;}
+h2#latest-blogs{
+    margin-bottom:20px;
+}
+h2 small {float:right;font-size:16px;}
 
 h3 { 
     font-size: 24px;

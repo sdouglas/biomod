@@ -2,9 +2,10 @@ $crimson: #ff2935;
 $charcoal: #42484d;
 $midgray: #d9d9d9;
 
+
 $brown:	#716b67;// not used
 
-$snow:#f9f9f9; //not used
+$snow:#f0f0f0; //not used
 $blue:	#009dd4;
 
 $salmon:#fa4951;
@@ -78,10 +79,12 @@ div.third{background:white}
 }
 
 .callout {
-	background: $charcoal;
+	background: $snow;
 	padding: 30px 20px;
-	color: $snow;
+	color: #000;
+
 }
+
 .featured.salmon {
 	background: $midgray;// $salmon;
 }

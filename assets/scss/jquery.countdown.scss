@@ -1,16 +1,16 @@
 /* jQuery Countdown styles 1.6.3. */
 
-/* originally just css. turned into a sass file. BKH */
+/* originally just css. turned into a sass file. Not using much of the original styles. BKH */
 
 .countdown {
         font-weight: 800;
         text-align: center;
-        .days { font-size: 5em; line-height: 1; text-align: center; }
+        .days { font-size: 4.7em; text-align: center; margin: 0.35em 0; }
         .days-label { font-size: 2.3em; margin-bottom: 0.3em; }
         .hours,
         .minutes { font-size: 2em; line-height: 1em; padding-top: 0.5em; }
         .hours { }
-        .time-block { float: left; width: 50%; border-top: solid 1px #eee; margin: 12px 0; }
+        .time-block { float: left; width: 50%; border-top: solid 1px #eee; margin: 10px 0; }
 }
 
 .hasCountdown {}

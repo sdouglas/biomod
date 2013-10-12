@@ -54,7 +54,8 @@ main section, aside section {
 #mission {
 	padding:20px;
 }
-
+.highlights .third { }
+.highlights .third { min-height: 327px; }
 
 
 @include media($mobile) { // grid has 4 columns in total

@@ -71,9 +71,10 @@ div.third{background:white}
 }
 
 #tshirt {
-	padding:0;
+	background: $snow;
+        padding:0;
 	img {width:100%}
-	p{padding:20px;}
+	p{padding:8px 20px;}
 	//background:url(../images/tshirt.png) no-repeat;
 }
 
@@ -82,7 +83,7 @@ div.third{background:white}
 	padding: 30px 20px;
 	color: $snow;
 }
-.featured.salmon {
+.featured.highlights {
 	background: $midgray;// $salmon;
 }
 .featured.white {
@@ -102,9 +103,9 @@ h1{
 }
 
 .section-title {
-    background: #f0f0f0;
+    background: $snow;
 }
 .section-caption {
-        background: #f0f0f0;
-        &.action { background: #cecece; }
+        background: $snow;
+        color: #888;
 }

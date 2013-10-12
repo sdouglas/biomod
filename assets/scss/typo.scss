@@ -103,18 +103,19 @@ ol {
 
 ul.horizontal {
     float:right;
-    font-size:14px;
-    line-height:20px;
-    text-transform:uppercase;
+    font-size:15px;
+    line-height:21px;
+    //text-transform:uppercase;
     padding:10px 10px 10px 20px;
     a:link,a:visited {color:#ccc}
     a:hover {color:white}
     li {
       display: inline;
       list-style-type: none;
-      padding-right: 20px;
+      
       float: left;
     }
+    span {margin:0 10px}
 }
 
 /*  Removes list styling.
@@ -146,6 +147,7 @@ h1 {
 #mission{
 
     h1{
+        margin-top:-15px;
         letter-spacing:-1px;
         text-align:right;
         color:black;

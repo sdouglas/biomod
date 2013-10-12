@@ -10,7 +10,7 @@ $blue:	#009dd4;
 $salmon:#fa4951;
 
 header{
-	;
+	background:white;
 }
 
 // default body class is light grey
@@ -32,9 +32,13 @@ footer.subfooter{
 	background:$charcoal;
 }
 
-header ul.horizontal {
-    background:$charcoal;
-
+header ul.horizontal{
+	background:$midgray;
+	padding-right:20px;
+	a:link,a:visited {
+    //background:$charcoal;
+    color:#444;
+	}
 }
 
 section {
@@ -63,6 +67,7 @@ div.third{background:white}
 	background:url(../images/wysslogo.png) no-repeat;
 	display:block;
 	float:right;
+	margin-top:4px;
 }
 
 #tshirt {

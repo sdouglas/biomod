@@ -16,7 +16,7 @@ $(function(){
                 // Since jamboree is in Cambridge, we make sure time is EST, 5 hours behind UTC
                 until: $.countdown.UTCDate(-5, nextBiomod), 
                 format : 'dHM',
-                // {h<} means omit hour from display when it reaches zero
+                // {h<}...{h>} means omit hour from display when it reaches zero
                 layout :'{d<}<div class="days">{dn}</div><div>{dl}</div>{d>}' +
                         '<div class="time-block">' +
                         '{h<}<div class="hours">{hn}</div><div>{hl}</div>{h>}' +

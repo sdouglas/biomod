@@ -17,7 +17,7 @@ $(function(){
                 until: $.countdown.UTCDate(-5, nextBiomod), 
                 format : 'dHM',
                 // {h<}...{h>} means omit hour from display when it reaches zero
-                layout :'{d<}<div class="days">{dn}</div><div>{dl}</div>{d>}' +
+                layout :'{d<}<div class="days">{dn}</div><div class="days-label">{dl}</div>{d>}' +
                         '<div class="time-block">' +
                         '{h<}<div class="hours">{hn}</div><div>{hl}</div>{h>}' +
                         '</div><div class="time-block">' +

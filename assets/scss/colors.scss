@@ -104,3 +104,10 @@ h1{
     }
 }
 
+.section-title {
+    background: #f0f0f0;
+}
+.section-caption {
+        background: #f0f0f0;
+        &.action { background: #cecece; }
+}

@@ -130,7 +130,7 @@ main section, aside section {
 	aside section {@include span-columns(5);}
 
 	// frontpage column, third of the width of #main.
-	.third{@include span-columns(5);}
+	.third{@include span-columns(5.3333);} // fractional columns! close enough for browsers to round up to 16 total
 	.two-thirds{@include span-columns(11);}
 	.half {@include span-columns(8);}
 	.quarter{@include span-columns(4);}	

@@ -77,6 +77,12 @@ main section, aside section {
 		h1 {font-size:25px}
 	}
 
+	// newsletter signup near footer
+	.callout{min-height:190px;}
+	h3#newsletter-blurb{@include span-columns(4);}
+	#newsletter-form{@include span-columns(4);}
+	#newsletter-button{@include span-columns(4);}
+
 }
 
 @include media($tablet) { // grid has 8 columns in total
@@ -101,6 +107,12 @@ main section, aside section {
 		h1 {font-size:28px}
 	}
 
+	// newsletter signup near footer
+	.callout{min-height:110px;}
+	h3#newsletter-blurb{@include span-columns(3);font-size:17px;line-height:20px;margin-top:0px;}
+	#newsletter-form{@include span-columns(3);}
+	#newsletter-button{@include span-columns(2);}
+
 }
 
 @include media($desktop) { // grid has 12 columns in total
@@ -122,6 +134,14 @@ main section, aside section {
 		@include shift(4);
 		h1 {font-size:30px}
 	}
+
+	// newsletter signup near footer
+	.callout{min-height:110px;}
+	h3#newsletter-blurb{@include span-columns(5);font-size:20px;line-height:28px;margin-top:-7px;}
+	#newsletter-form{@include span-columns(5);}
+	#newsletter-button{@include span-columns(2);}
+
+
 }
 
 @include media($largedesktop) { // grid has 16 columns in total
@@ -143,5 +163,11 @@ main section, aside section {
 		@include shift(6);
 		h1 {font-size:34px}
 	}
+
+	// newsletter signup near footer
+	.callout{min-height:100px;}
+	h3#newsletter-blurb{@include span-columns(9);margin-top:-8px;}
+	#newsletter-form{@include span-columns(5);}
+	#newsletter-button{@include span-columns(2);}
 
 }

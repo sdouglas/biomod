@@ -80,10 +80,9 @@ div.third{background:white}
 }
 
 .callout {
-	background: $snow;
+	background: $blue;
 	padding: 30px 20px;
-	color: #000;
-
+	color:white;
 }
 .featured.highlights {
 	background: $midgray;// $salmon;
@@ -111,3 +110,8 @@ h1{
         background: $snow;
         color: #888;
 }
+
+// newsletter form and button
+#newsletter-form{padding:7px;font-size:20px;border:0}
+input[type=submit]#newsletter-button {background:$salmon;border:0;outline:0;padding:10px 10px;font-size:16px;color:white;}
+

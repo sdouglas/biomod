@@ -1,5 +1,5 @@
 @import "mixins";
-
+@import "colors";
 
 /* =============================================================
     TYPOGRAPHY
@@ -259,8 +259,17 @@ q:before, q:after {
     text-align: center;
     letter-spacing: 2px;
 }
+a.section-title {
+    // so it can be used on <a> elements as well
+    color: #666;
+    display: block; 
+    text-decoration: none;
+    @include transition( 0.2s );
+    &:hover { background: $crimson; color: white; }
+}
 .section-caption {
     clear: both;
+    color: #fff;
     padding: 5px 20px;
     border-top: solid 1px #fff;
     text-align: center;

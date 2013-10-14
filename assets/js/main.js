@@ -5,9 +5,6 @@ $(function(){
                 directionNav : true,
 		controlNav : true,
                 controlsContainer : '.post-nav'
-                //~ start : function(slider) {
-                                //~ $('.post-nav').on('click', function(){ slider.flexAnimate(3) });
-                        //~ }
 	});
         
         

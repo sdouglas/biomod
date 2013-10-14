@@ -79,15 +79,32 @@ html[xmlns] .slides {display: block;}
         background-color: $blue;
         color: #fff; 
         text-shadow: 1px 1px 0 rgba(255,255,255,0.3); 
-        -webkit-transition: all .3s ease; 
-        -moz-transition: all .3s ease; 
-        transition: all .3s ease; 
+        @include transition( all 0.3s ease );
+        &:hover {
+                text-decoration: none;
         }
+}
 .flex-direction-nav a:hover { opacity: 0.8; }
 .flex-prev { left: 0; }
 .flex-next { right: 0; }
-.flex-direction-nav a:before  { font-family: "flexslider-icon"; font-size: 40px; display: inline-block; content: '\f001'; }
-.flex-direction-nav a.flex-next:before  { content: '\f002'; }
+
+/*
+ *  .flex-direction-nav a:before  { font-family: "flexslider-icon"; font-size: 40px; display: inline-block; content: '\f001'; }
+ * .flex-direction-nav a.flex-next:before  { content: '\f002'; }
+*/
+.flex-direction-nav a { }
+.flex-direction-nav a:before  { // applies to both < prev and next > links
+        font-size: 32px;
+        position: relative;
+        top: 6px;
+        left: -4px;
+        @extend [class^="icon-"]:before;
+        @extend .icon-left-open:before;
+}
+.flex-direction-nav a.flex-next:before  { // just the 'next' link
+        @extend .icon-right-open:before
+}
+
 /*
 .flex-direction-nav {*height: 0;}
 .flex-direction-nav .flex-prev { left: -50px; }

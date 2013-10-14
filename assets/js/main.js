@@ -6,6 +6,13 @@ $(function(){
 		controlNav : true,
                 controlsContainer : '.post-nav'
 	});
+        $('.photos').flexslider({
+		direction : 'horizontal',
+                directionNav : false,
+		controlNav : true,
+                animation : 'slide',
+                slideshowSpeed : 3800
+        });
         
         
         var nextBiomod = new Date( 2013, 11-1, 2, 10);   // month is 0-indexed, so subtract 1

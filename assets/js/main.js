@@ -1,4 +1,7 @@
 $(function(){
+
+        /*** Slideshows ***/
+        
 	$('.posts').flexslider({
 		direction : 'vertical',
 		pauseOnHover : true,
@@ -6,14 +9,29 @@ $(function(){
 		controlNav : true,
                 controlsContainer : '.post-nav'
 	});
-        $('.photos').flexslider({
-		direction : 'horizontal',
+        
+        // The slider being synced (the thumbnails one) must be initialized first
+        $('#photos-nav').flexslider({
+                animation : "slide",
+                controlNav: false,
                 directionNav : false,
-		controlNav : true,
+                animationLoop: false,
+                slideshow: false,
+                itemWidth: 180,
+                itemMargin: 5,
+                asNavFor : '#photos'
+        });
+        $('#photos').flexslider({
+		controlNav : false,
+                directionNav : false,
+                animationLoop : false,
                 animation : 'slide',
-                slideshowSpeed : 3800
+                slideshow : false,
+                sync : '#photos-nav'
         });
         
+        
+        /*** Countdown timer ***/
         
         var nextBiomod = new Date( 2013, 11-1, 2, 10);   // month is 0-indexed, so subtract 1
         $('.countdown').countdown({ 

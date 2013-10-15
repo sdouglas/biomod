@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: Biomod
+description: The international bio-molecular design competition
+url: http://biomod.net
 markdown: redcarpet
 pygments: true

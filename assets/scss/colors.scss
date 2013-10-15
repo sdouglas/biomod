@@ -78,7 +78,11 @@ div.third{background:white}
 	p{padding:8px 20px;}
 	//background:url(../images/tshirt.png) no-repeat;
 }
-
+#cadnano{
+	padding:0;
+	img {width:100%}
+	p{padding:8px 20px;}
+}
 
 .featured.highlights {
 	background: $midgray;// $salmon;

@@ -46,4 +46,14 @@ $(function(){
                         '<div class="minutes">{mn}</div><div>{ml}</div>' +
                         '</div>'
         });
+        
+        
+        /*** Animate scroll to subscribe box ***/
+        
+        $('.icon-mail').click( function(){
+				$('html,body').animate({
+					scrollTop: $('#callout').offset().top-50
+				}, 1000);
+				return false;
+        });
 });

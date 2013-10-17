@@ -2,14 +2,15 @@ $crimson: #ff2935;
 $charcoal: #42484d;
 $midgray: #d9d9d9;
 
-
+$wetasphalt:#34495e;
+$clouds:#ecf0f1;
 $brown:	#716b67;// not used
 
 $snow:#f0f0f0; //not used
 $blue:	#009dd4;
-
+$peterriver: #3498db;
 $salmon:#fa4951;
-
+$turquoise:#4fc4f6;
 header{
 	background:white;
 }
@@ -21,11 +22,11 @@ body{
 
 // body class on blogs (posts) is dark
 body.post{
-	background:$charcoal
+	background:$clouds;
 }
 
 footer {
-	background:$salmon;
+	background:$blue;
 	color:#fff;
 	a:link,a:visited{color:#fff}
 }
@@ -83,6 +84,12 @@ div.third{background:white}
 	img {width:100%}
 	p{padding:8px 20px;}
 }
+#calendar{
+	background:$turquoise;
+	color:white;
+	//padding:0;
+	height:235px;
+}
 
 .featured.highlights {
 	background: $midgray;// $salmon;
@@ -95,11 +102,15 @@ div.third{background:white}
 .charcoal {
 	background:$charcoal;
 }
+h1,h2,h3,h4,h5,h6,
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a {
 
+	color:black;
+}
 h1{
     em {
     	font-style:normal;
-        color:$salmon;
+        color:$blue;
     }
 }
 
@@ -116,8 +127,9 @@ h1{
 	padding: 30px 20px;
 	color:$charcoal;
 	margin:20px 0;
+	h3 {color:#555}
 }
 // newsletter form and button
 #newsletter-form{padding:7px;font-size:20px;border:0}
-input[type=submit]#newsletter-button {background:$salmon;border:0;outline:0;padding:10px 10px;font-size:16px;color:white;}
+input[type=submit]#newsletter-button {background:$blue;border:0;outline:0;padding:10px 10px;font-size:16px;color:white;}
 

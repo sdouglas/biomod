@@ -25,12 +25,19 @@ $(function(){
 		controlNav : false,
                 directionNav : false,
                 animationLoop : false,
-                animation : 'slide',
+                animation : 'fade',
                 slideshow : false,
                 sync : '#photos-nav'
         });
         
-        
+        $('#sidebar-photos').flexslider({
+                controlNav : false,
+                directionNav : false,
+                animationLoop : true,
+                animation : 'slide',
+                slideshow : true,
+        });
+
         /*** Countdown timer ***/
         
         var nextBiomod = new Date( 2013, 11-1, 2, 10);   // month is 0-indexed, so subtract 1

@@ -1,5 +1,5 @@
 <section>
-	<h3>Photos</h3>
+	<h4>Photos</h4>
 	<div id="sidebar-photos" class="flexslider">
             <ul class="slides">
                     <li><img src="/assets/images/photos/8165661478_b9d70fb1f6.jpg" /></li>
@@ -7,14 +7,13 @@
                     <li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>
             </ul>
     </div>
-	<h3>Recent Blog Posts</h3>
-	<ul>
+	<h4>Recent Blog Posts</h4>
 		{% for post in site.posts limit:5 %}
-		<li>
 		<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 		<span>{{ post.date | date_to_string }}</span> 
-		</li>
 	{% endfor %}
-	</ul>
+	<p>
+		<a href="/blog/index.html">all blog entries</a>
+	</p>
 </section>
 

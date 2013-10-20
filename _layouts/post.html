@@ -5,15 +5,17 @@ body_class: post
 
 	<div class="row main">    
 
-		<main>
-			<section>
-			<h2>{{ page.title }}</h2>
+        <main>
+                <section>
+                        <p><a href="/blog/index.html">&laquo; back to blog index</a></p>
+                        
+                        <h2>{{ page.title }}</h2>
 
-			<p class="meta">{{ page.date | date_to_string }}</p>
-			
-			{{ content }}
-	    	</section>
-	    </main>
+                        <p class="meta">{{ page.date | date_to_string }}</p>
+                        
+                        {{ content }}
+                </section>
+        </main>
 	        
 	    
 	    <aside>

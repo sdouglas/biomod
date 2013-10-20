@@ -3,5 +3,5 @@ description: The international bio-molecular design competition
 url: http://biomod.net
 markdown: redcarpet
 pygments: true
-paginate: 2
+paginate: 5
 paginate_path: "blog/page:num/index.html"

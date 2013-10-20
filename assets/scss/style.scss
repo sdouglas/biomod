@@ -33,6 +33,11 @@ body {
 header {padding:20px 0;}
 header nav {@include outer-container;}
 
+#biomod { // compensate for white space in left of image
+        position: relative;
+        left: -13px;
+}
+
 // headers inside section boxes
 // color of which is in color.scss
 section header {
@@ -42,7 +47,7 @@ section header {
 
 footer {padding-top:20px;}
 
-main section, aside section { 	
+.post section, aside section { 	
 	@include pad(20px);
 }
 

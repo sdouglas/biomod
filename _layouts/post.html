@@ -14,6 +14,15 @@ body_class: post
                         <p class="meta">{{ page.date | date_to_string }}</p>
                         
                         {{ content }}
+
+                        <p  id="mission-share">
+
+                            <a href="http://twitter.com/share?url={{ site.url }}{{ page.url }}" class="icon-twitter-squared float-right">tweet</a>  
+
+                            <a href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" class="icon-facebook-squared float-right">share</a>
+
+                        </p>
+                        <br style="clear:both"/>
                 </section>
         </main>
 	        

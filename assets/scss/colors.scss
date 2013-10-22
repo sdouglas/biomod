@@ -141,6 +141,20 @@ h1{
 	margin:20px 0;
 	h3 {color:#555}
 }
+
+.social a {
+        display: block;
+        background: $turquoise;
+        margin: 1px 0;
+        padding: 10px 12px;
+        color: #fff;
+        @include transition( 0.2s );
+        &:hover {
+                text-decoration: none;
+                background: lighten($turquoise, 10%);
+        }
+}
+
 // newsletter form and button
 #newsletter-form{padding:7px;font-size:20px;border:0}
 input[type=submit]#newsletter-button {background:$blue;border:0;outline:0;padding:10px 10px;font-size:16px;color:white;}

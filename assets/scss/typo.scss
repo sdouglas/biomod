@@ -158,7 +158,9 @@ h2 {
     font-size: 28px;
     line-height:33px;
 }
-h2#latest-blogs, h2#latest-photos{
+h2#latest-blogs,
+h2#latest-photos,
+.social {
     margin-bottom:20px;
 }
 h2 small {float:right;font-size:16px;}

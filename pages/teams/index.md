@@ -6,7 +6,7 @@ date:   2013-08-28 16:27:08
 
 
 
-## Teams
+Location of and links to all the teams participating in Biomod Jamboree 2013
 
 
 

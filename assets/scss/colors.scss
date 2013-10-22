@@ -154,6 +154,15 @@ h1{
                 background: lighten($turquoise, 10%);
         }
 }
+/** alternate style for separate bg for icon on left, e.g. <i></i><a>social</a> 
+ * maybe <a><i><span></a> instead? (as inline-block) */
+.social i {
+float: left;
+background: darken($turquoise, 10%); //#59B1D3;
+padding: 10px;
+margin-right: 10px;
+color: white;
+}
 
 // newsletter form and button
 #newsletter-form,

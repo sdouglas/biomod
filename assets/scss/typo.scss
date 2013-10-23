@@ -102,7 +102,7 @@ ol {
 }
 
 ul.horizontal {
-    float:right;
+    @include clearfix();
     font-size:15px;
     line-height:21px;
     //text-transform:uppercase;

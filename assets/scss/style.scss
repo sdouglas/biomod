@@ -33,10 +33,6 @@ body {
 header {padding:20px 0;}
 header nav {@include outer-container;}
 
-#biomod { // compensate for white space in left of image
-        position: relative;
-        left: -13px;
-}
 
 // headers inside section boxes
 // color of which is in color.scss
@@ -109,7 +105,15 @@ footer {padding-top:20px;}
         footer { padding: 1em; }
 
 }
-
+@media( min-width: 500px ){
+        #biomod { 
+                float:left; width:260px; background-position: top left;
+                // compensate for white space in left of image
+                position: relative;
+                left: -13px;
+        }
+        #wyss { float:right; 	width:219px; background-position: top left; } 
+}
 @include media($tablet) { // grid has 8 columns in total
    // body 	{background: yellow;}
 
@@ -144,6 +148,9 @@ footer {padding-top:20px;}
 
 @include media($desktop) { // grid has 12 columns in total
    // body { background: green; }
+
+        #wyss { display:block; }
+        ul.horizontal{ float:right; }
 
     main {@include span-columns(8);}
 	aside section {@include span-columns(4);}

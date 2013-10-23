@@ -67,20 +67,18 @@ div.third{background:white}
 
 
 #biomod{
-	width:260px;
 	height:60px;
 	background:url(../images/biomodlogo.png) no-repeat;
+        background-position: top center;
 	display:block;
-	float:left;
 //	text-align:-10000px;
 
 }
 #wyss {
-	width:219px;
 	height:70px;
 	background:url(../images/wysslogo.png) no-repeat;
+        background-position: top center;
 	display:block;
-	float:right;
 	margin-top:4px;
 }
 

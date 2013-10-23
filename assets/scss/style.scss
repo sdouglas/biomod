@@ -30,7 +30,7 @@ body {
 }
 
 // top header
-header {padding:20px 0;}
+header {padding:20px 20px;}
 header nav {@include outer-container;}
 
 
@@ -78,7 +78,7 @@ footer {padding-top:20px;}
 		padding-left: 1em;
 		padding-right: 1em;
 	}
-    .main {@include span-columns(4);}
+    main {@include span-columns(4);}
 	aside section{@include span-columns(4);}
 
 	.main .row { padding-bottom: 0 }
@@ -122,7 +122,7 @@ footer {padding-top:20px;}
 @include media($tablet) { // grid has 8 columns in total
    // body 	{background: yellow;}
 
-    .main {@include span-columns(5);}
+    main {@include span-columns(5);}
 	aside section {@include span-columns(3);}
 
 	// frontpage column, third of the width of #main.
@@ -156,13 +156,14 @@ footer {padding-top:20px;}
 
         #wyss { display:block; }
         ul.horizontal{ float:right; }
-	.main .row {
+	header,
+	.row {
 		// reset to default
 		padding-left: 0;
 		padding-right: 0;
 	}
 
-    .main {@include span-columns(8);}
+    main {@include span-columns(8);}
 	aside section {@include span-columns(4);}
 
 	// frontpage column, third of the width of #main.
@@ -195,7 +196,7 @@ footer {padding-top:20px;}
 @include media($largedesktop) { // grid has 16 columns in total
    // body 	{background: purple;}
 
-    .main {@include span-columns(11);}
+    main {@include span-columns(11);}
 	aside section {@include span-columns(5);}
 
 	// frontpage column, third of the width of #main.

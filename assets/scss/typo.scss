@@ -271,7 +271,7 @@ a.section-title {
     display: block; 
     text-decoration: none;
     @include transition( 0.2s );
-    &:hover { background: $crimson; color: white; }
+    &:hover { background: darken($turquoise, 20%); color: white; }
 }
 .section-caption {
     clear: both;

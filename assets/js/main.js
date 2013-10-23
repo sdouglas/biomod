@@ -40,20 +40,28 @@ $(function(){
 
         /*** Countdown timer ***/
         
-        var nextBiomod = new Date( 2013, 11-1, 2, 10);   // month is 0-indexed, so subtract 1
-        $('.countdown').countdown({ 
-                // Since jamboree is in Cambridge, we make sure time is EST, 5 hours behind UTC
-                until: $.countdown.UTCDate(-5, nextBiomod), 
-                format : 'dHM',
-                // {h<}...{h>} means omit hour from display when it reaches zero
-                layout :'{d<}<div class="days">{dn}</div><div class="days-label">{dl}</div>{d>}' +
-                        '<div class="time-block">' +
-                        '{h<}<div class="hours">{hn}</div><div>{hl}</div>{h>}' +
-                        '</div><div class="time-block">' +
-                        '<div class="minutes">{mn}</div><div>{ml}</div>' +
-                        '</div>'
-        });
-        
+        // month in javascript's Date is 0-indexed,
+        // so for clarity we can use the numeric month but explicity subtract 1 inline
+        var nextBiomod = new Date(2013, 11-1, 2, 8);
+        var now = new Date();
+        if ( now.valueOf() < nextBiomod.valueOf() ) {
+                // Jamboree is still in the future
+                // initialize timer
+                $('.underway').hide();
+                $('.countdown').countdown({
+                        // Since jamboree is in Cambridge before daylight saving time ends (first Sunday in Nov),
+                        // we make sure time is EDT, i.e. 4 hours behind UTC
+                        until: $.countdown.UTCDate(-4, nextBiomod), 
+                        format : 'dHM',
+                        // {h<}...{h>} means omit hour from display when it reaches zero
+                        layout :'<div class="days">{dn}</div><div class="days-label">{dl}</div>' +
+                                '<div class="time-block">' +
+                                '<div class="hours">{hn}</div><div>{hl}</div>' +
+                                '</div><div class="time-block">' +
+                                '<div class="minutes">{mn}</div><div>{ml}</div>' +
+                                '</div>'
+                });
+        }        
         
         /*** Animate scroll to subscribe box ***/
         

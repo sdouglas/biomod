@@ -52,7 +52,6 @@ footer {padding-top:20px;}
 }
 
 
-.featured {padding:30px 0;}
 .feature-box{ padding:20px}
 
 .page_number {
@@ -81,7 +80,9 @@ footer {padding-top:20px;}
     main {@include span-columns(4);}
 	aside section{@include span-columns(4);}
 
-	// frontpage column, third of the width of #main.
+	.row { padding-bottom: 0 }
+        
+        // frontpage column, third of the width of #main.
 	.third{@include span-columns(4);}
 	.two-thirds{@include span-columns(4);}
 	.half {@include span-columns(4);}
@@ -93,11 +94,19 @@ footer {padding-top:20px;}
 		h1 {font-size:25px}
 	}
 
+        .featured {padding: 0;}
+
 	// newsletter signup near footer
-	.callout{min-height:190px;}
+	.callout{
+                min-height:190px;
+                @include clearfix();
+                margin-bottom: 0;
+        }
 	h3#newsletter-blurb{@include span-columns(4);}
 	#newsletter-form{@include span-columns(4);}
 	#newsletter-button{@include span-columns(4);}
+
+        footer { padding: 1em; }
 
 }
 
@@ -129,6 +138,8 @@ footer {padding-top:20px;}
 	#newsletter-form{@include span-columns(3);}
 	#newsletter-button{@include span-columns(2);}
 
+        .featured {padding:30px 0;}
+
 }
 
 @include media($desktop) { // grid has 12 columns in total
@@ -157,6 +168,10 @@ footer {padding-top:20px;}
 	#newsletter-form{@include span-columns(5);}
 	#newsletter-button{@include span-columns(2);}
 
+        // reset to widescreen, multi-column layout defaults
+        .row { padding-bottom: 20px; }
+        .callout { margin-bottom: 20px; }
+        footer { padding: 0; }
 
 }
 

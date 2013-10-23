@@ -7,3 +7,13 @@ $mobile_landscape: 480px;
 $tablet_portrait: 768px;
 $tablet_landscape: 1024px;
 
+@mixin clearfix() {
+    &:before,
+    &:after {
+        content: "";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+}

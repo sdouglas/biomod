@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jamboree Registration Thu September 13th"
+title:  "Jamboree Registration thru September 13th"
 date:   2013-09-05 16:27:08
 categories: registration jamboree
 ---

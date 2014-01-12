@@ -41,7 +41,9 @@ section header {
 	margin:0;
 }
 
-footer {padding-top:20px;}
+body > footer {
+    padding-top: 2rem;
+}
 
 .post section, aside section { 	
 	@include pad(20px);

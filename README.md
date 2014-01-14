@@ -41,6 +41,15 @@ Bourbon, a set of sass classes is installed and we're using its companion set, '
 
 To update these libraries, go into the /assets/scss directory and type `update neat` and `update bourbon`.
 
+
+### The blog
+  
+By adding this line to _config.yml
+excerpt_separator: <!--more-->
+We can add <!--more--> to a blog, so it cuts off the exerpt display at its location. This is important as a LONG blog post will display in its entirety on the front page. You don't want that. 
+
+
+
 ### technologies I'll investigate
 
 This site offers search based on an RSS feed, useful for static sites. I'll investigate.

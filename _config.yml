@@ -1,5 +1,5 @@
-name: Biomod
-description: The international bio-molecular design competition
+name: BIOMOD
+description: International Bio-molecular Design Competition
 url: http://biomod.net
 markdown: redcarpet
 pygments: true

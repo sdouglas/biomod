@@ -1,393 +1,64 @@
-header {
-  background: #f6f6f6; }
-
-body {
-  background: white; }
-
-body.post {
-  background: #ecf0f1; }
-  body.post .callout {
-    background: #34495e; }
-    body.post .callout h3 {
-      color: white; }
-
-footer {
-  background: #009dd4;
-  color: #fff; }
-  footer a:link, footer a:visited {
-    color: #fff; }
-  footer h3 {
-    color: white; }
-
-footer.subfooter {
-  background: #2c3e50;
-  color: #95a5a6; }
-
-header ul.horizontal {
-  background: #d9d9d9;
-  padding-right: 20px; }
-  header ul.horizontal a:link, header ul.horizontal a:visited {
-    color: #444; }
-
-section {
-  background: white; }
-  section header {
-    background: #009dd4; }
-
-div.third {
-  background: white; }
-
-#biomod {
-  height: 60px;
-  background: url(../images/biomodlogo.png) no-repeat;
-  background-position: top center;
-  display: block; }
-
-#wyss {
-  height: 70px;
-  background: url(../images/wysslogo.png) no-repeat;
-  background-position: top center;
-  display: block;
-  margin-top: 4px; }
-
-#tshirt, #cadnano {
-  background: #f0f0f0;
-  padding: 0; }
-  #tshirt img, #cadnano img {
-    width: 100%;
-    display: block; }
-  #tshirt p, #cadnano p {
-    padding: 8px 20px; }
-  #tshirt .section-title, #cadnano .section-title {
-    border-top: solid 1px #f6f6f6; }
-
-#calendar {
-  background: #4fc4f6;
-  color: white;
-  height: 235px; }
-
-.featured.highlights {
-  background: #f6f6f6; }
-
-.featured.white {
-  background: white; }
-
-/* backgrounds */
-.charcoal {
-  background: #42484d; }
-
-h1, h2, h3, h4, h5, h6,
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: black; }
-
-h1 em {
-  font-style: normal;
-  color: #009dd4; }
-
-.section-title {
-  background: white; }
-
-.section-caption {
-  background: white;
-  color: #888;
-  padding: 5px 20px;
-  border-top: solid 1px #f6f6f6; }
-
-.callout {
-  background: #f6f6f6;
-  padding: 30px 30px 15px;
-  color: #42484d;
-  margin: 20px 0; }
-  .callout h3 {
-    color: #555; }
-
-.social a {
-  display: block;
-  background: #4fc4f6;
-  margin: 1px 0;
-  padding: 10px 12px;
-  color: #fff;
-  -webkit-transition: 0.2s;
-  -moz-transition: 0.2s;
-  transition: 0.2s; }
-  .social a:hover {
-    text-decoration: none;
-    background: #80d4f8; }
-
-/** alternate style for separate bg for icon on left, e.g. <i></i><a>social</a> 
- * maybe <a><i><span></a> instead? (as inline-block) */
-.social i {
-  float: left;
-  background: #1eb4f4;
-  padding: 10px;
-  margin-right: 10px;
-  color: white; }
-
-#newsletter-form,
-textarea {
-  padding: 7px;
-  font-size: 20px;
-  border: 0; }
-
-input[type=submit]#newsletter-button {
-  background: #009dd4;
-  border: 0;
-  outline: 0;
-  padding: 10px 10px;
-  font-size: 16px;
-  color: white; }
-
 /*
- * jQuery FlexSlider v2.2.0
- * http://www.woothemes.com/flexslider/
- *
- * Copyright 2012 WooThemes
- * Free to use under the GPLv2 license.
- * http://www.gnu.org/licenses/gpl-2.0.html
- *
- * Contributing author: Tyler Smith (@mbmufffin)
- */
-/* Browser Resets
-*********************************/
-.flex-container a:active,
-.flexslider a:active,
-.flex-container a:focus,
-.flexslider a:focus {
-  outline: none; }
+Syntax error: Undefined mixin 'span-columns'.
+        on line 140 of assets/scss/flexslider.scss, in `span-columns'
+        from line 140 of assets/scss/flexslider.scss
 
-.slides,
-.flex-control-nav,
-.flex-direction-nav {
-  margin: 0;
-  padding: 0;
-  list-style: none; }
+135: /* Customizations *\/
+136: 
+137: #big-slider li { position: relative;}
+138: /* slide text *\/
+139: 	#icosahedron {
+140: 		@include span-columns(5);
+141: 		position:absolute;
+142: 		top:3em;
+143: 		left:2em;
+144: 	}
+145: 	#nucleosomes {
 
-/* Icon Fonts
-*********************************/
-/* Font-face Icons */
-@font-face {
-  font-family: 'flexslider-icon';
-  src: url("fonts/flexslider-icon.eot");
-  src: url("fonts/flexslider-icon.eot?#iefix") format("embedded-opentype"), url("fonts/flexslider-icon.woff") format("woff"), url("fonts/flexslider-icon.ttf") format("truetype"), url("fonts/flexslider-icon.svg#flexslider-icon") format("svg");
-  font-weight: normal;
-  font-style: normal; }
-
-/* FlexSlider Necessary Styles
-*********************************/
-.flexslider {
-  margin: 0;
-  padding: 0; }
-
-.flexslider .slides > li {
-  display: none;
-  -webkit-backface-visibility: hidden; }
-
-/* Hide the slides before the JS is loaded. Avoids image jumping */
-.flexslider .slides img {
-  width: 100%;
-  display: block; }
-
-.flex-pauseplay span {
-  text-transform: capitalize; }
-
-/* Clearfix for the .slides element */
-.slides:after {
-  content: "\0020";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  line-height: 0;
-  height: 0; }
-
-html[xmlns] .slides {
-  display: block; }
-
-* html .slides {
-  height: 1%; }
-
-/* No JavaScript Fallback */
-/* If you are not using another script, such as Modernizr, make sure you
- * include js that eliminates this class on page load */
-.no-js .slides > li:first-child {
-  display: block; }
-
-/* FlexSlider Default Theme
-*********************************/
-.flexslider {
-  margin: 0 0 30px;
-  position: relative;
-  zoom: 1; }
-
-.flex-viewport {
-  max-height: 2000px;
-  -webkit-transition: all 1s ease;
-  -moz-transition: all 1s ease;
-  -o-transition: all 1s ease;
-  transition: all 1s ease; }
-
-.loading .flex-viewport {
-  max-height: 300px; }
-
-.flexslider .slides {
-  zoom: 1; }
-
-.carousel li {
-  margin-right: 5px; }
-
-/* Direction Nav */
-.post-nav {
-  position: relative;
-  /* border-top: solid 1px #ccc;*/
-  padding-top: 2px; }
-
-.flex-direction-nav a {
-  display: block;
-  width: 40px;
-  height: 40px;
-  margin: 0 0;
-  position: absolute;
-  z-index: 10;
-  overflow: hidden;
-  /*
-          top: 50%; 
-          opacity: 0; 
-  */
-  cursor: pointer;
-  background-color: #009dd4;
-  color: #fff;
-  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
-  -webkit-transition: all 0.3s ease;
-  -moz-transition: all 0.3s ease;
-  transition: all 0.3s ease; }
-  .flex-direction-nav a:hover {
-    text-decoration: none; }
-
-.flex-direction-nav a:hover {
-  opacity: 0.8; }
-
-.flex-prev {
-  left: 0; }
-
-.flex-next {
-  right: 0; }
-
-/*
- *  .flex-direction-nav a:before  { font-family: "flexslider-icon"; font-size: 40px; display: inline-block; content: '\f001'; }
- * .flex-direction-nav a.flex-next:before  { content: '\f002'; }
+Backtrace:
+assets/scss/flexslider.scss:140:in `span-columns'
+assets/scss/flexslider.scss:140
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:253:in `visit_mixin'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:53:in `map'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:109:in `block in visit_children'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:121:in `with_environment'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:108:in `visit_children'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:37:in `block in visit'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:320:in `visit_rule'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:53:in `map'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:109:in `block in visit_children'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:121:in `with_environment'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:108:in `visit_children'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:37:in `block in visit'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:128:in `visit_root'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:7:in `visit'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/root_node.rb:20:in `render'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/engine.rb:315:in `_render'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/engine.rb:262:in `render'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/plugin/compiler.rb:362:in `update_stylesheet'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/plugin/compiler.rb:203:in `block in update_stylesheets'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/plugin/compiler.rb:201:in `each'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/plugin/compiler.rb:201:in `update_stylesheets'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/plugin/compiler.rb:283:in `block in watch'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/vendor/listen/lib/listen/multi_listener.rb:108:in `call'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/vendor/listen/lib/listen/multi_listener.rb:108:in `on_change'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/vendor/listen/lib/listen/multi_listener.rb:117:in `block in initialize_adapter'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/vendor/listen/lib/listen/adapter.rb:198:in `call'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/vendor/listen/lib/listen/adapter.rb:198:in `report_changes'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/vendor/listen/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+/Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/vendor/listen/lib/listen/adapters/darwin.rb:38:in `block in start'
 */
-.flex-direction-nav a:before {
-  font-size: 32px;
-  position: relative;
-  top: 6px;
-  left: -4px; }
-
-/*
-.flex-direction-nav {*height: 0;}
-.flex-direction-nav .flex-prev { left: -50px; }
-.flex-direction-nav .flex-next { right: -50px; text-align: right; }
-.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover { opacity: 1; }
-.flex-direction-nav .flex-disabled { opacity: 0!important; filter:alpha(opacity=0); cursor: default; }
-* /
-
-/* Pause/Play */
-.flex-pauseplay a {
-  display: block;
-  width: 20px;
-  height: 20px;
-  position: absolute;
-  bottom: 5px;
-  left: 10px;
-  opacity: 0.8;
-  z-index: 10;
-  overflow: hidden;
-  cursor: pointer;
-  color: #000; }
-
-.flex-pauseplay a:before {
-  font-family: "flexslider-icon";
-  font-size: 20px;
-  display: inline-block;
-  content: '\f004'; }
-
-.flex-pauseplay a:hover {
-  opacity: 1; }
-
-.flex-pauseplay a.flex-play:before {
-  content: '\f003'; }
-
-/* Control Nav */
-.flex-control-nav {
-  width: 100%;
-  position: absolute;
-  top: 0;
-  margin-top: 20px;
-  height: 40px;
-  text-align: center; }
-
-.flex-control-nav li {
-  margin: 0 6px;
-  display: inline-block;
-  zoom: 1;
-  *display: inline; }
-
-.flex-control-paging li a {
-  width: 11px;
-  height: 11px;
-  display: block;
-  background: #666;
-  background: rgba(0, 0, 0, 0.5);
-  cursor: pointer;
-  text-indent: -9999px;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  -o-border-radius: 20px;
-  border-radius: 20px;
-  -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
-  -moz-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
-  -o-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
-  box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3); }
-
-.flex-control-paging li a:hover {
-  background: #333;
-  background: rgba(0, 0, 0, 0.7); }
-
-.flex-control-paging li a.flex-active {
-  background: #000;
-  background: rgba(0, 0, 0, 0.9);
-  cursor: default; }
-
-.flex-control-thumbs {
-  margin: 5px 0 0;
-  position: static;
-  overflow: hidden; }
-
-.flex-control-thumbs li {
-  width: 25%;
-  float: left;
-  margin: 0; }
-
-.flex-control-thumbs img {
-  width: 100%;
-  display: block;
-  opacity: .7;
-  cursor: pointer; }
-
-.flex-control-thumbs img:hover {
-  opacity: 1; }
-
-.flex-control-thumbs .flex-active {
-  opacity: 1;
-  cursor: default; }
-
-#photos-nav li {
-  border-top: solid 5px transparent; }
-
-#photos-nav .flex-active-slide {
-  border-top: solid 5px #009dd4; }
-
-/*
-@media screen and (max-width: 860px) {
-  .flex-direction-nav .flex-prev { opacity: 1; left: 10px;}
-  .flex-direction-nav .flex-next { opacity: 1; right: 10px;}
-}
-*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: Undefined mixin 'span-columns'.\A         on line 140 of assets/scss/flexslider.scss, in `span-columns'\A         from line 140 of assets/scss/flexslider.scss\A \A 135: /* Customizations */\A 136: \A 137: #big-slider li { position: relative;}\A 138: /* slide text */\A 139: 	#icosahedron {\A 140: 		@include span-columns(5);\A 141: 		position:absolute;\A 142: 		top:3em;\A 143: 		left:2em;\A 144: 	}\A 145: 	#nucleosomes {"; }

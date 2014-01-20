@@ -928,6 +928,46 @@ html[xmlns] .slides {
   opacity: 1;
   cursor: default; }
 
+/* Customizations */
+#big-slider li {
+  position: relative; }
+
+/* slide text */
+#icosahedron {
+  display: block;
+  float: left;
+  margin-right: 2.5641%;
+  width: 48.71795%;
+  position: absolute;
+  top: 3em;
+  left: 2em; }
+  #icosahedron:last-child {
+    margin-right: 0; }
+
+#nucleosomes {
+  display: block;
+  float: left;
+  margin-right: 2.5641%;
+  width: 28.20513%;
+  position: absolute;
+  color: white;
+  bottom: 1em;
+  left: 1em; }
+  #nucleosomes:last-child {
+    margin-right: 0; }
+
+#smiley {
+  display: block;
+  float: left;
+  margin-right: 2.5641%;
+  width: 17.94872%;
+  position: absolute;
+  color: white;
+  top: 2em;
+  right: 2em; }
+  #smiley:last-child {
+    margin-right: 0; }
+
 #photos-nav li {
   border-top: solid 5px transparent; }
 
@@ -1095,9 +1135,7 @@ body > footer {
   padding: 0 0.5em; }
 
 .carousel {
-  padding: 140px 20px;
-  margin-bottom: 40px;
-  background: #f0f0f0; }
+  margin-bottom: 40px; }
 
 #mission-share {
   margin: 20px 0; }

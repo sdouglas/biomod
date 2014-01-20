@@ -132,6 +132,31 @@ html[xmlns] .slides {display: block;}
 .flex-control-thumbs img:hover {opacity: 1;}
 .flex-control-thumbs .flex-active {opacity: 1; cursor: default;}
 
+/* Customizations */
+
+#big-slider li { position: relative;}
+/* slide text */
+	#icosahedron {
+		@include span-columns(5);
+		position:absolute;
+		top:3em;
+		left:2em;
+	}
+	#nucleosomes {
+		@include span-columns(3);
+		position:absolute;
+		color:white;
+		bottom:1em;
+		left:1em;
+	}
+	#smiley {
+		@include span-columns(2);
+		position:absolute;
+		color:white;
+		top:2em;
+		right:2em;
+	}
+
 #photos-nav li { border-top: solid 5px transparent }
 #photos-nav .flex-active-slide { border-top: solid 5px $blue; }
 /*

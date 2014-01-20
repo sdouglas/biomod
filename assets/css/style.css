@@ -84,9 +84,21 @@ div.third {
 .charcoal {
   background: #42484d; }
 
-h1, h2, h3, h4, h5, h6,
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+h1, h2, h3,
+h1 a, h2 a, h3 a {
   color: black; }
+
+h4,
+h4 a {
+  color: #95a5a6; }
+
+h5,
+h5 a {
+  color: #000; }
+
+h6,
+h6 a {
+  color: #95a5a6; }
 
 h1 em {
   font-style: normal;
@@ -267,15 +279,6 @@ h2 {
   font-size: 28px;
   line-height: 33px; }
 
-h2#latest-blogs,
-h2#latest-photos,
-.social {
-  margin-bottom: 20px; }
-
-h2 small {
-  float: right;
-  font-size: 16px; }
-
 h3 {
   font-size: 24px;
   line-height: 29px; }
@@ -285,12 +288,30 @@ h3#newsletter-blurb {
   line-height: 28px;
   margin-bottom: 10px; }
 
-h4, h5, h6 {
-  font-size: 20px;
-  line-height: 25px; }
+h4, h5 {
+  font-size: 15px;
+  line-height: 20px; }
 
 h4 {
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  letter-spacing: 1px; }
+
+h4#latest-blogs,
+h4#latest-photos,
+.social {
+  margin-bottom: 20px; }
+
+h4 small {
+  float: right;
+  font-size: 14px; }
+
+h5 {
+  letter-spacing: 0; }
+
+h6 {
+  font-size: 12px;
+  line-height: 20px;
+  padding: 0 0 15px 0; }
 
 aside {
   /* sidebar: recent blog posts */ }
@@ -486,9 +507,21 @@ div.third {
 .charcoal {
   background: #42484d; }
 
-h1, h2, h3, h4, h5, h6,
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+h1, h2, h3,
+h1 a, h2 a, h3 a {
   color: black; }
+
+h4,
+h4 a {
+  color: #95a5a6; }
+
+h5,
+h5 a {
+  color: #000; }
+
+h6,
+h6 a {
+  color: #95a5a6; }
 
 h1 em {
   font-style: normal;
@@ -625,9 +658,21 @@ div.third {
 .charcoal {
   background: #42484d; }
 
-h1, h2, h3, h4, h5, h6,
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+h1, h2, h3,
+h1 a, h2 a, h3 a {
   color: black; }
+
+h4,
+h4 a {
+  color: #95a5a6; }
+
+h5,
+h5 a {
+  color: #000; }
+
+h6,
+h6 a {
+  color: #95a5a6; }
 
 h1 em {
   font-style: normal;

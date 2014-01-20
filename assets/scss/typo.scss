@@ -158,12 +158,8 @@ h2 {
     font-size: 28px;
     line-height:33px;
 }
-h2#latest-blogs,
-h2#latest-photos,
-.social {
-    margin-bottom:20px;
-}
-h2 small {float:right;font-size:16px;}
+
+
 
 h3 { 
     font-size: 24px;
@@ -171,14 +167,33 @@ h3 {
 }
 h3#newsletter-blurb{font-size:22px;line-height:28px;margin-bottom:10px;}
 
-h4, h5, h6 { 
-    font-size: 20px;
-    line-height:25px;
+h4, h5 { 
+    font-size: 15px;
+    line-height:20px;
 }
 
-h4 { 
-    text-transform: uppercase; 
+h4 {  // "recent blog posts", as in those words literally
+    text-transform: uppercase;
+    letter-spacing:1px;
 }
+h4#latest-blogs,
+h4#latest-photos,
+.social {
+    margin-bottom:20px;
+}
+h4 small {float:right;font-size:14px;}
+
+
+h5 // the blog post titles in recent blog post link blocks
+{letter-spacing:0;}
+
+h6 // the time of posting in recent blog post link blocks
+{
+    font-size: 12px;
+    line-height:20px;
+    padding:0 0 15px 0;
+}
+
 
 aside { /* sidebar: recent blog posts */
     h3 { margin-top: 0.5em;}

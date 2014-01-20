@@ -112,11 +112,25 @@ div.third{background:white}
 .charcoal {
 	background:$charcoal;
 }
-h1,h2,h3,h4,h5,h6,
-h1 a,h2 a,h3 a,h4 a,h5 a,h6 a {
+h1,h2,h3,
+h1 a,h2 a,h3 a{
 
 	color:black;
 }
+
+h4, // capitlized, light colored.
+h4 a {
+	color:$concrete;
+}
+
+h5, //lower case, dark colored
+h5 a{color:#000}
+
+h6, 
+h6 a{
+		color:$concrete;
+}
+
 h1{
     em {
     	font-style:normal;

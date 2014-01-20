@@ -15,8 +15,8 @@
     </div>
 	<h4>Recent Blog Posts</h4>
 		{% for post in site.posts limit:5 %}
-		<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-		<span>{{ post.date | date_to_string }}</span> 
+		<h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+		<span><h6>{{ post.date | date_to_string }}</h6></span> 
 	{% endfor %}
 	<p>
 		<a href="/blog/index.html">see all blog entries &raquo;</a>

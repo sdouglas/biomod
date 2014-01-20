@@ -84,18 +84,15 @@ div.third{background:white}
 	margin-top:4px;
 }
 
-#tshirt {
+#tshirt, #cadnano {
 	background: $snow;
-        padding:0;
-	img {width:100%}
+	padding:0;
+	img {width:100%; display:block;}
 	p{padding:8px 20px;}
+	.section-title{border-top:solid 1px white;}
 	//background:url(../images/tshirt.png) no-repeat;
 }
-#cadnano{
-	padding:0;
-	img {width:100%}
-	p{padding:8px 20px;}
-}
+
 #calendar{
 	background:$turquoise;
 	color:white;

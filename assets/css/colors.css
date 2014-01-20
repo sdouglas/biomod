@@ -1,5 +1,5 @@
 header {
-  background: white; }
+  background: #f6f6f6; }
 
 body {
   background: white; }
@@ -59,7 +59,7 @@ div.third {
   #tshirt p, #cadnano p {
     padding: 8px 20px; }
   #tshirt .section-title, #cadnano .section-title {
-    border-top: solid 1px white; }
+    border-top: solid 1px #f6f6f6; }
 
 #calendar {
   background: #4fc4f6;
@@ -67,7 +67,7 @@ div.third {
   height: 235px; }
 
 .featured.highlights {
-  background: #d9d9d9; }
+  background: #f6f6f6; }
 
 .featured.white {
   background: white; }
@@ -85,14 +85,16 @@ h1 em {
   color: #009dd4; }
 
 .section-title {
-  background: #f0f0f0; }
+  background: white; }
 
 .section-caption {
-  background: #f0f0f0;
-  color: #888; }
+  background: white;
+  color: #888;
+  padding: 5px 20px;
+  border-top: solid 1px #f6f6f6; }
 
 .callout {
-  background: #d9d9d9;
+  background: #f6f6f6;
   padding: 30px 30px 15px;
   color: #42484d;
   margin: 20px 0; }

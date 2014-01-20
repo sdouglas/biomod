@@ -6,8 +6,10 @@ $(function(){
 		
 		$('#big-slider').flexslider({
 			animation : 'slide',
+			controlNav : false,
+			directionNav : true,
 			direction : 'horizontal',
-			controlNav : true
+			pauseOnHover : true
 		})
 	
 		/* Front page: recent posts */
@@ -34,7 +36,7 @@ $(function(){
                 asNavFor : '#photos'
         });
         $('#photos').flexslider({
-		controlNav : false,
+				controlNav : false,
                 directionNav : false,
                 animationLoop : false,
                 animation : 'fade',

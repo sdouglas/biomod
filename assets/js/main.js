@@ -42,7 +42,7 @@ $(function(){
         
         // month in javascript's Date is 0-indexed,
         // so for clarity we can use the numeric month but explicity subtract 1 inline
-        var nextBiomod = new Date(2013, 11-1, 2, 8);
+        var nextBiomod = new Date(2014, 11-1, 1, 9);
         var now = new Date();
         if ( now.valueOf() < nextBiomod.valueOf() ) {
                 // Jamboree is still in the future

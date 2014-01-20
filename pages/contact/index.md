@@ -2,15 +2,90 @@
 layout: page
 title:  "Contact"
 date:   2013-08-28 16:27:08
+body_class: contact
 ---
 
-this form not connected to anything on server side yet. use wufoo?
 
-<form action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
-<input type="email" value="" name="EMAIL" class="newsletter-form" id="newsletter-form" placeholder="you@example.com">
-<textarea cols="40" id="feedback" name="message" placeholder="Your message here" rows="5"></textarea>
+This form connects only to Kris: needs to be updated.
 
-<input type="submit" value="Submit" name="subscribe" id="newsletter-button" class="button">
 
-</form>
+<!-- JavaScript -->
+<script src="scripts/wufoo.js"></script>
+
+
+<form id="form2" name="form2" class="contat wufoo topLabel page" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate
+      action="https://wrongcards.wufoo.com/forms/m794azv1ltyfxq/#public">
+  
+<div class="row">
+	<div class="half">
+		<!--
+		<label class="desc" id="title12" for="Field12">
+		Name
+		</label>
+		-->
+
+		<div>
+		<input placeholder="Your Name" id="Field12" name="Field12" type="text" class="field text medium" value="" maxlength="255" tabindex="1" onkeyup="" />
+		</div>
+
+
+		<!--
+		<label class="desc" id="title3" for="Field3">
+		Your phone
+		</label>
+		-->
+
+		<div>
+		<input placeholder="Your Phone" id="Field3" class="field text medium" name="Field3" tabindex="2" type="tel" maxlength="255" value="" /> 
+		</div>
+
+		<!--
+		<label class="desc" id="title19" for="Field19">
+		Your email<br />
+		</label>
+		-->
+
+
+		<input placeholder="Your Email" id="Field19" name="Field19" type="email" spellcheck="false" class="field text medium" value="" maxlength="255" tabindex="3" /> 
+
+	</div>
+
+	<div class="half">
+		<!--
+		<label class="desc" id="title20" for="Field20">
+		Your Message<br />
+
+		</label>
+		-->
+
+
+		<textarea id="Field20"
+		placeholder="Your message"
+		name="Field20" 
+		class="field textarea medium" 
+		spellcheck="true" 
+		rows="10" cols="50" 
+		tabindex="4" 
+		onkeyup=""
+		 ></textarea>
+	</div>
+</div>
+
+
+	    <input id="saveForm" name="saveForm" class="btTxt submit" 
+	    type="submit" value="Submit" />
+
+
+		<div class="hide">
+			<label for="comment">Do Not Fill This Out</label>
+			<textarea name="comment" id="comment" rows="1" cols="1"></textarea>
+			<input type="hidden" id="idstamp" name="idstamp" value="2lAhk6I3+CXMEP4608XfeslPGEznSrNvCro9L5/1N+o=" />
+		</div>
+
+
+
+</form> 
+
+
+

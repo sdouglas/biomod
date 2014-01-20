@@ -4,9 +4,13 @@
 
 @import "typo";
 @import "colors";
+
+
 @import "flexslider";
 @import "jquery.countdown";
 @import "video";
+
+@import "forms";
 
 body {
 	margin:0;
@@ -288,3 +292,7 @@ body > footer {
 .icon-twitter:before { content: '\e80c'; } /* '' */
 .icon-search:before { content: '\e803'; } /* '' */
 .icon-book-open:before { content: '\e801'; } /* '' */
+
+// .hide is important, it obscures some wufoo form stuff. keep it.
+.hide{display:none !important}
+

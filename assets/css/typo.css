@@ -307,6 +307,9 @@ h6 {
   line-height: 20px;
   padding: 0 0 15px 0; }
 
+.snippet {
+  margin: -20px 0 56px 0; }
+
 aside {
   /* sidebar: recent blog posts */ }
   aside h3 {

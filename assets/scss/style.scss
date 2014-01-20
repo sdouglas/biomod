@@ -68,12 +68,11 @@ body > footer {
 }
 
 // front page stuff
-#mission {
-	padding:20px;
-}
+.carousel { margin-bottom: 40px; }
+
 #mission-share{
 	margin:20px 0;
-	a:link,a:visited{padding-left:20px;}
+	a:link,a:visited{padding-right:20px;}
 }
 .highlights .third { }
 .highlights .third { min-height: 327px; }
@@ -102,7 +101,6 @@ body > footer {
 
 	// what is biomod? #mission
 	#mission {
-		@include span-columns(4);
 		h1 {font-size:25px}
 	}
 
@@ -147,8 +145,6 @@ body > footer {
 
 	// what is biomod? #mission
 	#mission {
-		@include span-columns(5);
-		@include shift(3);
 		h1 {font-size:28px}
 	}
 
@@ -165,8 +161,8 @@ body > footer {
 @include media($desktop) { // grid has 12 columns in total
    // body { background: green; }
 
-        #wyss { display:block; }
-        ul.horizontal{ float:right; }
+    #wyss { display:block; }
+    ul.horizontal{ float:right; }
 	header,
 	.row {
 		// reset to default
@@ -186,8 +182,6 @@ body > footer {
 
 	// what is biomod? #mission
 	#mission {
-		@include span-columns(8);
-		@include shift(4);
 		h1 {font-size:30px}
 	}
 
@@ -212,16 +206,15 @@ body > footer {
 
 	// frontpage column, third of the width of #main.
 	.third{@include span-columns(5.3333);} // fractional columns! close enough for browsers to round up to 16 total
-	.two-thirds{@include span-columns(11);}
+	.two-thirds{@include span-columns(10.6664);} // changed from '11' to match fractional value for .third
 	.half {@include span-columns(8);}
 	.quarter{@include span-columns(4);}	
 
 
 	// what is biomod? #mission
 	#mission {
-		@include span-columns(10);
-		@include shift(6);
-		h1 {font-size:34px}
+		//@extend .two-thirds;
+		h1 {font-size:34px; padding-right:30px;} // force 'in' to wrap to second line
 	}
 
 	// newsletter signup near footer

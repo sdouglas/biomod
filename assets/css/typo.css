@@ -250,10 +250,12 @@ h1 {
   line-height: 45px; }
 
 #mission h1 {
-  margin-top: -15px;
   letter-spacing: -1px;
-  text-align: right;
   color: black; }
+
+#mission-more {
+  text-align: justify;
+  margin-top: 5px; }
 
 h2 {
   font-size: 28px;

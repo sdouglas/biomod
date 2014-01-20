@@ -1,15 +1,27 @@
 $(function(){
 
-        /*** Slideshows ***/
+    /*** Slideshows ***/
         
-	$('.posts').flexslider({
-		direction : 'vertical',
-		pauseOnHover : true,
-                directionNav : true,
-		controlNav : true,
-                controlsContainer : '.post-nav'
-	});
+		/* Front page: carousel */
+		
+		$('#big-slider').flexslider({
+			animation : 'slide',
+			direction : 'horizontal',
+			controlNav : true
+		})
+	
+		/* Front page: recent posts */
+		
+		$('.posts').flexslider({
+			direction : 'vertical',
+			pauseOnHover : true,
+	                directionNav : true,
+			controlNav : true,
+	                controlsContainer : '.post-nav'
+		});
         
+		/* Front page: photos */
+		
         // The slider being synced (the thumbnails one) must be initialized first
         $('#photos-nav').flexslider({
                 animation : "slide",
@@ -29,7 +41,9 @@ $(function(){
                 slideshow : false,
                 sync : '#photos-nav'
         });
-        
+
+		/* Secondary pages: sidebar photos */
+		
         $('#sidebar-photos').flexslider({
                 controlNav : false,
                 directionNav : false,
@@ -38,7 +52,7 @@ $(function(){
                 slideshow : true,
         });
 
-        /*** Countdown timer ***/
+	/*** Countdown timer ***/
         
         // month in javascript's Date is 0-indexed,
         // so for clarity we can use the numeric month but explicity subtract 1 inline
@@ -63,7 +77,7 @@ $(function(){
                 });
         }        
         
-        /*** Animate scroll to subscribe box ***/
+    /*** Animate scroll to subscribe box ***/
         
         $('.icon-mail').click( function(){
 				$('html,body').animate({

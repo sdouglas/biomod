@@ -35,6 +35,10 @@ Never change a .css file, only change a .scss file, or the SASS compiler will ov
   
 CSS files aren't being tracked until we're ready for production: this is because every commit creates stupid conflicts needing merges. SO in production, the line in .gitignore must be removed so git just tracks css files again.
 
+### The Countdown timer
+
+... is set up in main.js. Change value of nextBiomod to set for next Jamboree (or registration deadline, etc.)
+
 ### technologies used
 
 Bourbon, a set of sass classes is installed and we're using its companion set, 'Neat' for its grid.

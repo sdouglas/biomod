@@ -154,7 +154,8 @@ body > footer {
 	#newsletter-form{@include span-columns(3);}
 	#newsletter-button{@include span-columns(2);}
 
-        .featured {padding:30px 0;}
+        .featured.highlights {padding:30px 0 10px;}
+		.featured.secondary {padding:30px 0 10px;}
 
 }
 

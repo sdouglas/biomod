@@ -69,6 +69,9 @@ div.third {
 .featured.highlights {
   background: #f6f6f6; }
 
+.featured.secondary {
+  background: #f0f0f0; }
+
 .featured.white {
   background: white; }
 

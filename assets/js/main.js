@@ -56,9 +56,11 @@ $(function(){
 
 	/*** Countdown timer ***/
         
-        // month in javascript's Date is 0-indexed,
+        // The month in javascript's Date constructor is 0-indexed,
         // so for clarity we can use the numeric month but explicity subtract 1 inline
-        var nextBiomod = new Date(2014, 11-1, 1, 9);
+		// Date( year, month-1, day, hour )
+        var nextBiomod = new Date(2014, 4-1, 30, 23, 59); // registration date: April 30th, 2014 -- 11:59 pm        
+		// var nextBiomod = new Date(2014, 11-1, 1, 9); // Jamboree date: November 1st, 2014 -- 9am?
         var now = new Date();
         if ( now.valueOf() < nextBiomod.valueOf() ) {
                 // Jamboree is still in the future

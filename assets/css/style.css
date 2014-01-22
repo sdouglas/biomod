@@ -74,6 +74,9 @@ div.third {
   color: white;
   height: 235px; }
 
+#jamboree-details .section-title {
+  background: #4fc4f6; }
+
 .featured.highlights {
   background: #f6f6f6; }
 
@@ -504,6 +507,9 @@ div.third {
   color: white;
   height: 235px; }
 
+#jamboree-details .section-title {
+  background: #4fc4f6; }
+
 .featured.highlights {
   background: #f6f6f6; }
 
@@ -657,6 +663,9 @@ div.third {
   background: #4fc4f6;
   color: white;
   height: 235px; }
+
+#jamboree-details .section-title {
+  background: #4fc4f6; }
 
 .featured.highlights {
   background: #f6f6f6; }
@@ -1313,6 +1322,9 @@ body > footer {
     right: 20px;
     padding: 4px 8px;
     background-color: #f0f0f0; }
+
+#jamboree-details {
+  min-height: 232px; }
 
 #newsletter-blurb i {
   float: left;

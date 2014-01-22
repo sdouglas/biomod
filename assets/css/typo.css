@@ -52,15 +52,15 @@ div.third {
   display: block;
   margin-top: 4px; }
 
-#tshirt, #cadnano {
+#tshirt, #cadnano, #bionano-vid {
   background: #f0f0f0;
   padding: 0; }
-  #tshirt img, #cadnano img {
+  #tshirt img, #cadnano img, #bionano-vid img {
     width: 100%;
     display: block; }
-  #tshirt p, #cadnano p {
+  #tshirt p, #cadnano p, #bionano-vid p {
     padding: 8px 20px; }
-  #tshirt .section-title, #cadnano .section-title {
+  #tshirt .section-title, #cadnano .section-title, #bionano-vid .section-title {
     border-top: solid 1px #f6f6f6; }
 
 #calendar {

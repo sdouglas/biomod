@@ -89,4 +89,10 @@ $(function(){
 				}, 1000);
 				return false;
         });
+		
+		$('.video-row').hide();
+		$('#bionano-vid a').click( function(){
+			$('.video-row').slideDown();
+			return false;
+		});
 });

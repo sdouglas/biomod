@@ -78,6 +78,13 @@ body > footer {
 .highlights .third { min-height: 327px; }
 .underway p { font-size: 1.6em; margin: 1em 0; }
 
+#newsletter-blurb i {
+	float: left;
+	font-size: 3em;
+	color: #CFCFCF;
+	padding-right: 12px;
+	margin-top: -2px;
+}
 
 @include media($mobile) { // grid has 4 columns in total
 

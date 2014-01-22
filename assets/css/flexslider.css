@@ -1,23 +1,23 @@
 /*
 Syntax error: Undefined mixin 'span-columns'.
-        on line 161 of assets/scss/flexslider.scss, in `span-columns'
-        from line 161 of assets/scss/flexslider.scss
+        on line 166 of assets/scss/flexslider.scss, in `span-columns'
+        from line 166 of assets/scss/flexslider.scss
 
-156: 	#smiley {
-157: 		position:absolute;
-158: 		font-weight:800;
-159: 	}
-160: 	#icosahedron {
-161: 		@include span-columns(5);
-162: 		font-size:3em;
-163: 		line-height:1.1;
-164: 		margin-top:0;
-165: 		top:40px;
-166: 		left:10px;
+161: 	// font sizes are defined in ems here,
+162: 	// so changing the parent elements font size
+163: 	// in response to media queries will cause
+164: 	// these to resize proportionately
+165: 	#icosahedron {
+166: 		@include span-columns(4);
+167: 		font-size:2.7em;
+168: 		line-height:1.3;
+169: 		margin-top:0;
+170: 		top:20%;
+171: 		left:2%;
 
 Backtrace:
-assets/scss/flexslider.scss:161:in `span-columns'
-assets/scss/flexslider.scss:161
+assets/scss/flexslider.scss:166:in `span-columns'
+assets/scss/flexslider.scss:166
 /Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:253:in `visit_mixin'
 /Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/base.rb:37:in `visit'
 /Users/byron/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/sass-3.2.13/lib/sass/tree/visitors/perform.rb:100:in `visit'
@@ -61,4 +61,4 @@ assets/scss/flexslider.scss:161
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined mixin 'span-columns'.\A         on line 161 of assets/scss/flexslider.scss, in `span-columns'\A         from line 161 of assets/scss/flexslider.scss\A \A 156: 	#smiley {\A 157: 		position:absolute;\A 158: 		font-weight:800;\A 159: 	}\A 160: 	#icosahedron {\A 161: 		@include span-columns(5);\A 162: 		font-size:3em;\A 163: 		line-height:1.1;\A 164: 		margin-top:0;\A 165: 		top:40px;\A 166: 		left:10px;"; }
+  content: "Syntax error: Undefined mixin 'span-columns'.\A         on line 166 of assets/scss/flexslider.scss, in `span-columns'\A         from line 166 of assets/scss/flexslider.scss\A \A 161: 	// font sizes are defined in ems here,\A 162: 	// so changing the parent elements font size\A 163: 	// in response to media queries will cause\A 164: 	// these to resize proportionately\A 165: 	#icosahedron {\A 166: 		@include span-columns(4);\A 167: 		font-size:2.7em;\A 168: 		line-height:1.3;\A 169: 		margin-top:0;\A 170: 		top:20%;\A 171: 		left:2%;"; }

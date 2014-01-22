@@ -192,11 +192,11 @@ html[xmlns] .slides {display: block;}
 	@include media($mobile) { // grid has 4 columns in total
 		#big-slider { font-size:10px; }
 	}
-	@media screen and (min-width: 650px) {
+	@media screen and (min-width: 720px) {
 		#big-slider { font-size:12px; }
 	}
 	
-	@include media($tablet) { // grid has 8 columns in total
+	@media screen and (min-width: 850jpx) { // @include media($tablet) { // grid has 8 columns in total
 		#big-slider { font-size:14px; }
 	}
 

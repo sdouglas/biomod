@@ -1055,10 +1055,10 @@ html[xmlns] .slides {
 @media screen and (min-width: 320px) {
   #big-slider {
     font-size: 10px; } }
-@media screen and (min-width: 650px) {
+@media screen and (min-width: 720px) {
   #big-slider {
     font-size: 12px; } }
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 850jpx) {
   #big-slider {
     font-size: 14px; } }
 @media screen and (min-width: 960px) {

@@ -93,6 +93,13 @@ $(function(){
 		$('.video-row').hide();
 		$('#bionano-vid a').click( function(){
 			$('.video-row').slideDown();
+			$('html,body').animate({
+				scrollTop: $('.video-row').offset().top-50
+			}, 1000);
 			return false;
 		});
+		$('.video-row .close').click( function(){
+			$('.video-row').slideUp();
+			return false;
+		})
 });

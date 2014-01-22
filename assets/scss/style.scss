@@ -79,9 +79,19 @@ body > footer {
 .underway p { font-size: 1.6em; margin: 1em 0; }
 
 .video-container {
-display: block;
-width: 80%;
-margin: 30px auto 20px;
+	display: block;
+	width: 80%;
+	margin: 30px auto 20px;
+}
+.video-row {
+	position: relative;
+	.close {
+		position:absolute;
+		top:20px;
+		right:20px;
+		padding: 4px 8px;
+		background-color: $snow;
+	}
 }
 
 #newsletter-blurb i {
@@ -100,6 +110,11 @@ margin: 30px auto 20px;
 		// give content some breathing room on small screens
 		padding-left: 1em;
 		padding-right: 1em;
+	}
+	.featured.white .row {
+		// except for the slider, extend that to edge of screen
+		padding-left: 0;
+		padding-right: 0;
 	}
     main {@include span-columns(4);}
 	aside section{@include span-columns(4);}

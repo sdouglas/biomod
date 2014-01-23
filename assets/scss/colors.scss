@@ -77,15 +77,19 @@ div.third{background:white}
 //	text-align:-10000px;
 
 }
-#wyss {
-	height:70px;
-	background:url(../images/wysslogo.png) no-repeat;
-        background-position: top center;
-	display:block;
-	margin-top:4px;
+#facebook {
+	//height:70px;
+	//display:block;
+	margin-top:30px;
 }
 
-#tshirt, #cadnano, #bionano-vid {
+ 
+
+
+
+
+
+#wyss, #cadnano, #bionano-vid {
 	background: $snow;
 	padding:0;
 	img {width:100%; display:block;}
@@ -145,12 +149,13 @@ h1{
 .section-title {
     background: white; //$midgray; //$snow;
 }
-.section-caption {
+.section-caption,.section-caption a {
         background: white; //$midgray; //$snow;
         color: #888;
 	    padding: 5px 20px;
 	    border-top: solid 1px $lightgray;
 }
+
 
 .callout {
 	background: $lightgray;

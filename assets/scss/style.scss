@@ -157,7 +157,7 @@ body > footer {
                 position: relative;
                 left: -13px;
         }
-        #wyss { float:right; 	width:219px; background-position: top left; } 
+        #facebook { float:right; 	width:219px;  } 
 }
 @include media($tablet) { // grid has 8 columns in total
    // body 	{background: yellow;}
@@ -193,7 +193,7 @@ body > footer {
 @include media($desktop) { // grid has 12 columns in total
    // body { background: green; }
 
-    #wyss { display:block; }
+    #facebook { display:block; }
     ul.horizontal{ float:right; }
 	header,
 	.row {

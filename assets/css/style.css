@@ -51,22 +51,18 @@ div.third {
   background-position: top center;
   display: block; }
 
-#wyss {
-  height: 70px;
-  background: url(../images/wysslogo.png) no-repeat;
-  background-position: top center;
-  display: block;
-  margin-top: 4px; }
+#facebook {
+  margin-top: 30px; }
 
-#tshirt, #cadnano, #bionano-vid {
+#wyss, #cadnano, #bionano-vid {
   background: #f0f0f0;
   padding: 0; }
-  #tshirt img, #cadnano img, #bionano-vid img {
+  #wyss img, #cadnano img, #bionano-vid img {
     width: 100%;
     display: block; }
-  #tshirt p, #cadnano p, #bionano-vid p {
+  #wyss p, #cadnano p, #bionano-vid p {
     padding: 8px 20px; }
-  #tshirt .section-title, #cadnano .section-title, #bionano-vid .section-title {
+  #wyss .section-title, #cadnano .section-title, #bionano-vid .section-title {
     border-top: solid 1px #f6f6f6; }
 
 #calendar {
@@ -110,7 +106,7 @@ h1 em {
 .section-title {
   background: white; }
 
-.section-caption {
+.section-caption, .section-caption a {
   background: white;
   color: #888;
   padding: 5px 20px;
@@ -481,22 +477,18 @@ div.third {
   background-position: top center;
   display: block; }
 
-#wyss {
-  height: 70px;
-  background: url(../images/wysslogo.png) no-repeat;
-  background-position: top center;
-  display: block;
-  margin-top: 4px; }
+#facebook {
+  margin-top: 30px; }
 
-#tshirt, #cadnano, #bionano-vid {
+#wyss, #cadnano, #bionano-vid {
   background: #f0f0f0;
   padding: 0; }
-  #tshirt img, #cadnano img, #bionano-vid img {
+  #wyss img, #cadnano img, #bionano-vid img {
     width: 100%;
     display: block; }
-  #tshirt p, #cadnano p, #bionano-vid p {
+  #wyss p, #cadnano p, #bionano-vid p {
     padding: 8px 20px; }
-  #tshirt .section-title, #cadnano .section-title, #bionano-vid .section-title {
+  #wyss .section-title, #cadnano .section-title, #bionano-vid .section-title {
     border-top: solid 1px #f6f6f6; }
 
 #calendar {
@@ -540,7 +532,7 @@ h1 em {
 .section-title {
   background: white; }
 
-.section-caption {
+.section-caption, .section-caption a {
   background: white;
   color: #888;
   padding: 5px 20px;
@@ -635,22 +627,18 @@ div.third {
   background-position: top center;
   display: block; }
 
-#wyss {
-  height: 70px;
-  background: url(../images/wysslogo.png) no-repeat;
-  background-position: top center;
-  display: block;
-  margin-top: 4px; }
+#facebook {
+  margin-top: 30px; }
 
-#tshirt, #cadnano, #bionano-vid {
+#wyss, #cadnano, #bionano-vid {
   background: #f0f0f0;
   padding: 0; }
-  #tshirt img, #cadnano img, #bionano-vid img {
+  #wyss img, #cadnano img, #bionano-vid img {
     width: 100%;
     display: block; }
-  #tshirt p, #cadnano p, #bionano-vid p {
+  #wyss p, #cadnano p, #bionano-vid p {
     padding: 8px 20px; }
-  #tshirt .section-title, #cadnano .section-title, #bionano-vid .section-title {
+  #wyss .section-title, #cadnano .section-title, #bionano-vid .section-title {
     border-top: solid 1px #f6f6f6; }
 
 #calendar {
@@ -694,7 +682,7 @@ h1 em {
 .section-title {
   background: white; }
 
-.section-caption {
+.section-caption, .section-caption a {
   background: white;
   color: #888;
   padding: 5px 20px;
@@ -1434,10 +1422,9 @@ body > footer {
     position: relative;
     left: -13px; }
 
-  #wyss {
+  #facebook {
     float: right;
-    width: 219px;
-    background-position: top left; } }
+    width: 219px; } }
 @media screen and (min-width: 720px) {
   main {
     display: block;
@@ -1526,7 +1513,7 @@ body > footer {
   .featured.secondary {
     padding: 30px 0 10px; } }
 @media screen and (min-width: 960px) {
-  #wyss {
+  #facebook {
     display: block; }
 
   ul.horizontal {

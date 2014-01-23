@@ -42,7 +42,6 @@ header {
 }
 header nav {@include outer-container;}
 
-
 // headers inside section boxes
 // color of which is in color.scss
 section header {
@@ -130,6 +129,12 @@ body > footer {
 	.half {@include span-columns(4);}
 	.quarter{@include span-columns(4);}
 
+	#facebook {
+		float:none;
+		margin: 20px auto 0;
+		width:140px;  	
+	}
+	
 	// what is biomod? #mission
 	#mission {
 		h1 {font-size:25px}
@@ -150,15 +155,19 @@ body > footer {
         footer { padding: 1em; }
 
 }
-@media( min-width: 500px ){
+@media( min-width: 450px ){
         #biomod { 
                 float:left; width:260px; background-position: top left;
                 // compensate for white space in left of image
                 position: relative;
                 left: -13px;
         }
-        #facebook { float:right; 	width:219px;  } 
+        #facebook { 
+			float:right; 	
+			margin-top:30px;
+		} 
 }
+
 @include media($tablet) { // grid has 8 columns in total
    // body 	{background: yellow;}
 
@@ -174,6 +183,11 @@ body > footer {
 	.half {@include span-columns(4);}
 	.quarter{@include span-columns(2);}
 
+	#facebook {
+		float:none;
+		margin:80px 0 0;
+	}
+	
 	// what is biomod? #mission
 	#mission {
 		h1 {font-size:28px}
@@ -188,6 +202,13 @@ body > footer {
         .featured.highlights {padding:30px 0 10px;}
 		.featured.secondary {padding:30px 0 10px;}
 
+}
+@media (min-width: 875px){
+    #facebook {
+		float:right;
+		width:140px;
+		margin-top:30px;
+	} 
 }
 
 @include media($desktop) { // grid has 12 columns in total

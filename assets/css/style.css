@@ -51,9 +51,6 @@ div.third {
   background-position: top center;
   display: block; }
 
-#facebook {
-  margin-top: 30px; }
-
 #wyss, #cadnano, #bionano-vid {
   background: #f0f0f0;
   padding: 0; }
@@ -477,9 +474,6 @@ div.third {
   background-position: top center;
   display: block; }
 
-#facebook {
-  margin-top: 30px; }
-
 #wyss, #cadnano, #bionano-vid {
   background: #f0f0f0;
   padding: 0; }
@@ -626,9 +620,6 @@ div.third {
   background: url(../images/biomodlogo.png) no-repeat;
   background-position: top center;
   display: block; }
-
-#facebook {
-  margin-top: 30px; }
 
 #wyss, #cadnano, #bionano-vid {
   background: #f0f0f0;
@@ -1372,6 +1363,11 @@ body > footer {
     .quarter:last-child {
       margin-right: 0; }
 
+  #facebook {
+    float: none;
+    margin: 20px auto 0;
+    width: 140px; }
+
   #mission h1 {
     font-size: 25px; }
 
@@ -1414,7 +1410,7 @@ body > footer {
 
   footer {
     padding: 1em; } }
-@media (min-width: 500px) {
+@media (min-width: 450px) {
   #biomod {
     float: left;
     width: 260px;
@@ -1424,7 +1420,7 @@ body > footer {
 
   #facebook {
     float: right;
-    width: 219px; } }
+    margin-top: 30px; } }
 @media screen and (min-width: 720px) {
   main {
     display: block;
@@ -1474,6 +1470,10 @@ body > footer {
     .quarter:last-child {
       margin-right: 0; }
 
+  #facebook {
+    float: none;
+    margin: 80px 0 0; }
+
   #mission h1 {
     font-size: 28px; }
 
@@ -1512,6 +1512,11 @@ body > footer {
 
   .featured.secondary {
     padding: 30px 0 10px; } }
+@media (min-width: 875px) {
+  #facebook {
+    float: right;
+    width: 140px;
+    margin-top: 30px; } }
 @media screen and (min-width: 960px) {
   #facebook {
     display: block; }

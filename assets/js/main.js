@@ -28,13 +28,24 @@ $(function(){
         $('#photos-nav').flexslider({
                 animation : "slide",
                 controlNav: false,
-                directionNav : false,
                 animationLoop: false,
                 slideshow: false,
                 itemWidth: 180,
                 itemMargin: 5,
+				asNavFor: "#photos"
+			});
+			
+			/*
                 asNavFor : '#photos'
         });
+		
+	    animation: "slide",
+	    controlNav: false,
+	    animationLoop: false,
+	    slideshow: false,
+	    sync: "#carousel"
+		*/
+		
         $('#photos').flexslider({
 				controlNav : false,
                 directionNav : false,

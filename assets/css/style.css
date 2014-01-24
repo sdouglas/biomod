@@ -1293,8 +1293,9 @@ body > footer {
     padding: 4px 8px;
     background-color: #f0f0f0; }
 
-#jamboree-details {
-  min-height: 327px; }
+#facebook-box {
+  min-height: 327px;
+  overflow: hidden; }
 
 #newsletter-blurb i {
   float: left;
@@ -1367,6 +1368,9 @@ body > footer {
     float: none;
     margin: 20px auto 0;
     width: 140px; }
+
+  #facebook-box {
+    display: none; }
 
   #mission h1 {
     font-size: 25px; }
@@ -1473,6 +1477,9 @@ body > footer {
   #facebook {
     float: none;
     margin: 80px 0 0; }
+
+  #facebook-box {
+    display: block; }
 
   #mission h1 {
     font-size: 28px; }

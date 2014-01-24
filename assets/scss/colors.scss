@@ -84,13 +84,13 @@ div.third{background:white}
 
 
 
+	.section-title{border-top:solid 1px $lightgray;}
 
 #wyss, #cadnano, #bionano-vid {
-	background: $snow;
+	//background: $snow;
 	padding:0;
 	img {width:100%; display:block;}
 	p{padding:8px 20px;}
-	.section-title{border-top:solid 1px $lightgray;}
 	//background:url(../images/tshirt.png) no-repeat;
 }
 
@@ -103,10 +103,10 @@ div.third{background:white}
 
 
 .featured.highlights {
-	background: $lightgray;// $salmon;
+	background: white; //$lightgray;// $salmon;
 }
 .featured.secondary {
-	background: $snow;
+	background: white; //$snow;
 }
 .featured.white {
 	background: white;
@@ -145,7 +145,7 @@ h1{
 .section-title {
     background: white; //$midgray; //$snow;
 }
-.section-caption,.section-caption a {
+.section-caption {
         background: white; //$midgray; //$snow;
         color: #888;
 	    padding: 5px 20px;

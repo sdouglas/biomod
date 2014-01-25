@@ -34,6 +34,14 @@ body {
 	  @include pad(30px 0px);
 }
 
+#wyss {
+       height:70px;
+       background:url(../images/wysslogo.png) no-repeat;
+        background-position: top center;
+       display:block;
+       margin-top:4px;
+}
+
 // top header
 header {
 	padding:10px 20px;
@@ -160,17 +168,18 @@ body > footer {
         footer { padding: 1em; }
 
 }
-@media( min-width: 450px ){
+@media( min-width: 500px ){
         #biomod { 
                 float:left; width:260px; background-position: top left;
                 // compensate for white space in left of image
                 position: relative;
                 left: -13px;
         }
-        #facebook { 
-			float:right; 	
-			margin-top:30px;
-		} 
+		#wyss { 
+			float:right;
+			width:219px;
+			background-position: top left;
+		}
 }
 
 @include media($tablet) { // grid has 8 columns in total
@@ -190,10 +199,6 @@ body > footer {
 
 	.featured .third { margin-top: 0; }
 
-	#facebook {
-		float:none;
-		margin:80px 0 0;
-	}
 	#facebook-box {display:block}// feature-box on front page.
 
 	
@@ -213,18 +218,11 @@ body > footer {
 		.featured.secondary {padding:30px 0 10px;}
 
 }
-@media (min-width: 875px){
-    #facebook {
-		float:right;
-		width:140px;
-		margin-top:30px;
-	} 
-}
 
 @include media($desktop) { // grid has 12 columns in total
    // body { background: green; }
 
-    #facebook { display:block; }
+    #wyss { display:block; }
     ul.horizontal{ float:right; }
 	header,
 	.row {

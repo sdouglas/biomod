@@ -1230,6 +1230,13 @@ body {
 .main {
   padding: 30px 0px; }
 
+#wyss {
+  height: 70px;
+  background: url(../images/wysslogo.png) no-repeat;
+  background-position: top center;
+  display: block;
+  margin-top: 4px; }
+
 header {
   padding: 10px 20px;
   border-bottom: solid 1px #E2E2E2; }
@@ -1418,7 +1425,7 @@ body > footer {
 
   footer {
     padding: 1em; } }
-@media (min-width: 450px) {
+@media (min-width: 500px) {
   #biomod {
     float: left;
     width: 260px;
@@ -1426,9 +1433,10 @@ body > footer {
     position: relative;
     left: -13px; }
 
-  #facebook {
+  #wyss {
     float: right;
-    margin-top: 30px; } }
+    width: 219px;
+    background-position: top left; } }
 @media screen and (min-width: 720px) {
   main {
     display: block;
@@ -1481,10 +1489,6 @@ body > footer {
   .featured .third {
     margin-top: 0; }
 
-  #facebook {
-    float: none;
-    margin: 80px 0 0; }
-
   #facebook-box {
     display: block; }
 
@@ -1528,13 +1532,8 @@ body > footer {
 
   .featured.secondary {
     padding: 30px 0 10px; } }
-@media (min-width: 875px) {
-  #facebook {
-    float: right;
-    width: 140px;
-    margin-top: 30px; } }
 @media screen and (min-width: 960px) {
-  #facebook {
+  #wyss {
     display: block; }
 
   ul.horizontal {

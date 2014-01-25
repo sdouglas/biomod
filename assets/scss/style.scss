@@ -168,7 +168,7 @@ body > footer {
         footer { padding: 1em; }
 
 }
-@media( min-width: 500px ){
+@media( min-width: 520px ){
         #biomod { 
                 float:left; width:260px; background-position: top left;
                 // compensate for white space in left of image
@@ -177,7 +177,7 @@ body > footer {
         }
 		#wyss { 
 			float:right;
-			width:219px;
+			width:217px;
 			background-position: top left;
 		}
 }
@@ -194,11 +194,15 @@ body > footer {
 
 	}
 	.two-thirds{@include span-columns(5.2);}
+	header .half {@include span-columns(8);} // full width still so biomod and wyss logos don't stack
 	.half {@include span-columns(4);}
 	.quarter{@include span-columns(2);}
 
 	.featured .third { margin-top: 0; }
 
+	#wyss {
+	}
+	
 	#facebook-box {display:block}// feature-box on front page.
 
 	
@@ -222,7 +226,10 @@ body > footer {
 @include media($desktop) { // grid has 12 columns in total
    // body { background: green; }
 
-    #wyss { display:block; }
+    #wyss {
+		display:block; 
+		margin-right:-8px; //cheat to squeeze it in until 960px breakpoint
+	}
     ul.horizontal{ float:right; }
 	header,
 	.row {
@@ -238,6 +245,7 @@ body > footer {
 	.third{@include span-columns(4);}
 	.two-thirds{@include span-columns(8);}
 	.half {@include span-columns(6);}
+	header .half {@include span-columns(6);} // now biomod and wyss logos will fit floated side-by-side
 	.quarter{@include span-columns(3);}	
 
 

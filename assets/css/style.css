@@ -1425,7 +1425,7 @@ body > footer {
 
   footer {
     padding: 1em; } }
-@media (min-width: 500px) {
+@media (min-width: 520px) {
   #biomod {
     float: left;
     width: 260px;
@@ -1435,7 +1435,7 @@ body > footer {
 
   #wyss {
     float: right;
-    width: 219px;
+    width: 217px;
     background-position: top left; } }
 @media screen and (min-width: 720px) {
   main {
@@ -1468,6 +1468,14 @@ body > footer {
     margin-right: 3.22581%;
     width: 63.87097%; }
     .two-thirds:last-child {
+      margin-right: 0; }
+
+  header .half {
+    display: block;
+    float: left;
+    margin-right: 3.22581%;
+    width: 100%; }
+    header .half:last-child {
       margin-right: 0; }
 
   .half {
@@ -1534,7 +1542,8 @@ body > footer {
     padding: 30px 0 10px; } }
 @media screen and (min-width: 960px) {
   #wyss {
-    display: block; }
+    display: block;
+    margin-right: -8px; }
 
   ul.horizontal {
     float: right; }
@@ -1582,6 +1591,14 @@ body > footer {
     margin-right: 2.12766%;
     width: 48.93617%; }
     .half:last-child {
+      margin-right: 0; }
+
+  header .half {
+    display: block;
+    float: left;
+    margin-right: 2.12766%;
+    width: 48.93617%; }
+    header .half:last-child {
       margin-right: 0; }
 
   .quarter {

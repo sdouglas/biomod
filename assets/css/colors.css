@@ -43,16 +43,16 @@ div.third {
   background-position: top center;
   display: block; }
 
+.section-title {
+  border-top: solid 1px #f6f6f6; }
+
 #wyss, #cadnano, #bionano-vid {
-  background: #f0f0f0;
   padding: 0; }
   #wyss img, #cadnano img, #bionano-vid img {
     width: 100%;
     display: block; }
   #wyss p, #cadnano p, #bionano-vid p {
     padding: 8px 20px; }
-  #wyss .section-title, #cadnano .section-title, #bionano-vid .section-title {
-    border-top: solid 1px #f6f6f6; }
 
 #calendar {
   background: #4fc4f6;
@@ -95,7 +95,7 @@ h1 em {
 .section-title {
   background: white; }
 
-.section-caption, .section-caption a {
+.section-caption {
   background: white;
   color: #888;
   padding: 5px 20px;

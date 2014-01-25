@@ -38,7 +38,6 @@ body {
 header {
 	padding:10px 20px;
 	border-bottom: solid 1px #E2E2E2;
-	margin-bottom: 32px;
 }
 header nav {@include outer-container;}
 
@@ -130,6 +129,8 @@ body > footer {
 	.half {@include span-columns(4);}
 	.quarter{@include span-columns(4);}
 
+	.featured .third { margin-top: 1em;}
+	
 	#facebook {
 		float:none;
 		margin: 20px auto 0;
@@ -140,6 +141,7 @@ body > footer {
 	
 	// what is biomod? #mission
 	#mission {
+		margin-bottom:2em;
 		h1 {font-size:25px}
 	}
 
@@ -186,6 +188,8 @@ body > footer {
 	.half {@include span-columns(4);}
 	.quarter{@include span-columns(2);}
 
+	.featured .third { margin-top: 0; }
+
 	#facebook {
 		float:none;
 		margin:80px 0 0;
@@ -195,6 +199,7 @@ body > footer {
 	
 	// what is biomod? #mission
 	#mission {
+		margin-bottom:0;
 		h1 {font-size:28px}
 	}
 
@@ -258,6 +263,10 @@ body > footer {
 
 @include media($largedesktop) { // grid has 16 columns in total
    // body 	{background: purple;}
+   
+   header {
+		margin-bottom: 32px;
+   }
 
     main {@include span-columns(11);}
 	aside section {@include span-columns(5);}

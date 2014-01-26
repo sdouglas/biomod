@@ -3,60 +3,36 @@ layout: default
 title: Biomolecular Design Competition
 ---
 
-
 <div class="featured white">
-    
-
-	<div class="row">
-		<div id="big-slider" class="flexslider">
-                    <ul class="slides">
-                            <li>
-								<img src="/assets/images/slides/3.jpg" />
-							</li>
-                            <li>
-								<img src="/assets/images/slides/4.jpg" />
-							</li>
-                            <li>
-								<img src="/assets/images/slides/5.jpg" />
-							</li>
-                            <li>
-								<img src="/assets/images/slides/6.jpg" />
-							</li>
-                            <li>
-								<img src="/assets/images/slides/8.jpg" />
-							</li>
-                            <li>
-								<img src="/assets/images/slides/9.jpg" />
-							</li>
-                            <li>
-								<img src="/assets/images/slides/10.jpg" />
-							</li>
-                            <li>
-								<img src="/assets/images/slides/icosa1.jpg" />
-								<p id="nucleosomes">Learn to engineer biomolecules</p>
-							</li>
-                    </ul>
-            </div>
-			
-		</div>
-	</div>
+    <div class="row">
+        <div id="big-slider" class="flexslider">
+             <ul class="slides">
+                 <li><img src="/assets/images/slides/3.jpg" /></li>
+                 <li><img src="/assets/images/slides/4.jpg" /></li>
+                 <li><img src="/assets/images/slides/5.jpg" /></li>
+                 <li><img src="/assets/images/slides/6.jpg" /></li>
+                 <li><img src="/assets/images/slides/8.jpg" /></li>
+                 <li><img src="/assets/images/slides/9.jpg" /></li>
+                 <li><img src="/assets/images/slides/10.jpg" /></li>
+                 <li><img src="/assets/images/slides/icosa1.jpg" />
+                     <p id="nucleosomes">
+                         Learn to engineer biomolecules
+                     </p>
+                 </li>
+             </ul>
+        </div>
+    </div>
+</div>
 
     <div class="row">
-
         <div id="mission" class="two-thirds">
             <h1>
-                BIOMOD is an <em>annual design competition</em> in which undergraduate teams compete to master control of biomolecules on the nanometer scale.
+                BIOMOD is an annual competition for biomolecular design.
             </h1>
 
-			<p id="mission-more">
-				Focus areas may include &mdash; but are not limited to &mdash; 
-				biomolecular robotics, 
-				biomolecular logic and computing, 
-				and structural bionanotechnology. 
-				Students conceive and execute projects during the summer 
-				and then gather in Boston in November 
-				to present their work and win awards.
-			</p>
+            <p id="mission-more">
+<strong>Undergraduate teams</strong> compete to see who can build the coolest stuff using the <strong>molecules of life</strong>. Past teams have used DNA, RNA, and proteins to build robots, computers, and prototypes for nano-therapeutics. Students lead projects each summer and then travel to Harvard in early November to present their work and win awards.
+            </p>
 
             <div id="mission-share">
 
@@ -66,34 +42,31 @@ title: Biomolecular Design Competition
 
                 <a href="#callout" class="icon-mail">subscribe</a>
 
-			</div>
-		</div>
-		<div class="third">
-			
-	        <h4 id="latest-blogs">Latest Blogs<small><a href="/blog/index.html">See All</a></small></h2>
+            </div>
+        </div>
+        <div class="third">
+
+            <h4 id="latest-blogs">Latest Blogs<small><a href="/blog/index.html">See All</a></small></h2>
     
-	        <div class="posts flexslider">
-	            <ul class="slides">
-	            {% for post in site.posts limit:4 %}
-	            <li>
-	            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-	            <span>{{ post.date | date_to_string }}</span>
+            <div class="posts flexslider">
+                <ul class="slides">
+                {% for post in site.posts limit:4 %}
+                <li>
+                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <span>{{ post.date | date_to_string }}</span>
 
-	            {{ post.excerpt }}
+                {{ post.excerpt }}
 
-	            <a href="{{ post.url }}">Continue Reading &raquo;</a>
+                <a href="{{ post.url }}">Continue Reading &raquo;</a>
 
-	            </li>
-	            {% endfor %}
-	            </ul>
-	        </div>
-	        <div class="post-nav"></div>
-			
-		</div>
-
-	</div>
-	
-	<div class="row">
+                </li>
+                {% endfor %}
+                </ul>
+            </div>
+            <div class="post-nav"></div>
+        </div>
+    </div>
+    <div class="row">
 
     </div>
 
@@ -102,50 +75,46 @@ title: Biomolecular Design Competition
 
 
 <div class ="featured highlights">
-	<div class="row">
+    <div class="row">
+        <section class="third feature-box" id="bionano-vid">
+            <a href="#">
+                <img src="/assets/images/whatisbionano.jpg" />
+            </a>
+            <a class="section-title" href="#">What is bionanotechnology?</a>
+            <div class="section-caption">View the video</div>
+        </section>
 
-		<section class="third ">
-		        <div class="feature-box" id="calendar">
-		                <p class="countdown"></p>
-		                <div class="underway">
-		                        <p>Saturday, 8am–5:30pm</p>
-		                        <p>Sunday, 8am–10:30am</p>
-		                        <p><a href="https://db.tt/p3i2jZAl">schedule &raquo;</a>
-		                </div>
-		        </div>
-		        <a class="section-title" href="/pages/how-to-join">Register Your Team</a>
-		        <div class="section-caption">Registration closes April 30th, at 11:59 pm<!-- Jamboree date! ---- November 1st, 2014 / Cambridge, MA --></div>
-		</section>
+        <section class="third">
+            <div class="feature-box" id="calendar">
+                <p class="countdown"></p>
+                <div class="underway">
+                <p>Saturday, 8am–5:30pm</p>
+                <p>Sunday, 8am–10:30am</p>
+                <p><a href="https://db.tt/p3i2jZAl">schedule &raquo;</a>
+                </div>
+            </div>
+                <a class="section-title" href="/pages/how-to-join">Register Your Team</a>
+                <div class="section-caption">Registration closes April 30th, at 11:59 pm <!-- Jamboree date! ---- November 1st, 2014 / Cambridge, MA --></div>
+        </section>
 
-		<section class="third feature-box" id="bionano-vid">
-		    <a href="#">
-		        <img src="/assets/images/whatisbionano.jpg" />
-		    </a>
-		    <a class="section-title" href="#">What is bionano?</a>
-		    <div class="section-caption">View the video</div>
-		</section>
+        <section class="third feature-box" id="facebook-box">
+            <div class="fb-like-box" data-href="http://www.facebook.com/biomod" data-width="300" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+        </section>
 
-		<section class="third feature-box" id="facebook-box">
-			
-			<div class="fb-like-box" data-href="http://www.facebook.com/biomod" data-width="300" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
-
-
-		</section>
-
-	</div>
+    </div>
 </div>
 
 <div class="row video-row">
-	<a class="close" href="#">[X] close</a>
+    <a class="close" href="#">[X] close</a>
     <div class="video-container">
              <iframe width="560" height="315" src="//www.youtube.com/embed/ITtGJUGXFKc?rel=0&amp;autohide=1&amp;showinfo=0" frameborder="0"></iframe>
     </div>
 </div>
 
 <div class="featured secondary">
-	<div class="row">
+    <div class="row">
 
-		<section class="third" class="third feature-box" id="wyss">
+        <section class="third" class="third feature-box" id="wyss">
             
             <a target="_blank" href="http://wyss.harvard.edu">
                 <img src="/assets/images/wysslogo.png"/>
@@ -153,25 +122,25 @@ title: Biomolecular Design Competition
             <a class="section-title" href="http://wyss.harvard.edu">Proudly sponsored by</a>
             <div class="section-caption"><a href="http://wyss.harvard.edu">The Wyss Institute</a> </div>
 
-       	</section>
+        </section>
 
-		<section class="third feature-box" id="cadnano">
-		    <a href="http://cadnano.org">
-				<img src="/assets/images/cadnano-short.png"/>
-			</a>
-		    <a class="section-title" href="http://cadnano.org">Download Cadnano</a>
-		    <div class="section-caption">Get started designing DNA origami</div>
-		</section>
+        <section class="third feature-box" id="cadnano">
+            <a href="http://cadnano.org">
+                <img src="/assets/images/cadnano-short.png"/>
+            </a>
+            <a class="section-title" href="http://cadnano.org">Download Cadnano</a>
+            <div class="section-caption">Get started designing DNA origami</div>
+        </section>
 
-		<section class="third half-box" id="cadnano">
-		    <a href="/pages/winners">
-				<img src="/assets/images/trophy.png"/>
-			</a>
-		    <a class="section-title" href="/pages/winners">See winners</a>
-		    <div class="section-caption">of previous BIOMODs</div>
-		</section>
+        <section class="third half-box" id="cadnano">
+            <a href="/pages/winners">
+                <img src="/assets/images/trophy.png"/>
+            </a>
+            <a class="section-title" href="/pages/winners">See winners</a>
+            <div class="section-caption">of previous BIOMODs</div>
+        </section>
 
-	</div>
+    </div>
 </div>
 
 
@@ -184,7 +153,7 @@ title: Biomolecular Design Competition
                                 <li><img src="/assets/images/photos/8165661478_b9d70fb1f6.jpg" /></li>
                                 <li><img src="/assets/images/photos/8165610433_a40a164810.jpg" /></li>
                                 <li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>
-								
+                                
                                 <li><img src="/assets/images/photos/8165661478_b9d70fb1f6.jpg" /></li>
                                 <li><img src="/assets/images/photos/8165610433_a40a164810.jpg" /></li>
                                 <li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>
@@ -198,7 +167,7 @@ title: Biomolecular Design Competition
                                 <li><img src="/assets/images/photos/8165661478_b9d70fb1f6.jpg" /></li>
                                 <li><img src="/assets/images/photos/8165610433_a40a164810.jpg" /></li>
                                 <li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>
-								
+                                
                                 <li><img src="/assets/images/photos/8165661478_b9d70fb1f6.jpg" /></li>
                                 <li><img src="/assets/images/photos/8165610433_a40a164810.jpg" /></li>
                                 <li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>

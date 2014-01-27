@@ -26,3 +26,40 @@ Teams will be judged according to [criteria posted here](/judging).
 ## Schedule
 
 Here is the latest version of [this year's schedule](https://www.dropbox.com/s/34no0jbhuyq5ltn/BIOMOD2012_schedule_v1.pdf). 
+
+
+<div class="main">
+<div class="row">
+
+<h4 id="latest-photos">Photos from Biomod</h2>
+<div id="photos" class="flexslider">
+<ul class="slides">
+<li><img src="/assets/images/photos/8165661478_b9d70fb1f6.jpg" /></li>
+<li><img src="/assets/images/photos/8165610433_a40a164810.jpg" /></li>
+<li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>
+
+<li><img src="/assets/images/photos/8165661478_b9d70fb1f6.jpg" /></li>
+<li><img src="/assets/images/photos/8165610433_a40a164810.jpg" /></li>
+<li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>
+<li><img src="/assets/images/photos/8165661478_b9d70fb1f6.jpg" /></li>
+<li><img src="/assets/images/photos/8165610433_a40a164810.jpg" /></li>
+<li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>
+</ul>
+</div>
+<div id="photos-nav" class="flexslider">
+<ul class="slides">
+<li><img src="/assets/images/photos/8165661478_b9d70fb1f6.jpg" /></li>
+<li><img src="/assets/images/photos/8165610433_a40a164810.jpg" /></li>
+<li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>
+
+<li><img src="/assets/images/photos/8165661478_b9d70fb1f6.jpg" /></li>
+<li><img src="/assets/images/photos/8165610433_a40a164810.jpg" /></li>
+<li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>
+<li><img src="/assets/images/photos/8165661478_b9d70fb1f6.jpg" /></li>
+<li><img src="/assets/images/photos/8165610433_a40a164810.jpg" /></li>
+<li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>
+</ul>
+</div>
+
+</div>
+</div>

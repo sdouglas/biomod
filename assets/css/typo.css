@@ -180,7 +180,7 @@ footer.subfooter p {
 .text-muted {
   color: #808080; }
 
-/*  Links 
+/*  Links
  *  Hyperlink styling */
 a {
   color: #0088cc;
@@ -202,7 +202,7 @@ a:hover img {
   opacity: 0.8;
   filter: alpha(opacity=80); }
 
-/*  Lists 
+/*  Lists
  *  Styling for lists */
 ul, ol {
   margin-bottom: 1.5em;
@@ -239,7 +239,7 @@ ul.horizontal {
     margin: 0 10px; }
 
 /*  Removes list styling.
- *  For semantic reasons, should only 
+ *  For semantic reasons, should only
  *  be used on unordered lists. */
 .list-unstyled {
   margin-left: 0;

@@ -45,14 +45,14 @@ title: Biomolecular Design Competition
         <div class="third">
 
             <h4 id="latest-blogs">Latest Blogs<small><a href="/blog/index.html">See All</a></small></h2>
-    
+
                 <ul class="blog-posts">
                 {% for post in site.posts limit:3 %}
                 <li>
-	                <h5>
-						<a href="{{ post.url }}">{{ post.title }}</a>
-					</h5>
-					<time>{{ post.date | date_to_string }}</time>
+                    <h5>
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                    </h5>
+                    <time>{{ post.date | date_to_string }}</time>
                 </li>
                 {% endfor %}
                 </ul>
@@ -65,6 +65,7 @@ title: Biomolecular Design Competition
 
 <div class ="featured highlights">
     <div class="row">
+
         <section class="third feature-box" id="bionano-vid">
             <a href="#">
                 <img src="/assets/images/whatisbionano.jpg" />
@@ -103,22 +104,20 @@ title: Biomolecular Design Competition
 <div class="featured secondary">
     <div class="row">
 
+        <section class="third feature-box" id="cadnano">
+            <a target="_blank" href="http://cadnano.org">
+                <img src="/assets/images/cadnano-short.png"/>
+            </a>
+            <a class="section-title" target="_blank" href="http://cadnano.org">Download cadnano</a>
+            <div class="section-caption">Get started designing DNA origami</div>
+        </section>
+
         <section class="third" class="third feature-box" id="wyss-panel">
-            
             <a target="_blank" href="http://wyss.harvard.edu">
                 <img src="/assets/images/wysslogo.png"/>
             </a>
             <a class="section-title" href="http://wyss.harvard.edu">Proudly sponsored by</a>
-            <div class="section-caption"><a href="http://wyss.harvard.edu">The Wyss Institute</a> </div>
-
-        </section>
-
-        <section class="third feature-box" id="cadnano">
-            <a href="http://cadnano.org">
-                <img src="/assets/images/cadnano-short.png"/>
-            </a>
-            <a class="section-title" href="http://cadnano.org">Download Cadnano</a>
-            <div class="section-caption">Get started designing DNA origami</div>
+            <div class="section-caption"><a href="http://wyss.harvard.edu">Wyss Institute at Harvard University</a></div>
         </section>
 
         <section class="third half-box" id="cadnano">
@@ -126,11 +125,10 @@ title: Biomolecular Design Competition
                 <img src="/assets/images/trophy.png"/>
             </a>
             <a class="section-title" href="/pages/winners">See winners</a>
-            <div class="section-caption">of previous BIOMODs</div>
+            <div class="section-caption">of previous competitions</div>
         </section>
 
     </div>
 </div>
-
 
 <br style="clear:both" />

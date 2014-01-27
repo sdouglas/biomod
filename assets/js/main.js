@@ -84,7 +84,7 @@ $(function(){
         
     /*** Animate scroll to subscribe box ***/
         
-        $('.icon-mail').click( function(){
+        $('.scroll-mail').click( function(){
 				$('html,body').animate({
 					scrollTop: $('#callout').offset().top-50
 				}, 1000);

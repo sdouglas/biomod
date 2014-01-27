@@ -109,27 +109,28 @@ h1 em {
   .callout h3 {
     color: #555; }
 
-.social a {
-  display: block;
-  background: #4fc4f6;
-  margin: 1px 0;
-  padding: 10px 12px;
-  color: #fff;
-  -webkit-transition: 0.2s;
-  -moz-transition: 0.2s;
-  transition: 0.2s; }
-  .social a:hover {
-    text-decoration: none;
-    background: #80d4f8; }
-
-/** alternate style for separate bg for icon on left, e.g. <i></i><a>social</a> 
- * maybe <a><i><span></a> instead? (as inline-block) */
-.social i {
-  float: left;
-  background: #1eb4f4;
-  padding: 10px;
-  margin-right: 10px;
-  color: white; }
+.social {
+  /** alternate style for separate bg for icon on left, e.g. <i></i><a>social</a> 
+   * maybe <a><i><span></a> instead? (as inline-block) */ }
+  .social a {
+    display: block;
+    background: #4fc4f6;
+    margin: 1px 0;
+    color: #fff;
+    -webkit-transition: 0.2s;
+    -moz-transition: 0.2s;
+    transition: 0.2s; }
+    .social a:hover {
+      opacity: 0.8; }
+  .social i {
+    float: left;
+    background: #1eb4f4;
+    padding: 10px;
+    margin-right: 10px;
+    color: white; }
+  .social span {
+    padding: 10px 12px;
+    display: block; }
 
 #newsletter-form,
 textarea {

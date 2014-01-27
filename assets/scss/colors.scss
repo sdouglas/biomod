@@ -161,26 +161,28 @@ h1{
 	h3 {color:#555}
 }
 
-.social a {
+.social {
+	a {
         display: block;
         background: $turquoise;
         margin: 1px 0;
-        padding: 10px 12px;
         color: #fff;
         @include transition( 0.2s );
-        &:hover {
-                text-decoration: none;
-                background: lighten($turquoise, 10%);
-        }
-}
-/** alternate style for separate bg for icon on left, e.g. <i></i><a>social</a> 
- * maybe <a><i><span></a> instead? (as inline-block) */
-.social i {
-float: left;
-background: darken($turquoise, 10%); //#59B1D3;
-padding: 10px;
-margin-right: 10px;
-color: white;
+		&:hover { opacity:0.8 }
+	}
+	/** alternate style for separate bg for icon on left, e.g. <i></i><a>social</a> 
+	 * maybe <a><i><span></a> instead? (as inline-block) */
+	i {
+		float: left;
+		background: darken($turquoise, 10%); //#59B1D3;
+		padding: 10px;
+		margin-right: 10px;
+		color: white;
+	}
+	span {
+		padding: 10px 12px;
+		display: block;
+	}
 }
 
 // newsletter form and button

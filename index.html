@@ -50,26 +50,17 @@ title: Biomolecular Design Competition
 
             <h4 id="latest-blogs">Latest Blogs<small><a href="/blog/index.html">See All</a></small></h2>
     
-            <div class="posts flexslider">
-                <ul class="slides">
-                {% for post in site.posts limit:4 %}
+                <ul class="blog-posts">
+                {% for post in site.posts limit:3 %}
                 <li>
-                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                <span>{{ post.date | date_to_string }}</span>
-
-                {{ post.excerpt }}
-
-                <a href="{{ post.url }}">Continue Reading &raquo;</a>
-
+	                <h5>
+						<a href="{{ post.url }}">{{ post.title }}</a>
+					</h5>
+					<time>{{ post.date | date_to_string }}</time>
                 </li>
                 {% endfor %}
                 </ul>
-            </div>
-            <div class="post-nav"></div>
         </div>
-    </div>
-    <div class="row">
-
     </div>
 
 </div>

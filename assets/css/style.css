@@ -1278,6 +1278,15 @@ body > footer {
   #mission-share a:link, #mission-share a:visited {
     padding-right: 20px; }
 
+.blog-posts {
+  list-style-type: none;
+  padding-left: 0; }
+  .blog-posts li {
+    margin-bottom: 1em; }
+  .blog-posts time {
+    color: #a0a0a0;
+    font-size: 80%; }
+
 .highlights .third {
   min-height: 327px; }
 

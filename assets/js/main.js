@@ -10,16 +10,6 @@ $(function(){
 			directionNav : true,
 			direction : 'horizontal',
 			pauseOnHover : true
-		})
-	
-		/* Front page: recent posts */
-		
-		$('.posts').flexslider({
-			direction : 'vertical',
-			pauseOnHover : true,
-	                directionNav : true,
-			controlNav : true,
-	                controlsContainer : '.post-nav'
 		});
         
 		/* Front page: photos */

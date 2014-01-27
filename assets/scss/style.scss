@@ -80,6 +80,13 @@ body > footer {
 	margin:20px 0;
 	a:link,a:visited{padding-right:20px;}
 }
+.blog-posts {
+	list-style-type: none;
+	padding-left: 0;
+	li { margin-bottom:1em; }
+	time { color:#a0a0a0; font-size:80%;}
+}
+
 .highlights .third { }
 .highlights .third { min-height: 327px; }
 .underway p { font-size: 1.6em; margin: 1em 0; }

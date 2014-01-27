@@ -54,12 +54,12 @@ div.third {
 .section-title {
   border-top: solid 1px #f6f6f6; }
 
-#wyss, #cadnano, #bionano-vid {
+#wyss-panel, #cadnano, #bionano-vid {
   padding: 0; }
-  #wyss img, #cadnano img, #bionano-vid img {
+  #wyss-panel img, #cadnano img, #bionano-vid img {
     width: 100%;
     display: block; }
-  #wyss p, #cadnano p, #bionano-vid p {
+  #wyss-panel p, #cadnano p, #bionano-vid p {
     padding: 8px 20px; }
 
 #calendar {
@@ -478,12 +478,12 @@ div.third {
 .section-title {
   border-top: solid 1px #f6f6f6; }
 
-#wyss, #cadnano, #bionano-vid {
+#wyss-panel, #cadnano, #bionano-vid {
   padding: 0; }
-  #wyss img, #cadnano img, #bionano-vid img {
+  #wyss-panel img, #cadnano img, #bionano-vid img {
     width: 100%;
     display: block; }
-  #wyss p, #cadnano p, #bionano-vid p {
+  #wyss-panel p, #cadnano p, #bionano-vid p {
     padding: 8px 20px; }
 
 #calendar {
@@ -626,12 +626,12 @@ div.third {
 .section-title {
   border-top: solid 1px #f6f6f6; }
 
-#wyss, #cadnano, #bionano-vid {
+#wyss-panel, #cadnano, #bionano-vid {
   padding: 0; }
-  #wyss img, #cadnano img, #bionano-vid img {
+  #wyss-panel img, #cadnano img, #bionano-vid img {
     width: 100%;
     display: block; }
-  #wyss p, #cadnano p, #bionano-vid p {
+  #wyss-panel p, #cadnano p, #bionano-vid p {
     padding: 8px 20px; }
 
 #calendar {
@@ -1314,10 +1314,6 @@ body > footer {
 #facebook-box {
   min-height: 327px;
   overflow: hidden; }
-
-#wyss-panel img {
-  margin: 35px auto;
-  display: block; }
 
 #newsletter-blurb i {
   float: left;

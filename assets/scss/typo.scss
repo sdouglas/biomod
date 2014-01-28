@@ -100,9 +100,10 @@ ol {
 ul.horizontal {
     @include clearfix();
     font-size:15px;
-    line-height:21px;
+    
+    margin-bottom:14px;
     //text-transform:uppercase;
-    padding:10px 0;
+    padding:14px 0;
     a:link,a:visited {color:#ccc}
     a:hover {color:white}
     li {

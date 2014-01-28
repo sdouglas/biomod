@@ -56,15 +56,15 @@ div.third {
     padding: 8px 20px; }
 
 #calendar {
-  background: #f3775d;
+  background: #5fbcd1;
   color: white;
   height: 235px; }
 
 .featured.highlights {
-  background: #ddd; }
+  background: #f6f6f6; }
 
 .featured.secondary {
-  background: #eee; }
+  background: #f0f0f0; }
 
 .featured.white {
   background: white; }

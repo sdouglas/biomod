@@ -68,9 +68,9 @@ $(function(){
 
         // here we get the registration deadline from _config.yml
         // and use it for countdown timer and date in countdown panel
-        var nextBiomod = new Date( {{site.registration_date}} ); //Date(2014, 4-1, 30, 23, 59); // registration date: April 30th, 2014 -- 11:59 pm        
-        $('.calendar-panel .section-caption span').html( nextBiomod.toDateString() );
+        var nextBiomod = new Date( "{{ site.registration_date }}" ); //Date(2014, 4-1, 30, 23, 59); // registration date: April 30th, 2014 -- 11:59 pm        
         var now = new Date();
+
         if ( now.valueOf() < nextBiomod.valueOf() ) {
                 // Jamboree is still in the future
                 // initialize timer

@@ -35,9 +35,18 @@ Never change a .css file, only change a .scss file, or the SASS compiler will ov
   
 CSS files aren't being tracked until we're ready for production: this is because every commit creates stupid conflicts needing merges. SO in production, the line in .gitignore must be removed so git just tracks css files again.
 
+### Dates and
 ### The Countdown timer
 
-... is set up in main.js. Change value of nextBiomod to set for next Jamboree (or registration deadline, etc.)
+Dates of events are defined by `registration_date` in _config.yml so they can be changed site-wide from a single location (although currently date is only used in countdown panel and js timer itself).
+
+The date format in _config.yml is `YYYY-MM-DD HH:MM:SS +/-TTTT` although the UTC offset is optional.
+In the templates however, it is possible to change the date format with liquid tags (as described [by shopify](http://docs.shopify.com/themes/liquid-basics/output#date) ). For example:
+
+	{{ site.registration_date | date_to_long_string }}
+	{{ site.registration_date | date: "%B %-d %R" }}
+
+Countdown is set up in main.js but draws the registration date from _config and converts it to a javascript Date object for calculating time remaining.
 
 ### technologies used
 

@@ -7,10 +7,8 @@ paginate: 5
 paginate_path: "blog/page:num/index.html"
 excerpt_separator: <!--more-->
 
-# The month in javascript's Date constructor is 0-indexed,
-# so for clarity we use the numeric month but explicity subtract 1 inline
-# format is for javascript Date function ( year, month-1, day, hour, minute )
-registration_date: 2014, 4-1, 30, 23, 59
+# jekyll date format: YYYY-MM-DD HH:MM:SS +/-TTTT
+registration_date: 2014-04-30 23:59:00 -0400
 
 # not used yet, but could be used same way as registration:
 # jamboree_date: 2014, 11-1, 1, 9, 00

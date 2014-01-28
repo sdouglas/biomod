@@ -1,14 +1,12 @@
 ---
 layout: page
 title: Biomod Blog
-permalink: /blog/index.html
-category: page
 ---
 
 <!-- This loops through the paginated posts -->
 <p></p>
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
 <h6>{{ post.date | date: "%B %d, %Y" }}</h6>

@@ -228,7 +228,7 @@ ul.horizontal {
   *zoom: 1;
   font-size: 15px;
   margin-bottom: 14px;
-  padding: 14px 0; }
+  padding: 14px 20px; }
   ul.horizontal:before, ul.horizontal:after {
     content: " ";
     display: table; }

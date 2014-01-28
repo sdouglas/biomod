@@ -7,8 +7,9 @@ paginate: 5
 paginate_path: "blog/page:num/index.html"
 excerpt_separator: <!--more-->
 
+# registration date or jamboree date is called UPCOMING_DATE (below)
 # jekyll date format: YYYY-MM-DD HH:MM:SS +/-TTTT
-registration_date: 2014-04-30 23:59:00 -0400
+upcoming_date: 2014-04-30 23:59:00 -0400
 
 # not used yet, but could be used same way as registration:
 # jamboree_date: 2014, 11-1, 1, 9, 00

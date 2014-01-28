@@ -1,7 +1,7 @@
 /* */
 /* media query mixins */
 header {
-  background: #f6f6f6; }
+  background: #42484d; }
 
 body {
   background: white; }
@@ -14,7 +14,7 @@ body.post {
       color: white; }
 
 footer {
-  background: #009dd4;
+  background: #5fbcd1;
   color: #fff; }
   footer a:link, footer a:visited {
     color: #fff; }
@@ -26,10 +26,10 @@ footer.subfooter {
   color: #95a5a6; }
 
 header ul.horizontal {
-  background: #d9d9d9;
+  color: #ccc;
   padding-right: 20px; }
   header ul.horizontal a:link, header ul.horizontal a:visited {
-    color: #444; }
+    color: #fff; }
 
 section {
   background: white; }
@@ -57,7 +57,7 @@ div.third {
     padding: 8px 20px; }
 
 #calendar {
-  background: #4fc4f6;
+  background: #5fbcd1;
   color: white;
   height: 235px; }
 
@@ -116,7 +116,7 @@ h1 em {
    * maybe <a><i><span></a> instead? (as inline-block) */ }
   .social a {
     display: block;
-    background: #4fc4f6;
+    background: #5fbcd1;
     margin: 1px 0;
     color: #fff;
     -webkit-transition: 0.2s;
@@ -126,7 +126,7 @@ h1 em {
       opacity: 0.8; }
   .social i {
     float: left;
-    background: #1eb4f4;
+    background: #38abc5;
     padding: 10px;
     margin-right: 10px;
     color: white; }
@@ -385,7 +385,7 @@ a.section-title {
   -moz-transition: 0.2s;
   transition: 0.2s; }
   a.section-title:hover {
-    background: #0b98d4;
+    background: #2d889d;
     color: white; }
 
 .section-caption {

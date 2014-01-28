@@ -1,7 +1,10 @@
 @import "bourbon/bourbon";
 
-$crimson: #ff2935; 
+$coral: #f3775d;
+$paleviolet:#e17695; 
+$indianred:#d25a3f;
 $charcoal: #42484d;
+
 $midgray: #d9d9d9;
 $lightgray: #f6f6f6;
 
@@ -18,9 +21,11 @@ $snow:#f0f0f0; //not used
 $blue:	#009dd4;
 $peterriver: #3498db;
 $salmon:#fa4951;
-$turquoise:#4fc4f6;
+$turquoise:#5fbcd1;
+
 header{
-	background: $lightgray;
+	//background: $coral;
+	background:$charcoal;
 }
 
 // default body class is light grey
@@ -39,7 +44,7 @@ body.post{
 }
 
 footer {
-	background:$blue;
+	background:$turquoise;
 	color:#fff;
 	a:link,a:visited{color:#fff}
 	h3 {color:white}
@@ -50,11 +55,11 @@ footer.subfooter{
 }
 
 header ul.horizontal{
-	background:$midgray;
+	color:#ccc;
 	padding-right:20px;
 	a:link,a:visited {
     //background:$charcoal;
-    color:#444;
+    color:#fff;
 	}
 }
 

@@ -1,3 +1,8 @@
+---
+---
+/* the empty YAML frontmatter above ensures this file is parsed by jekyll
+** so we can access site variables for event dates in the javascript */
+
 $(function(){
 
     /*** Slideshows ***/
@@ -60,8 +65,11 @@ $(function(){
         // The month in javascript's Date constructor is 0-indexed,
         // so for clarity we can use the numeric month but explicity subtract 1 inline
 		// Date( year, month-1, day, hour )
-        var nextBiomod = new Date(2014, 4-1, 30, 23, 59); // registration date: April 30th, 2014 -- 11:59 pm        
-		// var nextBiomod = new Date(2014, 11-1, 1, 9); // Jamboree date: November 1st, 2014 -- 9am?
+
+        // here we get the registration deadline from _config.yml
+        // and use it for countdown timer and date in countdown panel
+        var nextBiomod = new Date( {{site.registration_date}} ); //Date(2014, 4-1, 30, 23, 59); // registration date: April 30th, 2014 -- 11:59 pm        
+        $('.calendar-panel .section-caption span').html( nextBiomod.toDateString() );
         var now = new Date();
         if ( now.valueOf() < nextBiomod.valueOf() ) {
                 // Jamboree is still in the future

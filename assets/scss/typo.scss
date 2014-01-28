@@ -102,7 +102,7 @@ ul.horizontal {
     font-size:15px;
     line-height:21px;
     //text-transform:uppercase;
-    padding:10px 10px 10px 20px;
+    padding:10px 0;
     a:link,a:visited {color:#ccc}
     a:hover {color:white}
     li {
@@ -144,7 +144,7 @@ h1 {
     }
 }
 
-#mission-more { text-align: justify; margin-top:1em;}
+#mission-more { text-align: justify; margin-top:1em; padding-right:1em;}
 
 h2 {
     font-size: 28px;

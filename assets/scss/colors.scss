@@ -99,7 +99,8 @@ div.third{background:white}
 }
 
 #calendar{
-	background:$turquoise;
+	//background:$turquoise;
+	background:$coral;
 	color:white;
 	//padding:0;
 	height:235px;
@@ -107,10 +108,10 @@ div.third{background:white}
 
 
 .featured.highlights {
-	background: $lightgray;// $salmon;
+	background: #ddd;// $salmon;
 }
 .featured.secondary {
-	background: $snow;
+	background: #eee;
 }
 .featured.white {
 	background: white;

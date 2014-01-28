@@ -9,4 +9,4 @@ The students from Ludwig-Maximilians-Universität in Munich Germany took home th
 
 <!--more-->
 
-Check the [Winners page](/pages/winners) for full results.
+Check the [Winners page](/winners) for full results.

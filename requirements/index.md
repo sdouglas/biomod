@@ -18,7 +18,7 @@ This page outlines the requirements for team structure and project deliverables.
 
 ## Project Timeline
 
-This is an rough suggestion for how a BIOMOD team might organize their project. Please also note the important deadlines on [this page](/pages/how-to-join).
+This is an rough suggestion for how a BIOMOD team might organize their project. Please also note the important deadlines on [this page](/how-to-join).
 
 - **January–March:** Team organizers should recruit team members: post flyers and email announcements, interview interested students, and send notifications early while everyone is still finalizing their summer plans.
 - **April–May:** Register your team. Students should begin independent background reading to start learning about topics that may interest them. Organize brainstorming meetings to determine project topic.

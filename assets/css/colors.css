@@ -1,5 +1,5 @@
 header {
-  background: #42484d; }
+  background: #f6f6f6; }
 
 body {
   background: white; }
@@ -12,7 +12,7 @@ body.post {
       color: white; }
 
 footer {
-  background: #5fbcd1;
+  background: #009dd4;
   color: #fff; }
   footer a:link, footer a:visited {
     color: #fff; }
@@ -24,9 +24,10 @@ footer.subfooter {
   color: #95a5a6; }
 
 header ul.horizontal {
-  color: #ccc; }
+  background: #d9d9d9;
+  padding-right: 20px; }
   header ul.horizontal a:link, header ul.horizontal a:visited {
-    color: #fff; }
+    color: #444; }
 
 section {
   background: white; }
@@ -54,7 +55,7 @@ div.third {
     padding: 8px 20px; }
 
 #calendar {
-  background: #5fbcd1;
+  background: #4fc4f6;
   color: white;
   height: 235px; }
 
@@ -113,7 +114,7 @@ h1 em {
    * maybe <a><i><span></a> instead? (as inline-block) */ }
   .social a {
     display: block;
-    background: #5fbcd1;
+    background: #4fc4f6;
     margin: 1px 0;
     color: #fff;
     -webkit-transition: 0.2s;
@@ -123,7 +124,7 @@ h1 em {
       opacity: 0.8; }
   .social i {
     float: left;
-    background: #38abc5;
+    background: #1eb4f4;
     padding: 10px;
     margin-right: 10px;
     color: white; }

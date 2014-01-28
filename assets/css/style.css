@@ -7,7 +7,7 @@
 /* */
 /* media query mixins */
 header {
-  background: #42484d; }
+  background: #f6f6f6; }
 
 body {
   background: white; }
@@ -20,7 +20,7 @@ body.post {
       color: white; }
 
 footer {
-  background: #5fbcd1;
+  background: #009dd4;
   color: #fff; }
   footer a:link, footer a:visited {
     color: #fff; }
@@ -32,9 +32,10 @@ footer.subfooter {
   color: #95a5a6; }
 
 header ul.horizontal {
-  color: #ccc; }
+  background: #d9d9d9;
+  padding-right: 20px; }
   header ul.horizontal a:link, header ul.horizontal a:visited {
-    color: #fff; }
+    color: #444; }
 
 section {
   background: white; }
@@ -62,7 +63,7 @@ div.third {
     padding: 8px 20px; }
 
 #calendar {
-  background: #5fbcd1;
+  background: #4fc4f6;
   color: white;
   height: 235px; }
 
@@ -121,7 +122,7 @@ h1 em {
    * maybe <a><i><span></a> instead? (as inline-block) */ }
   .social a {
     display: block;
-    background: #5fbcd1;
+    background: #4fc4f6;
     margin: 1px 0;
     color: #fff;
     -webkit-transition: 0.2s;
@@ -131,7 +132,7 @@ h1 em {
       opacity: 0.8; }
   .social i {
     float: left;
-    background: #38abc5;
+    background: #1eb4f4;
     padding: 10px;
     margin-right: 10px;
     color: white; }
@@ -226,8 +227,8 @@ ol {
 ul.horizontal {
   *zoom: 1;
   font-size: 15px;
-  margin-bottom: 14px;
-  padding: 14px 0; }
+  line-height: 21px;
+  padding: 10px 10px 10px 20px; }
   ul.horizontal:before, ul.horizontal:after {
     content: " ";
     display: table; }
@@ -270,8 +271,7 @@ h1 {
 
 #mission-more {
   text-align: justify;
-  margin-top: 1em;
-  padding-right: 1em; }
+  margin-top: 1em; }
 
 h2 {
   font-size: 28px;
@@ -391,7 +391,7 @@ a.section-title {
   -moz-transition: 0.2s;
   transition: 0.2s; }
   a.section-title:hover {
-    background: #2d889d;
+    background: #0b98d4;
     color: white; }
 
 .section-caption {
@@ -431,7 +431,7 @@ pre code {
   border: 0; }
 
 header {
-  background: #42484d; }
+  background: #f6f6f6; }
 
 body {
   background: white; }
@@ -444,7 +444,7 @@ body.post {
       color: white; }
 
 footer {
-  background: #5fbcd1;
+  background: #009dd4;
   color: #fff; }
   footer a:link, footer a:visited {
     color: #fff; }
@@ -456,9 +456,10 @@ footer.subfooter {
   color: #95a5a6; }
 
 header ul.horizontal {
-  color: #ccc; }
+  background: #d9d9d9;
+  padding-right: 20px; }
   header ul.horizontal a:link, header ul.horizontal a:visited {
-    color: #fff; }
+    color: #444; }
 
 section {
   background: white; }
@@ -486,7 +487,7 @@ div.third {
     padding: 8px 20px; }
 
 #calendar {
-  background: #5fbcd1;
+  background: #4fc4f6;
   color: white;
   height: 235px; }
 
@@ -545,7 +546,7 @@ h1 em {
    * maybe <a><i><span></a> instead? (as inline-block) */ }
   .social a {
     display: block;
-    background: #5fbcd1;
+    background: #4fc4f6;
     margin: 1px 0;
     color: #fff;
     -webkit-transition: 0.2s;
@@ -555,7 +556,7 @@ h1 em {
       opacity: 0.8; }
   .social i {
     float: left;
-    background: #38abc5;
+    background: #1eb4f4;
     padding: 10px;
     margin-right: 10px;
     color: white; }
@@ -578,7 +579,7 @@ input[type=submit]#newsletter-button {
   color: white; }
 
 header {
-  background: #42484d; }
+  background: #f6f6f6; }
 
 body {
   background: white; }
@@ -591,7 +592,7 @@ body.post {
       color: white; }
 
 footer {
-  background: #5fbcd1;
+  background: #009dd4;
   color: #fff; }
   footer a:link, footer a:visited {
     color: #fff; }
@@ -603,9 +604,10 @@ footer.subfooter {
   color: #95a5a6; }
 
 header ul.horizontal {
-  color: #ccc; }
+  background: #d9d9d9;
+  padding-right: 20px; }
   header ul.horizontal a:link, header ul.horizontal a:visited {
-    color: #fff; }
+    color: #444; }
 
 section {
   background: white; }
@@ -633,7 +635,7 @@ div.third {
     padding: 8px 20px; }
 
 #calendar {
-  background: #5fbcd1;
+  background: #4fc4f6;
   color: white;
   height: 235px; }
 
@@ -692,7 +694,7 @@ h1 em {
    * maybe <a><i><span></a> instead? (as inline-block) */ }
   .social a {
     display: block;
-    background: #5fbcd1;
+    background: #4fc4f6;
     margin: 1px 0;
     color: #fff;
     -webkit-transition: 0.2s;
@@ -702,7 +704,7 @@ h1 em {
       opacity: 0.8; }
   .social i {
     float: left;
-    background: #38abc5;
+    background: #1eb4f4;
     padding: 10px;
     margin-right: 10px;
     color: white; }
@@ -1441,7 +1443,6 @@ body > footer {
     width: 260px;
     background-position: top left;
     position: relative;
-    top: 3px;
     left: -13px; }
 
   #wyss {

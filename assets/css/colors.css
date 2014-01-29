@@ -24,8 +24,8 @@ footer.subfooter {
   color: #95a5a6; }
 
 header ul.horizontal {
-  background: #d9d9d9;
-  padding-right: 20px; }
+  color: #ccc;
+  background: #d9d9d9; }
   header ul.horizontal a:link, header ul.horizontal a:visited {
     color: #444; }
 

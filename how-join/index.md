@@ -19,15 +19,15 @@ Once your registration is approved, you will receive a confirmation email and fu
 
 ## Note important future dates
 
-**April 30:** Registration closes.
+**{{ site.team_registration_deadline | date: '%B %-d' }}:** Registration closes.
 
-**May 1:** Project judging criteria posted.
+**{{ site.judging_criteria_posted | date: '%B %-d' }}:** Project judging criteria posted.
 
-**July 1:** Visa invitation letter requests due for international teams.
+**{{ site.visa_letter_requests | date: '%B %-d' }}:** Visa invitation letter requests due for international teams.
 
-**September 12:** Jamboree registration deadline. Project title and abstract due. Send abstract (or URL) to shawn.douglas [at] ucsf.edu.
+**{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Jamboree registration deadline. Project title and abstract due. Send abstract (or URL) to shawn.douglas [at] ucsf.edu.
 
-**October 24:** Team wiki freeze and video upload deadline. 11:59PM GMT-7 (Pacific time)
+**{{ site.wiki_video_deadline | date: '%B %-d' }}:** Team wiki freeze and video upload deadline. 11:59PM GMT-7 (Pacific time)
 
-**November 1st–2nd:** Jamboree (everyone meets at Harvard to present).
+**{{ site.jamboree_start_time | date: '%B %-d' }} - {{ site.hotel_checkout_time | date: '%B %-d' }}:** Jamboree (everyone meets at Harvard to present).
 

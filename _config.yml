@@ -12,12 +12,14 @@ excerpt_separator: <!--more-->
 upcoming_date: 2014-04-30 23:59:00 -0400
 
 # important dates
-team_registration_deadline: 2014-04-30 23:59:00 -0400
-judging_criteria_posted: 2014-05-01 23:59:00 -0400
-visa_letter_requests:  2014-07-01 23:59:00 -0400
-jamboree_registration_deadline: 2014-09-12 23:59:00 -0400
-project_abstract_deadline: 2014-09-12 23:59:00 -0400
-wiki_video_deadline: 2014-10-24 23:59:00 -0700
-hotel_checkin_time: 2014-10-31 15:00:00 -0400
-jamboree_start_time: 2014-11-01 09:00:00 -0400
-hotel_checkout_time: 2014-11-02 11:00:00 -0400
+#team_registration_deadline: 2014-04-30 23:59:00 -0400
+team_registration_deadline: 2014-04-30 23:59:00
+judging_criteria_posted: 2014-05-01 23:59:00
+visa_letter_requests:  2014-07-01 23:59:00
+jamboree_registration_deadline: 2014-09-12 23:59:00
+project_abstract_deadline: 2014-09-12 23:59:00
+# wiki video deadline supposed to be in Pacific time zone
+wiki_video_deadline: 2014-10-24 23:59:00
+hotel_checkin_time: 2014-10-31 15:00:00
+jamboree_start_time: 2014-11-01 09:00:00
+hotel_checkout_time: 2014-11-02 11:00:00

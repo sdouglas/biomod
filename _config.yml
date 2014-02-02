@@ -9,17 +9,17 @@ excerpt_separator: <!--more-->
 
 # registration date or jamboree date is called UPCOMING_DATE (below)
 # jekyll date format: YYYY-MM-DD HH:MM:SS +/-TTTT
-upcoming_date: 2014-04-30 23:59:00 -0400
+upcoming_date: "Apr 30 2014 23:59:00"
 
 # important dates
 #team_registration_deadline: 2014-04-30 23:59:00 -0400
-team_registration_deadline: 2014-04-30 23:59:00
-judging_criteria_posted: 2014-05-01 23:59:00
-visa_letter_requests:  2014-07-01 23:59:00
-jamboree_registration_deadline: 2014-09-12 23:59:00
-project_abstract_deadline: 2014-09-12 23:59:00
+team_registration_deadline: "Apr 30 2014 23:59:00"
+judging_criteria_posted: "May 1 2014 23:59:00"
+visa_letter_requests:  "Jul 1 2014 23:59:00"
+jamboree_registration_deadline: "Sep 12 2014 23:59:00"
+project_abstract_deadline: "Sep 12 2014 23:59:00"
 # wiki video deadline supposed to be in Pacific time zone
-wiki_video_deadline: 2014-10-24 23:59:00
-hotel_checkin_time: 2014-10-31 15:00:00
-jamboree_start_time: 2014-11-01 09:00:00
-hotel_checkout_time: 2014-11-02 11:00:00
+wiki_video_deadline: "Oct 24 2014 23:59:00"
+hotel_checkin_time: "Oct 31 2014 15:00:00"
+jamboree_start_time: "Nov 1 2014 09:00:00"
+hotel_checkout_time: "Nov 2 2014 11:00:00"

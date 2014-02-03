@@ -6,8 +6,9 @@ body_class: contact
 ---
 
 
+<p>Questions? Comments? Press Inquiry?<br />
+You've come to the right place.</p>
 
-This form connects only to Kris: needs to be updated.
 
 
 <!-- JavaScript -->

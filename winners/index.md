@@ -5,49 +5,46 @@ title: "BIOMOD 2013 Winners"
 
 ## Grand Prize — Total Combined Score
 
-<font style="font-size:200%;">1st place: <a href="http://openwetware.org/wiki/Biomod/2013/LMU">DNA Diamonds</a></font>
-2nd place: <a href="http://openwetware.org/wiki/Biomod/2013/Dresden">Dresden Nanormous</a>
-3nd place: <a href="http://openwetware.org/wiki/Biomod/2013/Sendai">Team Sendai</a>
+<font style="font-size:200%;"><strong>1st: <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/LMU">DNA Diamonds</strong></a></br>
+2nd: <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Dresden">Dresden Nanormous</a></br>
+3nd: <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Team Sendai</a>
+</font>
 
 ## Audience Choice Award
 
-1. <a href="http://openwetware.org/wiki/Biomod/2013/Aarhus">Aarhus University — Nano Creators</a>
-2. <a href="http://openwetware.org/wiki/Biomod/2013/Todai">The University of Tokyo Kashiwa — Todai nanORFEVRE</a>
-3. <a href="http://openwetware.org/wiki/Biomod/2013/Dresden">TU Dresden — Dresden Nanormous</a><br>
-
+1. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Aarhus">Aarhus University — Nano Creators</a>
+2. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Todai">The University of Tokyo Kashiwa — Todai nanORFEVRE</a>
+3. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Dresden">TU Dresden — Dresden Nanormous</a><br>
 
 
 ## Best T-shirt
 
-<a href="http://openwetware.org/wiki/Biomod/2013/Titech">Tokyo Institute of Technology — Team Platanus Symphony</a><br>
-
+<a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Titech">Tokyo Institute of Technology — Team Platanus Symphony</a><br>
 
 
 ## Best Wiki
 
-1. <a href="http://openwetware.org/wiki/Biomod/2013/LMU">Ludwig-Maximilians-Universität — DNA Diamonds</a>
-2. <a href="http://openwetware.org/wiki/Biomod/2013/Dresden">TU Dresden — Dresden Nanormous</a>
-3.<a href="http://openwetware.org/wiki/Biomod/2013/Sendai">Tohoku University — Team Sendai</a><br>
-
+1. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/LMU">Ludwig-Maximilians-Universität — DNA Diamonds</a>
+2. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Dresden">TU Dresden — Dresden Nanormous</a>
+3. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Tohoku University — Team Sendai</a><br>
 
 
 ## Best YouTube video
 
-1. <a href="http://openwetware.org/wiki/Biomod/2013/Dresden">TU Dresden — Dresden Nanormous</a>
-2. <a href="http://openwetware.org/wiki/Biomod/2013/Sendai">Tohoku University — Team Sendai</a>
-3. <a href="http://openwetware.org/wiki/Biomod/2013/Titech">Tokyo Institute of Technology — Team Platanus Symphony</a><br>
-
+1. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Dresden">TU Dresden — Dresden Nanormous</a>
+2. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Tohoku University — Team Sendai</a>
+3. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Titech">Tokyo Institute of Technology — Team Platanus Symphony</a><br>
 
 ## Best Presentation
 
-1. <a href="http://openwetware.org/wiki/Biomod/2013/Aarhus">Aarhus University — Nano Creators</a>
-2. <a href="http://openwetware.org/wiki/Biomod/2013/Todai">The University of Tokyo Kashiwa — Todai nanORFEVRE</a>
-3. <a href="http://openwetware.org/wiki/Biomod/2013/Sendai">Team Sendai</a><br>
+1. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Aarhus">Aarhus University — Nano Creators</a>
+2. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Todai">The University of Tokyo Kashiwa — Todai nanORFEVRE</a>
+3. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Team Sendai</a><br>
 
 
 ## 3nd Annual MOLBOT Award
 
-<a href="http://openwetware.org/wiki/Biomod/2013/Komaba">UT Komaba</a><br>
+* <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Komaba">UT Komaba</a><br>
 
 
 ## Project Awards

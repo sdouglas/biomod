@@ -6,7 +6,7 @@ date: Tue, 21 Jan 2014 23:49:33 +0000
 
 Hello BIOMODders! 
 
-Ready to sign up? Visit our [online form](https://biomod.wufoo.com/forms/2014-registration-form/) to register between now and April 30th, 2014. Please make sure you have read our [how to join](/how-to-join) and [requirements](/requirements) pages.
+Ready to sign up? Visit our [online form](https://biomod.wufoo.com/forms/2014-registration-form/) to register between now and April 30th, 2014. Please make sure you have read our [how to join](/how-join) and [requirements](/requirements) pages.
 
 <!--more-->
 

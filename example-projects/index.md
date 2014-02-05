@@ -5,7 +5,7 @@ date:   2013-08-28 16:27:08
 ---
 
 
-Winning projects from previous years: [2011](http://2011.biomod.net/winners) [2012](http://2012.biomod.net/winners).
+Winning projects from previous years: [2011](http://2011.biomod.net/winners) [2012](http://2012.biomod.net/winners) [2013](/winners).
 
 All project wikis can be found [here](http://openwetware.org/wiki/Biomod).
 

@@ -9,7 +9,7 @@ BIOMOD registration is OPEN for 2014!
 
 ## Organize your team
 
-Registration is free. Before you register, please read the criteria listed on the [Requirements](/requirements) page. All teams are responsible for their own fund raising and travel expenses, so start early.
+Registration is $250. Before you register, please read the criteria listed on the [Requirements](/requirements) page. All teams are responsible for their own fund raising and travel expenses, so start early.
 
 ## Submit your registration information
 

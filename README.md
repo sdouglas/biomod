@@ -6,13 +6,12 @@ The Biomod Jekyll site.
 License
 =======
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Biomod.net</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="biomod.net" property="cc:attributionName" rel="cc:attributionURL">Shawn Douglas, Kris St.Gabriel, Byron Hinebaugh</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/sdouglas/biomod" rel="dct:source">https://github.com/sdouglas/biomod</a>.
-
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">biomod.net</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/sdouglas/" property="cc:attributionName" rel="cc:attributionURL">Shawn Douglas</a>, <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/stgabriel" property="cc:attributionName" rel="cc:attributionURL">Kris St.Gabriel</a>, and <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/bhinebaugh" property="cc:attributionName" rel="cc:attributionURL">Byron Hinebaugh</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/sdouglas/biomod" rel="dct:source">https://github.com/sdouglas/biomod</a>.
 
 Getting Started
 ===============
 
-`git clone git@github.com:stgabriel/biomod.git`
+`git clone git@github.com:sdouglas/biomod.git`
 
 To start the server:
 
@@ -56,25 +55,20 @@ Countdown is set up in main.js but draws the registration date from _config and 
 
 ### Technologies used
 
-Bourbon, a set of sass classes is installed and we're using its companion set, 'Neat' for its grid.
-
-To update these libraries, go into the /assets/scss directory and type `update neat` and `update bourbon`.
+[Bourbon](http://bourbon.io/), a set of sass classes is installed and we're using its companion set, 'Neat' for its grid. To update these libraries, go into the /assets/scss directory and type `update neat` and `update bourbon`.
 
 
 ### The blog
   
 By adding this line to _config.yml
 excerpt_separator: <!--more-->
-We can add <!--more--> to a blog, so it cuts off the exerpt display at its location. This is important as a LONG blog post will display in its entirety on the front page. You don't want that. 
+We can add <!--more--> to a blog, so it cuts off the excerpt display at its location. This is important as a LONG blog post will display in its entirety on the front page. You don't want that. 
 
 
 ### Noteworthy links
 
-http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html
-
-
-This site offers search based on an RSS feed, useful for static sites. 
-http://tapirgo.com/
-
 [Mr. Poole, an tool for using jekyll](https://github.com/mmcclimon/mr_poole)
 
+[Using Jekyll Plugins on Github Pages](http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html) blog entry from blog.nitrous.io
+
+[tapir](http://tapirgo.com/) offers search based on an RSS feed, useful for static sites.

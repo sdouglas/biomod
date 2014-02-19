@@ -1,7 +1,13 @@
-biomod
-======
+BIOMOD.net
+==========
 
 The Biomod Jekyll site.
+
+License
+=======
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Biomod.net</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="biomod.net" property="cc:attributionName" rel="cc:attributionURL">Shawn Douglas, Kris St.Gabriel, Byron Hinebaugh</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/sdouglas/biomod" rel="dct:source">https://github.com/sdouglas/biomod</a>.
+
 
 Getting Started
 ===============
@@ -48,7 +54,7 @@ In the templates however, it is possible to change the date format with liquid t
 
 Countdown is set up in main.js but draws the registration date from _config and converts it to a javascript Date object for calculating time remaining.
 
-### technologies used
+### Technologies used
 
 Bourbon, a set of sass classes is installed and we're using its companion set, 'Neat' for its grid.
 
@@ -62,22 +68,13 @@ excerpt_separator: <!--more-->
 We can add <!--more--> to a blog, so it cuts off the exerpt display at its location. This is important as a LONG blog post will display in its entirety on the front page. You don't want that. 
 
 
-
-### technologies I'll investigate
-
-This site offers search based on an RSS feed, useful for static sites. I'll investigate.
-
-http://tapirgo.com/
-
-### Before going to prod
-
-* Add analytics code to default.html template (in the footer there)
-* Remove the line in /.gitignore pertaining to the assets/css/* directory. 
-
 ### Noteworthy links
 
 http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html
 
+
+This site offers search based on an RSS feed, useful for static sites. 
+http://tapirgo.com/
 
 [Mr. Poole, an tool for using jekyll](https://github.com/mmcclimon/mr_poole)
 

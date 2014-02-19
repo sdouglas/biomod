@@ -4,32 +4,29 @@ title:  "Our Team"
 date:   2013-08-28 16:27:08
 ---
 
-
-
-## Our Team
-
+</br>
 
 ### Organizers
 
-[Shawn Douglas](http://shawndouglas.com/)
-
-Jermaine Reid
-
-Rick Groleau
+* [Shawn Douglas](http://shawndouglas.com/)
+* Jermaine Reid
+* Alison Reggio
 
 ### Advisors
 
-[George Church](http://arep.med.harvard.edu/)
+* [George Church](http://arep.med.harvard.edu/)
+* [William Shih](http://research2.dfci.harvard.edu/shih/)
+* [Neel Joshi](http://www.joshigroup.seas.harvard.edu/)
+* [Peng Yin](http://yin.hms.harvard.edu/)
 
-[William Shih](http://research2.dfci.harvard.edu/shih/)
+### Web Development & Animation
 
-[Gaël McGill](http://www.digizyme.com/about/team.html)
+* [Kristian St-Gabriel](http://wall.hms.harvard.edu/people/kristian-st-gabriel)
+* Byron Hinebaugh
+* [Jason Brown](http://pendulumswingmedia.com/)
 
-[Neel Joshi](http://www.joshigroup.seas.harvard.edu/)
+### Recent Contributors
 
-[Peng Yin](http://yin.hms.harvard.edu/)
-
-### Web Development
-
-[Kristian St-Gabriel](http://wall.hms.harvard.edu/people/kristian-st-gabriel)
+* Rick Groleau
+* [Gaël McGill](http://www.digizyme.com/about/team.html)
 

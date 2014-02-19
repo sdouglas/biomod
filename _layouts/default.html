@@ -53,16 +53,16 @@
     <![endif]-->
     <header>
       <nav>
-			  
+
         <div class="half" alt="{{ site.name }}">
-	        <a id="biomod" href="/"></a>
-	        <a id="wyss" target="_blank" href="http://wyss.harvard.edu"></a>
-		</div>
+            <a id="biomod" href="/"></a>
+            <a id="wyss" target="_blank" href="http://wyss.harvard.edu" alt="sponsored by the Wyss Institute"></a>
+        </div>
 
         <div class="half">
         <ul class="horizontal right">
           <li>
-            <a href="/how-to-join">how to join</a>
+            <a href="/how-join">how to join</a>
             <span>/</span>
           </li>
           <li>
@@ -84,35 +84,29 @@
 
       {{ content }}
 
-
     <div class="row">
-     
+
       <div class="callout">
         <a id="callout"></a>
 
-        <h3 id="newsletter-blurb"><i class="icon-mail"></i>Keep up with Biomod events and updates via our newsletter!</h3>
+        <h3 id="newsletter-blurb"><i class="icon-mail"></i>Keep up with BIOMOD events and updates via our newsletter!</h3>
 
         <!-- Begin MailChimp Signup Form -->
         <form action="http://biomod.us6.list-manage.com/subscribe/post?u=a4278ad7bde72d01aca4334f6&amp;id=0585c12f4a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    
+
         <input type="email" value="" name="EMAIL" class="newsletter-form" id="newsletter-form" placeholder="signup@example.com">
-        
+
         <input type="submit" value="Subscribe" name="subscribe" id="newsletter-button" class="button">
 
         </form>
         <!--End mc_embed_signup-->
 
-
-
       </div>
 
-
-  
-
-    </div>  
+    </div>
 
 
-    {% include footer.html %}  
+    {% include footer.html %}
 
 
     <!-- Javascript -->
@@ -123,10 +117,12 @@
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
     <!-- (Via HTML5 Boilerplate: http://html5boilerplate.com/) -->
     <script>
-      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
-      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-      s.parentNode.insertBefore(g,s)}(document,'script'));
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-20016179-1', 'biomod.net');
+      ga('send', 'pageview');
     </script>
 
   </body>

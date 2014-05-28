@@ -1,16 +1,16 @@
 ---
 encoding: UTF-8
 layout: post
-title: Making of ""What is Biomod?"
+title: Making of "What is Biomod?"
 date: Wed, 28 May 2014 15:30:00 +0000
 ---
 
 
-**The Back story**
+**The Backstory**
 
 I met [Jason Brown](http://pendulumswingmedia.com/) 27 years ago in first grade, so we've been doing fun projects for a while. It's been 4 years since Jason and I created a whiteboard animation called "[What is Bionanotechnology?](https://www.youtube.com/watch?v=ITtGJUGXFKc)"
 
-Anyway, last winter we thought it would be cool to make a new animation to help explain the concept behind the BIOMOD competition. Just like all our previous projects, it took about 3 times longer than expected, but I'm happy to report that it's finished!
+Last winter we thought it would be cool to make a new animation to explain the concept behind the BIOMOD competition. Just like all our previous projects, it took about 3 times longer than expected, but I'm happy to report that it's finished!
 
 **The Making Of...**
 

@@ -17,7 +17,7 @@ Last winter we thought it would be cool to make a new animation to explain the c
 The best part of any project is usually the start. We just hang out, joke around, and draw silly sketches and reflect on the fact that the Simpsons writers really have done *everything* already.
 
 
-![](2014-05-28-what-is-biomod/storyboard.png?raw=true)
+![](/assets/images/posts/2014-05-28-what-is-biomod/storyboard.png)
 *Our initial storyboard.*
 
 
@@ -25,7 +25,7 @@ The best part of any project is usually the start. We just hang out, joke around
 
 Our projects have gotten too ambitious for only one or two people to do in their mythological "spare" time. So the first step was convincing folks at the [Wyss Institute](http://wyss.harvard.edu/) to give us a budget so Jason could be paid for the work (he now does freelance animation professionally through his company [PSM](http://pendulumswingmedia.com/)). We also contracted with Leslie & Kevin from [C3 Science](http://www.c3science.com/) on initial drafts of the script. Finally, our multi-talented friend [Joel Wasko](https://www.linkedin.com/in/joelwasko) chipped in for the sound design and editing, even coached via telephone our voice talent [Dani States](http://www.danistates.com/), whom we found at voices.com.
 
-![](2014-05-28-what-is-biomod/script.png?raw=true)
+![](/assets/images/posts/2014-05-28-what-is-biomod/script.png)
 *What Is Biomod? Script, version 5.*
 
 **The Tools**
@@ -39,7 +39,7 @@ Jason really did all the heavy lifting on this project... his hours are well int
 
 **The Final Product**
 
-[![](2014-05-28-what-is-biomod/final.png?raw=true)](http://bit.ly/whtisbmod)
+[![](/assets/images/posts/2014-05-28-what-is-biomod/final.png)](http://bit.ly/whtisbmod)
 
 [What is Biomod?](http://bit.ly/whtisbmod) *(YouTube, 3:20 min)*
 

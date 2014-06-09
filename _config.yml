@@ -9,7 +9,12 @@ excerpt_separator: <!--more-->
 
 # registration date or jamboree date is called UPCOMING_DATE (below)
 # jekyll date format: YYYY-MM-DD HH:MM:SS +/-TTTT
-upcoming_date: "Apr 30 2014 23:59:00"
+
+# team registration
+# upcoming_date: "Apr 30 2014 23:59:00"
+
+# jamboree registration
+upcoming_date: "Sep 12 2014 23:59:00"
 
 # important dates
 #team_registration_deadline: 2014-04-30 23:59:00 -0400

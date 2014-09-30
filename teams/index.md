@@ -6,14 +6,14 @@ date:   2013-08-28 16:27:08
 
 
 
-Location of and links to all the teams participating in Biomod Jamboree 2013
+Location of and links to all the teams participating in Biomod Jamboree
 
 
 
 
 
 <iframe width="600" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=200698143355001669978.0004d3bc20fffbf444683&amp;ie=UTF8&amp;t=m&amp;ll=27.683528,-1.40625&amp;spn=139.625405,61.171875&amp;z=1&amp;output=embed"></iframe>
-<small>View [BIOMOD 2013 Teams](https://maps.google.com/maps/ms?msa=0&amp;msid=200698143355001669978.0004d3bc20fffbf444683&amp;ie=UTF8&amp;t=m&amp;ll=27.683528,-1.40625&amp;spn=139.625405,61.171875&amp;z=1&amp;source=embed) in a larger map</small>
+<small>View [BIOMOD Teams](https://maps.google.com/maps/ms?msa=0&amp;msid=200698143355001669978.0004d3bc20fffbf444683&amp;ie=UTF8&amp;t=m&amp;ll=27.683528,-1.40625&amp;spn=139.625405,61.171875&amp;z=1&amp;source=embed) in a larger map</small>
 
 - [Arizona State University — NanoDevils](http://openwetware.org/wiki/Biomod/2014)
 - [Aarhus University — Detector Gadget](http://openwetware.org/wiki/Biomod/2014)

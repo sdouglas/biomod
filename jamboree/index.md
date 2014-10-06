@@ -22,6 +22,7 @@ Teams will be judged according to [criteria posted here](/judging).
 - **{{ site.hotel_checkin_time | date: '%B %-d' }}:** Check into hotel (after 15:00) 
 - **{{ site.jamboree_start_time | date: '%B %-d' }}:** Jamboree 
 - **{{ site.hotel_checkout_time | date: '%B %-d' }}:** Check out of hotel (before 11:00) 
+- **{{ site.jamboree_end_time | date: '%B %-d' }}:** End of Event
 
 ## Schedule
 

@@ -14,7 +14,11 @@ excerpt_separator: <!--more-->
 # upcoming_date: "Apr 30 2014 23:59:00"
 
 # jamboree registration
-upcoming_date: "Sep 12 2014 23:59:00"
+# upcoming_date: "Sep 12 2014 23:59:00"
+
+# wiki_video deadline
+upcoming_date: "Oct 25 2014 23:59:00"
+
 
 # important dates
 #team_registration_deadline: 2014-04-30 23:59:00 -0400

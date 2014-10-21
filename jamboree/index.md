@@ -7,7 +7,7 @@ date:   2013-08-28 16:27:08
 
 ## What is it?
 
-The BIOMOD Jamboree is an annual conference at which all BIOMOD teams will convene to present their work from the summer. This year's Jamboree is scheduled to take place at the [Northwest Building](http://isites.harvard.edu/icb/icb.do?keyword=k68489&amp;pageid=icb.page331114) at Harvard University in Cambridge, MA on {{ site.jamboree_start_time | date: '%B %-d, %Y' }}.
+The BIOMOD Jamboree is an annual conference at which all BIOMOD teams will convene to present their work from the summer. This year's Jamboree is scheduled to take place at the [Northwest Building](http://isites.harvard.edu/icb/icb.do?keyword=k68489&amp;pageid=icb.page331114) at Harvard University in Cambridge, MA starting on {{ site.jamboree_start_time | date: '%B %-d, %Y' }}.
 
 ## Judging and Awards
 
@@ -26,7 +26,7 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Schedule
 
-For reference, here is the [2012 schedule](https://www.dropbox.com/s/34no0jbhuyq5ltn/BIOMOD2012_schedule_v1.pdf). 
+For reference, here is the [2013 schedule](https://www.dropbox.com/s/0rya3fibgqh860s/BIOMOD2013_Schedule_v1.pdf?dl=0). 
 
 
 <div class="main">

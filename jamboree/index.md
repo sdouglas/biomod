@@ -25,8 +25,7 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Schedule
 
-For reference, here is the [2012 schedule](https://www.dropbox.com/s/34no0jbhuyq5ltn/BIOMOD2012_schedule_v1.pdf). 
-
+Here is the [2014 Schedule](./BIOMOD2014_schedule.pdf) and [2014 Quick Guide](./BIOMOD2014_QuickGuide.pdf). 
 
 <div class="main">
 <div class="row">

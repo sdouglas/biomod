@@ -98,7 +98,7 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 
 ### Special awards
 
-- The Second Annual Molecular Robotics Award (by [MOLBOT](http://molbot.org/), Japan)
+- The Fourth Annual Molecular Robotics Award (by [MOLBOT](http://molbot.org/), Japan)
 - Best Team T-shirt Award
 
 &nbsp;

@@ -33,19 +33,18 @@ title: "BIOMOD 2014 Winners"
 
 1. <a target="_blank" href="https://www.youtube.com/watch?v=UYk16NJEENI">Victor Chang Australia - VCCRI</a>
 2. <a target="_blank" href="https://www.youtube.com/watch?v=mvQHYjYaMMY">NanoDevils - Arizona State University</a>
-3. <a target="_blank" href="https://www.youtube.com/watch?v=JzfxboalHJ4">Dresden DNAmic - TU Dresden</a><br>
+3. (tie) <a target="_blank" href="https://www.youtube.com/watch?v=JzfxboalHJ4">Dresden DNAmic - TU Dresden</a> & <a target="_blank" href="https://www.youtube.com/watch?v=McWaxfEVfpw">Detector Gadget - Aarhus University</a><br>
 
 ## Best Presentation
 
 1. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2014/NTU">NTU - National Taiwan University</a>
-2. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2014/VCCRI">Victor Chang Australia - Team echiDNA</a>
-3. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Motorocracy - Columbia University</a><br>
-
+2. (tie) <a target="_blank" href="http://openwetware.org/wiki/Biomod/2014/VCCRI">Victor Chang Australia - Team echiDNA</a> & <a target="_blank" href="http://www.s103d.com/Biomod/website/">Motorocracy - Columbia University</a><br>
+3. <a target="_blank" href="http://teamsendai2014.github.io/">Team Sendai - Tohoku University</a>
 
 
 ## 4th Annual MOLBOT Award
 
-* <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Motorocracy - Columbia University</a><br>
+* <a target="_blank" href="http://www.s103d.com/Biomod/website/">Motorocracy - Columbia University</a><br>
 
 
 ## Project Awards

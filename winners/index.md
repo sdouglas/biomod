@@ -1,50 +1,51 @@
 ---
 layout: page
-title: "BIOMOD 2013 Winners"
+title: "BIOMOD 2014 Winners"
 ---
 
 ## Grand Prize — Total Combined Score
 
-<font style="font-size:200%;"><strong>1st: <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/LMU">DNA Diamonds</strong></a></br>
-2nd: <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Dresden">Dresden Nanormous</a></br>
-3nd: <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Team Sendai</a>
+<font style="font-size:200%;"><strong>1st: <a target="_blank" href="http://openwetware.org/wiki/Biomod/2014/VCCRI">Team echiDNA - Victor Chang Australia</strong></a></br>
+2nd: <a target="_blank" href="http://www.ddnamic.de/">Dresden DNAmic - TU-Dreseden</a></br>
+3nd: <a target="_blank" href="http://teamsendai2014.github.io/">Team Sendai - Tohoku University</a>
 </font>
 
 ## Audience Choice Award
 
-1. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Aarhus">Aarhus University — Nano Creators</a>
-2. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Todai">The University of Tokyo Kashiwa — Todai nanORFEVRE</a>
-3. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Dresden">TU Dresden — Dresden Nanormous</a><br>
+1. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2014/NTU">NTU - National Taiwan University</a>
+2. <a target="_blank" href="https://www.youtube.com/watch?v=UYk16NJEENI">Victor Chang Australia - VCCRI</a>
+3. <a target="_blank" href="http://teamsendai2014.github.io/">Team Sendai - Tohoku University</a>
 
 
 ## Best T-shirt
 
-<a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Titech">Tokyo Institute of Technology — Team Platanus Symphony</a><br>
+* <a target="_blank" href="http://openwetware.org/wiki/Biomod/2014/Braunschweig">Nanoscooter - TU Braunschweig</a><br>
 
 
 ## Best Wiki
 
-1. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/LMU">Ludwig-Maximilians-Universität — DNA Diamonds</a>
-2. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Dresden">TU Dresden — Dresden Nanormous</a>
-3. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Tohoku University — Team Sendai</a><br>
+1. <a target="_blank" href="http://www.ddnamic.de/LMU">Dresden DNAmic - TU Dresden</a>
+2. <a target="_blank" href="http://teamsendai2014.github.io/">Team Sendai - Tohoku University</a>
+3. <a target="_blank" href="http://detectorgadget.github.io/">Detector Gadget - Aarhus University</a><br>
 
 
 ## Best YouTube video
 
-1. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Dresden">TU Dresden — Dresden Nanormous</a>
-2. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Tohoku University — Team Sendai</a>
-3. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Titech">Tokyo Institute of Technology — Team Platanus Symphony</a><br>
+1. <a target="_blank" href="https://www.youtube.com/watch?v=UYk16NJEENI">Victor Chang Australia - VCCRI</a>
+2. <a target="_blank" href="https://www.youtube.com/watch?v=mvQHYjYaMMY">NanoDevils - Arizona State University</a>
+3. <a target="_blank" href="https://www.youtube.com/watch?v=JzfxboalHJ4">Dresden DNAmic - TU Dresden</a><br>
 
 ## Best Presentation
 
-1. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Aarhus">Aarhus University — Nano Creators</a>
-2. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Todai">The University of Tokyo Kashiwa — Todai nanORFEVRE</a>
-3. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Team Sendai</a><br>
+1. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2014/NTU">NTU - National Taiwan University</a>
+2. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2014/VCCRI">Victor Chang Australia - Team echiDNA</a>
+3. <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Motorocracy - Columbia University</a><br>
 
 
-## 3nd Annual MOLBOT Award
 
-* <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Komaba">UT Komaba</a><br>
+## 4th Annual MOLBOT Award
+
+* <a target="_blank" href="http://openwetware.org/wiki/Biomod/2013/Sendai">Motorocracy - Columbia University</a><br>
 
 
 ## Project Awards
@@ -52,33 +53,39 @@ title: "BIOMOD 2013 Winners"
 
 ### Bronze
 
-- Dynein Dynasty
-- Team Fukuoka
-- Team Tianjin
-- Team UW-DNA<br>
+- Bellerophon Project - NYU Poly
+- DNA Spiders - Pukyong National University
+- FIT - Fukuoka Institute of Technology
+- Kansai - Kansai University
+- Nanolab - Universidad Autónoma de Nuevo León<br>
+- uwDNA - University of Waterloo
 
 ### Silver
 
-- Hokkaido-U MARIMOD
-- NanoMechanists
-- Self-Assembly Lab
-- Team DNAbeans
-- Team Nanobiocat
-- Team NanoUANL
-- The Rising Power<br>
+- Biomod by Kyutech - Kyushu Inst of Technology<br>
+- DNAbeans - North Carolina State University
+- HKBUteam - Hong Kong Baptist University
+- Hokudai - Hokkaido University
+- HUST - Huazhong Univ of Science and Technology
+- NanoHorn - University of Texas at Austin
+- NTU - National Taiwan University
+- Sampoorna Surakhshan - BMSCE
+- UT-Komaba - University of Tokyo Komaba
 
 ### Gold
 
-- DNA Diamonds
-- Dresden Nanormous
-- Nano Creators
-- NanoHack
-- Team Harvard BioDesign
-- Team Kansai
-- Team OhioMOD
-- Team Platanus Symphony
-- Team Sendai
-- Team Todai nanORFEVRE
-- Team UT-Komaba
-- Terriergami
-- Toehold Conga Nanny
+- Victor Chang Australia - VCCRI
+- Dresden DNAmic - TU Dresden
+- Sendai - Tohoku University
+- NanoDevils - Arizona State University
+- Detector Gadget - Aarhus University
+- Stampedosaurs - University of Calgary
+- Motorocracy - Columbia University
+- SeaSon - Ocean University of China
+- Breaking RNA - UC-Riverside
+- Rome - University of Rome Tor Vergata
+- UTokyo Chem & Bio - University of Tokyo Kashiwa
+- Nanobiocat - Xiamen University
+- Nanoscooter - TU Braunschweig
+- OhioMOD - Ohio State University
+- Tianjin - Tianjin University

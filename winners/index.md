@@ -6,7 +6,7 @@ title: "BIOMOD 2014 Winners"
 ## Grand Prize — Total Combined Score
 
 <font style="font-size:200%;"><strong>1st: <a target="_blank" href="http://openwetware.org/wiki/Biomod/2014/VCCRI">Team echiDNA - Victor Chang Australia</strong></a></br>
-2nd: <a target="_blank" href="http://www.ddnamic.de/">Dresden DNAmic - TU-Dreseden</a></br>
+2nd: <a target="_blank" href="http://www.ddnamic.de/">Dresden DNAmic - TU-Dresden</a></br>
 3nd: <a target="_blank" href="http://teamsendai2014.github.io/">Team Sendai - Tohoku University</a>
 </font>
 

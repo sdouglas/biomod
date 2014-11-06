@@ -24,7 +24,7 @@ title: "BIOMOD 2014 Winners"
 
 ## Best Wiki
 
-1. <a target="_blank" href="http://www.ddnamic.de/LMU">Dresden DNAmic - TU Dresden</a>
+1. <a target="_blank" href="http://www.ddnamic.de/">Dresden DNAmic - TU Dresden</a>
 2. <a target="_blank" href="http://teamsendai2014.github.io/">Team Sendai - Tohoku University</a>
 3. <a target="_blank" href="http://detectorgadget.github.io/">Detector Gadget - Aarhus University</a><br>
 

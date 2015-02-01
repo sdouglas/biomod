@@ -26,7 +26,7 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Schedule
 
-Here is the [2014 Schedule](./BIOMOD2014_schedule.pdf) and [2014 Quick Guide](./BIOMOD2014_QuickGuide.pdf). 
+We will finalize the 2015 Schedule in October. For reference, here is the [2014 Schedule](./BIOMOD2014_schedule.pdf) and [2014 Quick Guide](./BIOMOD2014_QuickGuide.pdf). 
 
 <div class="main">
 <div class="row">

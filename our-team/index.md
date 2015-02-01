@@ -25,8 +25,9 @@ date:   2013-08-28 16:27:08
 * Byron Hinebaugh
 * [Jason Brown](http://pendulumswingmedia.com/)
 
-### Recent Contributors
+### Past Contributors
 
 * Rick Groleau
+* Caitlin Wells
 * [Gaël McGill](http://www.digizyme.com/about/team.html)
 

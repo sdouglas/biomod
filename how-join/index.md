@@ -5,11 +5,13 @@ date:   2013-08-28 16:27:08
 ---
 
 
-BIOMOD registration is OPEN for 2014!
+BIOMOD registration is OPEN for 2015!
 
 ## Organize your team
 
-Registration is $250. Before you register, please read the criteria listed on the [Requirements](/requirements) page. All teams are responsible for their own fund raising and travel expenses, so start early.
+Team Registration is $250. Note that there will be a SEPARATE individual registration fee charged to each person to attend the Jamboree. We are negotiating rates and finalizing the budget, but each person should expect a $200 individual registration fee, plus lodging costs).
+
+Before you register, please read the criteria listed on the [Requirements](/requirements) page. All teams are responsible for their own fund raising and travel expenses, so start early.
 
 ## Submit your registration information
 

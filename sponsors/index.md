@@ -6,7 +6,7 @@ date:   2013-08-28 16:27:08
 
 
 
-<a target="_new" href="http://students.autodesk.com/"><img style="padding-left:7em;" src="/assets/images/autodesk.png"></a><br>
+<a target="_new" href="http://www.autodesk.com/education/"><img style="padding-left:7em;" src="/assets/images/autodesk.png"></a><br>
 
 
 <a target="_new" href="http://www.isnsce.org/"><img style="padding-left:2.5em;" src="http://www.isnsce.org/templates/whitenano/images/layout_03.jpg"></a><br>

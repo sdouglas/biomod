@@ -5,7 +5,8 @@ date:   2013-08-28 16:27:08
 ---
 
 
-Winning projects from previous years: [2011](http://2011.biomod.net/winners) [2012](http://2012.biomod.net/winners) [2013](/winners).
+Winning projects from previous years: [2011](/winners/2011.html)  [2012](/winners/2012.html) [2013](/winners/2013.html) [2014](/winners/2014.html)
+
 
 All project wikis can be found [here](http://openwetware.org/wiki/Biomod).
 
@@ -13,6 +14,6 @@ We encourage students to take the extra step to carry out background research to
 
 The Dietz lab at TU Munich also hosts a nice overview of [Biomolecular nanotechnology](http://bionano.physik.tu-muenchen.de/biomolecular_nanotechnology.html), and another specifically about [DNA nanotechnology](http://bionano.physik.tu-muenchen.de/DNA_nanotechnology.html).
 
-For more up-to-date news, subscribe to our [Twitter](http://twitter.com/#!/biomod) feed, where we constantly post links to novel and relevant research articles in the field.
+For more up-to-date news, subscribe to our [Twitter](https://twitter.com/biomod) feed, where we constantly post links to novel and relevant research articles in the field.
 
  

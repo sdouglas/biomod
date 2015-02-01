@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BIOMOD 2015 Registration is OPEN"
-date: Sun, 02 Feb 2015 23:49:33 +0000
+date: Sun, 01 Feb 2015 23:49:33 +0000
 ---
 
 Hello BIOMODders! 

@@ -2,6 +2,8 @@
 layout: post
 title: "BIOMOD 2015 Registration is OPEN"
 date: Sun, 01 Feb 2015 23:49:33 +0000
+redirect_from:
+  - /2015/02/02/biomod-2015-registration-is-open.html
 ---
 
 Hello BIOMODders! 

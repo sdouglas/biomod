@@ -13,6 +13,11 @@ The BIOMOD Jamboree is an annual conference at which all BIOMOD teams will conve
 
 Teams will be judged according to [criteria posted here](/judging).
 
+## Hotel
+
+The official hotel information for the 2015 Jamboree has been emailed to each team. The reserved blocks are for registered teams only. If you have any questions, please email Alison Reggio <alison.reggio@wyss.harvard.edu>.
+
+
 ## Important Dates
 
 - **{{ site.visa_letter_requests | date: '%B %-d' }}:** Teams outside the United States should [apply for visas](visa-information) by **{{ site.visa_letter_requests | date: '%B %-d, %Y' }}.**

@@ -9,8 +9,8 @@ This page outlines the requirements for team structure and project deliverables.
 
 ## Registration fees
 
-- **Team:** Team registration is $250. This is due before April 30th in order to reserve a presentation slot at the Jamboree.
-- **Individual:** Past BIOMOD jamborees have cost approximately $200 per person (not including hotel lodging), or $400 per person including hotel lodging. We are negotiating group rates for hotel rooms, but for now each team should budget in anticipation of these expenses.
+- **Team:** Team registration is $250. This is due before April 30th in order to reserve a team presentation slot at the Jamboree.
+- **Individual:** The Jamboree registration fee is $175 *per person* (not including hotel lodging), due September 25th.
 - **Where does my fee go?** Registration fees cover many expenses including renting the venue, A/V, catering, photographer, t-shirts, award certificates, transportation, and website development.
 
 ## Team structure

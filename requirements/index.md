@@ -10,7 +10,7 @@ This page outlines the requirements for team structure and project deliverables.
 ## Registration fees
 
 - **Team:** Team registration is $250. This is due before April 30th in order to reserve a team presentation slot at the Jamboree.
-- **Individual:** The Jamboree registration fee is $175 *per person* (not including hotel lodging), due September 25th.
+- **Individual:** The *nonrefundable* Jamboree registration fee is $175 *per person* (not including hotel lodging), due September 25th.
 - **Where does my fee go?** Registration fees cover many expenses including renting the venue, A/V, catering, photographer, t-shirts, award certificates, transportation, and website development.
 
 ## Team structure

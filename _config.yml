@@ -14,13 +14,13 @@ gems:
 # jekyll date format: YYYY-MM-DD HH:MM:SS +/-TTTT
 
 # team registration
-upcoming_date: "Sep 25 2015 23:59:00"
+# upcoming_date: "Sep 25 2015 23:59:00"
 
 # jamboree registration
 # upcoming_date: "Sep 25 2014 23:59:00"
 
 # wiki_video deadline
-# upcoming_date: "Nov 1 2014 08:00:00"
+upcoming_date: "Oct 24 2014 23:59:00"
 
 
 # important dates

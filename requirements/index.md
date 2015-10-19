@@ -38,6 +38,6 @@ Below is the set of deliverables that each team should produce in time the poste
 
 ### All teams must complete
 
-- 12 minute talk to be presented by student(s) at the Jamboree
+- 10 minute talk to be presented by student(s) at the Jamboree
 - ~3 minute youtube video summarizing the project
 - [wiki page](http://openwetware.org/wiki/Biomod/2013) documenting the project goals, data, and results

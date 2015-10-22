@@ -32,7 +32,7 @@ The official hotel information for the 2015 Jamboree has been emailed to each te
 
 ## Schedule
 
-We will finalize the 2015 Schedule in October. For reference, here is the [2014 Schedule](./BIOMOD2014_schedule.pdf) and [2014 Quick Guide](./BIOMOD2014_QuickGuide.pdf). 
+Here is the [2015 Schedule](./BIOMOD-2015-Schedule.pdf). 
 
 <div class="main">
 <div class="row">

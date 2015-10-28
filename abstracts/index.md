@@ -4,6 +4,8 @@ title:  "Abstracts"
 date:   2015-10-28 16:25:00
 ---
 
+(In order submitted)
+
 **Team:** Virtus Parva<br>
 **Title:** Nanogene-ear<br>
 **Abstract:** The world’s rhythm can be expressed through the singing of birds in the mornings, the water hitting the rocks on a stream, the laughter of friends. All these sounds are waves, travelling through air.  How could we listen to slighter waves, the quietest of sounds?   Nanogene-ear is a nanometric device designed to collect vibrations and transform them into electric signals. The main component for this device is DNA. Due to its mechanical and electrical properties, it allows us to create a capacitor-like arrangement whose deformations are the trigger for the signal transduction.  Just like a microphone does, but this time in the nanoscale.   Over a gold surface, a DNA membrane is attached in between two gold poles. The length of the gap between the gold layer and the membrane is dependent on the vibrations to which the device is exposed. Fluctuations in this spacing change the stored charges of the capacitor. The fabrication of this device involves nanotechnology techniques such as electroplating/physical vapor deposition, and relies on DNA’s self-Assembly onto gold surfaces.   The thin membrane should be capable of detecting the slightest variations of pressure in the air due to the elastic properties of the DNA.
@@ -67,10 +69,6 @@ date:   2015-10-28 16:25:00
 **Team:** Team Sendai<br>
 **Title:** If it ain't got that twist - Size-controllable Linear Homomultimer<br>
 **Abstract:**  In nature, various biological functions are realized by multimeric proteins. In most cases, these proteins have intrinsic curvature and the number of monomers are determined by their circular assembly. However, controlling the number of linear assembly is difficult without additional capping mechanisms. Here, we propose a novel mechanism to control the linear assembly by using a rotating shaft as a vernier.    We designed a DNA origami monomer consisting of a cylinder and a twisted shaft, where the shaft can rotate inside the cylinder. Since the shaft is slightly twisted, there is a phase shift between stacking surfaces on its both ends. As the monomers stack, the phase shift accumulates on the shaft. When the accumulated twist reaches the limit on the cylinder, the stacking is inhibited.    Our design enables us to make size-controllable DNA origami complexes, which provide various possibilities for nanotechnology.
-
-**Team:** Ochadai<br>
-**Title:** UV-cut <br>
-**Abstract:** Gold nanoparticles have a wide range of applications due to their optical and electronics properties. In our project, we focused on the interaction of these particles with light of a specific wavelength, and designed an optical filter that cuts ultraviolet rays. To create an interference pattern with the particles, we attached them onto a rectangular DNA origami designed by Rothemund et al. We modified the design slightly so that when an additional DNA strand is added, these numerous origami bind together, forming a planar sheet.   The pattern of gold nanoparticules on the sheet cuts UV while transmitting other wavelengths, and may be a novel transparent UV cut material. For future applications, we propose an eye drop that prevents diseases cased by excess exposure to sunlight. By forming this sheet on our eye, we can protect the entirety of it, not only our pupil as previously developed UV-cut contact lenses do.
 
 **Team:** Ochadai<br>
 **Title:** DNA based UV-cut sheet<br>

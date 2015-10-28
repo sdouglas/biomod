@@ -22,17 +22,17 @@ The official hotel information for the 2015 Jamboree has been emailed to each te
 
 - **{{ site.visa_letter_requests | date: '%B %-d' }}:** Teams outside the United States should [apply for visas](visa-information) by **{{ site.visa_letter_requests | date: '%B %-d, %Y' }}.**
 - **{{ site.jamboree_registration_start | date: '%B %-d' }}:** Jamboree Registration Opens
-- **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Registration deadline to attend the Jamboree 
-- **{{ site.project_abstract_deadline | date: '%B %-d' }}:** Each team must submit a project title and abstract (150 words max) 
-- **{{ site.wiki_video_deadline | date: '%B %-d' }}:** Team wiki freeze and video upload deadline. 11:59PM GMT-7 (Pacific time) 
-- **{{ site.hotel_checkin_time | date: '%B %-d' }}:** Check into hotel (after 15:00) 
+- **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Registration deadline to attend the Jamboree
+- **{{ site.project_abstract_deadline | date: '%B %-d' }}:** Each team must submit a project title and abstract (150 words max)
+- **{{ site.wiki_video_deadline | date: '%B %-d' }}:** Team wiki freeze and video upload deadline. 11:59PM GMT-7 (Pacific time)
+- **{{ site.hotel_checkin_time | date: '%B %-d' }}:** Check into hotel (after 15:00)
 - **{{ site.jamboree_start_time | date: '%B %-d' }}:** Jamboree Begins (8:00)
-- **{{ site.hotel_checkout_time | date: '%B %-d' }}:** Check out of hotel (before 11:00) 
+- **{{ site.hotel_checkout_time | date: '%B %-d' }}:** Check out of hotel (before 11:00)
 - **{{ site.jamboree_end_time | date: '%B %-d' }}:** Jamboree Ends (probably around 17:00)
 
 ## Schedule
 
-Here is the [2015 Schedule](./BIOMOD-2015-Schedule.pdf). 
+Here is the 2015 [QuickGuide](./BIOMOD-2015-QuickGuide.pdf) and [2015 Schedule](./BIOMOD-2015-Schedule.pdf).
 
 <div class="main">
 <div class="row">

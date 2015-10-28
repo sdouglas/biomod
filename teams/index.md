@@ -33,11 +33,11 @@ Location of and links to all the teams who participated in the Biomod Jamboree i
 - [South China University of Technology — Team SCUT-CHEM](http://openwetware.org/wiki/Biomod/2015/SCUT-CHEM)
 - [UNSW/VCCRI Australia - Team Injectimod](http://unswinjectimod.github.io/biomod2015/index.html)
 - [Kansai University — Team Kansai](http://openwetware.org/wiki/Biomod/2015/Kansai)
-- [National Taiwan University — Team NTU](https://teamntu.github.io/
-- [Ocean University of China — Team SeaSon](http://biomod.oucer.net/2015/
-- [Tohoku University — Team Sendai](http://teamsendai.github.io/
-- [Tsukuba University — Tsukuba](http://biomodtsukuba.github.io/
-- [University of Calgary — Team UofC](http://uofcbiomod2015.github.io/
+- [National Taiwan University — Team NTU](https://teamntu.github.io/)
+- [Ocean University of China — Team SeaSon](http://biomod.oucer.net/2015/)
+- [Tohoku University — Team Sendai](http://teamsendai.github.io/)
+- [Tsukuba University — Tsukuba](http://biomodtsukuba.github.io/)
+- [University of Calgary — Team UofC](http://uofcbiomod2015.github.io/)
 - [Columbia University — The NanoLions](http://www.infectedrocks.wix.com/nanolions)
 - [Tianjin University — Team Tianjin](http://openwetware.org/wiki/Biomod/2015/Tianjin)
 - [St. John's University — Team Toehold Conga Nanny](http://openwetware.org/wiki/Biomod/2015/StJohns)

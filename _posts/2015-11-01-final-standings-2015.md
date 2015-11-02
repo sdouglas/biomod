@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Final Standings for BIOMOD 2014"
+title:  "Final Standings for BIOMOD 2015"
 date:   Sun, 01 Nov 2015 21:45:00 +0000
 categories: registration jamboree
 ---

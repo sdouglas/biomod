@@ -10,9 +10,9 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 
 ## Grand Prize — Total Combined Score
 
-<font style="font-size:200%;"><strong>1st: <a target="_blank" href="http://teamsendai.github.io/">Team Sendai - Tohoku University Japan</strong></a></br>
-2nd: <a target="_blank" href="http://nanocandy.eu/index.html">NanocANDy - Ludwig-Maximilians-Universität München</a></br>
-3nd: <a target="_blank" href="http://hustchina2015.github.io/">HUST-China - Huazhong University of Science and Technology</a>
+<font style="font-size:200%;"><strong>1st: <a target="_blank" href="http://teamsendai.github.io/">Team Sendai - Tohoku Univ.</strong></a></br>
+2nd: <a target="_blank" href="http://nanocandy.eu/index.html">NanocANDy - LMU</a></br>
+3nd: <a target="_blank" href="http://hustchina2015.github.io/">HUST-China - Huazhong Univ of Sci&Tech</a>
 </font>
 
 

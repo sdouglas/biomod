@@ -2,35 +2,31 @@ name: BIOMOD
 description: International Bio-molecular Design Competition
 url: http://biomod.net
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 paginate: 5
 paginate_path: "blog/page:num/index.html"
 excerpt_separator: <!--more-->
 
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
 
 # registration date or jamboree date is called UPCOMING_DATE (below)
 # jekyll date format: YYYY-MM-DD HH:MM:SS +/-TTTT
 
-# team registration
-# upcoming_date: "Sep 25 2015 23:59:00"
-
 # wiki_video deadline
-upcoming_date: "Oct 31 2015 08:00:00"
-
+upcoming_date: "Apr 30 2016 23:59:00"
 
 # important dates
-#team_registration_deadline: 2014-04-30 23:59:00 -0400
-team_registration_deadline: "Apr 30 2015 23:59:00"
-judging_criteria_posted: "May 1 2015 23:59:00"
+team_registration_deadline: "Apr 30 2016 23:59:00"
+judging_criteria_posted: "May 1 2016 23:59:00"
 visa_letter_requests: "Jul 1 2015 23:59:00"
-jamboree_registration_start: "Aug 24 2015 00:00:00"
-jamboree_registration_deadline: "Sep 25 2015 23:59:00"
-project_abstract_deadline: "Sep 25 2015 23:59:00"
+jamboree_registration_start: "Aug 24 2016 00:00:00"
+jamboree_registration_deadline: "Sep 25 2016 23:59:00"
+project_abstract_deadline: "Sep 25 2016 23:59:00"
 # wiki video deadline supposed to be in Pacific time zone
-wiki_video_deadline: "Oct 24 2015 11:59:00"
-hotel_checkin_time: "Oct 30 2015 15:00:00"
-jamboree_start_time: "Oct 31 2015 08:00:00"
-hotel_checkout_time: "Nov 1 2015 11:00:00"
-jamboree_end_time: "Nov 1 2014 17:00:00"
+wiki_video_deadline: "Oct 21 2016 11:59:00"
+hotel_checkin_time: "Oct 28 2016 15:00:00"
+jamboree_start_time: "Oct 29 2016 08:00:00"
+hotel_checkout_time: "Oct 30 2016 11:00:00"
+jamboree_end_time: "Oct 30 2016 17:00:00"

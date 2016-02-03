@@ -2,7 +2,7 @@ name: BIOMOD
 description: International Bio-molecular Design Competition
 url: http://biomod.net
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 paginate: 5
 paginate_path: "blog/page:num/index.html"
 excerpt_separator: <!--more-->

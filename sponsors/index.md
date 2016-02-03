@@ -4,7 +4,7 @@ title:  "Sponsors"
 date:   2013-08-28 16:27:08
 ---
 
-
+<a target="_new" href="http://wyss.harvard.edu/"><img style="padding-left:2.5em;" src="/assets/images/wysslogo-panel.png"></a><br>
 
 <a target="_new" href="http://www.autodesk.com/education/"><img style="padding-left:7em;" src="/assets/sponsors/autodesk/autodesk.png"></a><br>
 

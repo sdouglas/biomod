@@ -8,11 +8,13 @@ Hello BIOMODders! It's time to kick off the 6th year of our nano-sized design co
 
 <!--more-->
 
-**Registration**
+**Registration & Fees**
 
-BIOMOD 2016 Registration will open February 15th. A fee of $250 USD is due at the time of team registration, payable by credit card or wire transfer. Registration is only considered complete when payment is received and confirmation is sent. This year's individual Jamboree registration fee will be $180 USD per person, due in late September.
+A fee of $250 USD is due at the time of team registration, payable by credit card or wire transfer. Registration is only considered complete when payment is received and confirmation is sent. Watch the timer on the BIOMOD front page. A registration URL will go live at the end of the countdown. This year's individual Jamboree registration fee will be $180 USD per person, due in late September along with your project Title and Abstract.
 
-Watch the timer on the [BIOMOD front page](/). A registration URL will go live at the end of the countdown.
+**Available Team Slots and Wait List**
+
+The BIOMOD Jamboree is a special event that we want to share with as many students as possible, but it is necessarily constrained by available space and presentation time. We want all teams to be able to present in the same room, and have a chance to interact with each other. Therefore, we are limiting registration to a maximum of 30 teams this year. We will post regular updates on the BIOMOD website and social media accounts so everyone can track how many slots are left. If we reach the maximum number of teams before April 30th, we will close registration early, and open a wait list. Teams on the wait list may have the option to register in the event of a cancellation, and/or register early for BIOMOD 2017.
 
 **Venue**
 
@@ -23,7 +25,3 @@ The Jamboree will take place October 29–30 in San Francisco, California and be
 **New Category Award: Best Use of Game Engine**
 
 This year we will be exploring project & presentation formats that begin to anticipate next-generation computing hardware (e.g. virtual and/or augmented reality headsets). Practically speaking, this means that we will introduce a category award encourage teams to utilize a 3D game engine, such as [Unity](https://unity3d.com/) or [Unreal](https://www.unrealengine.com/) in their projects, however they wish. Last year's winning [Team Sendai](http://teamsendai.github.io/Simulation.html) already did this for simulation purposes, but we think this innovative use case only scratches the surface of what is possible.
-
-**Available Team Slots and Wait List**
-
-The BIOMOD Jamboree is a special event that we want to share with as many students as possible, but it is necessarily constrained by available space and presentation time. We want all teams to be able to present in the same room, and have a chance to interact with each other. Therefore, we are limiting registration to a maximum of **30 teams** this year. If we reach the maximum number of teams before April 30th, we will close registration early, and open a wait list. Teams on the wait list may have the option to register early for BIOMOD 2017.

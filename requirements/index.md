@@ -16,7 +16,7 @@ This page outlines the requirements for team structure and project deliverables.
 ## Team structure
 
 - **Mentoring:** Each team must have at least one faculty advisor. We also recommend having at least one graduate student or postdoc mentor available to work closely with students during the summer.
-- **Size:** Teams should have a maximum of **8 students** per team. We recommend one team per institution.
+- **Size:** Teams should have a maximum of **8 students** per team. We request that you only register one team per institution.
 - **Scope:** Project planning is entirely up to the team. Given time constraints for presenting the work, we recommend that each team focus on a single project.
 - **Composition:** Teams should consist primarily of undergraduate students (studying towards a bachelor's degree, or graduating this year) at an accredited college or university. High school students are welcome. Graduate students and postdocs should serve as mentors.
 
@@ -34,7 +34,7 @@ This is a rough suggestion for how a BIOMOD team might organize their project. P
 
 ## Project Deliverables
 
-Below is the set of deliverables that each team should produce in time the posted judging deadlines. 
+Below is the set of deliverables that each team should produce in time the posted judging deadlines.
 
 ### All teams must complete
 

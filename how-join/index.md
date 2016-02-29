@@ -5,7 +5,7 @@ date:   2013-08-28 16:27:08
 ---
 
 
-BIOMOD registration for 2016 will open in early February!
+BIOMOD registration for 2016 is <a href="https://biomod.wufoo.com/forms/2016-registration-form/">here</a> and is open until April 30th, or until we run out of team slots.
 
 ## Organize your team
 

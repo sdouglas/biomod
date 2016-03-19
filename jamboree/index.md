@@ -7,7 +7,7 @@ date:   2013-08-28 16:27:08
 
 ## What is it?
 
-The BIOMOD Jamboree is an annual conference at which all BIOMOD teams will convene to present their work from the summer. This year's Jamboree is scheduled to take place at the [Northwest Building](http://isites.harvard.edu/icb/icb.do?keyword=k68489&amp;pageid=icb.page331114) at Harvard University in Cambridge, MA starting on {{ site.jamboree_start_time | date: '%B %-d, %Y' }}.
+The BIOMOD Jamboree is an annual conference at which all BIOMOD teams will convene to present their work from the summer. This year's Jamboree is scheduled to take place in Genentech Hall at UCSF in San Francisco, CA starting on {{ site.jamboree_start_time | date: '%B %-d, %Y' }}.
 
 ## Judging and Awards
 
@@ -15,8 +15,7 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Hotel
 
-The official hotel information for the 2015 Jamboree has been emailed to each team. The reserved blocks are for registered teams only. If you have any questions, please email Alison Reggio <alison.reggio@wyss.harvard.edu>.
-
+We are securing a block of discounted rooms. More information will be sent to the primary contact for each team.
 
 ## Important Dates
 

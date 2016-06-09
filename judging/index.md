@@ -40,7 +40,7 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 - Production: Was the sound and video high quality? Were the images focused and scaled properly? **(5 points)**
 
 
-## • Wiki (50 points)
+## • Project Website (50 points)
 
 ### Project Idea (20 points)
 
@@ -81,7 +81,7 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 
 ### Category awards
 
-- Best Wiki = 1st place, 2nd place, 3rd place
+- Best Project Website = 1st place, 2nd place, 3rd place
 - Best YouTube Video = 1st place, 2nd place, 3rd place
 - Best Presentation = 1st place, 2nd place, 3rd place
 - Audience favorite = 1st place, 2nd place, 3rd place
@@ -98,6 +98,7 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 
 ### Special awards
 
+- Best Use Of [Unity3D](http://unity3d.com/).
 - The Fifth Annual Molecular Robotics Award (by [MOLBOT](http://molbot.org/), Japan)
 - Best Team T-shirt Award
 

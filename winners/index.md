@@ -26,7 +26,7 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 
 * Protomatos
 
-## Best Wiki
+## Best Project Website
 
 1. SCUT-CHEM
 2. NanocANDy

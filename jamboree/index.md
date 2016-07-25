@@ -15,7 +15,8 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Hotel
 
-We are securing a block of discounted rooms. More information will be sent to the primary contact for each team.
+We have secured a block of rooms at the [Sir Frances Drake](http://www.sirfrancisdrake.com/) Hotel. You can access the URL to book your discounted room once you have registered your account on the BIOMOD website. Up to 4 individuals can fit in each room with no extra charge, which works out to $62.50 per person per night.
+
 
 ## Important Dates
 

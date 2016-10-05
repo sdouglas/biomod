@@ -99,7 +99,7 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 ### Special awards
 
 - Best Use Of [Unity3D](http://unity3d.com/).
-- The Fifth Annual Molecular Robotics Award (by [MOLBOT](http://molbot.org/), Japan)
+- The Sixth Annual Molecular Robotics Award (by [MOLBOT](http://molbot.org/), Japan)
 - Best Team T-shirt Award
 
 &nbsp;

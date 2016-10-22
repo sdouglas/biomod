@@ -6,7 +6,7 @@ date:   2013-08-28 16:27:08
 
 
 
-Location of and links to all the teams who participated in the Biomod Jamboree in 2015
+All the teams who participated in BIOMOD 2016
 
 
 

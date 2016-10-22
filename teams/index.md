@@ -28,7 +28,7 @@ All the teams who participated in BIOMOD 2016
 - [Monterrey Institute of Technology and Higher Education — BioDesigners ITESM Qro](https://biomod2016.gitlab.io/itesm)
 - [National Taiwan University — NTU-Taiwan](https://biomod2016.gitlab.io/taiwan)
 - [Ocean University of China — Season](https://biomod2016.gitlab.io/season)
-- [Osaka University — Team HANDAI](https://biomod2016.gitlab.io/)
+- [Osaka University — Team HANDAI](https://biomod2016.gitlab.io/osaka)
 - [Rutgers, the State University of New Jersey — Team Rutgers](https://biomod2016.gitlab.io/rutgers)
 - [SKKU, Suwon-si — Team SKKU](https://biomod2016.gitlab.io/skku)
 - [Technische Universität Dresden — I, Nanobot](https://inanobotdresden.github.io)

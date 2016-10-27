@@ -32,7 +32,7 @@ We have secured a block of rooms at the [Sir Frances Drake](http://www.sirfranci
 
 ## Schedule
 
-Here is the 2015 [QuickGuide](./BIOMOD2016-QuickGuide.pdf) and [2016 Schedule](./BIOMOD2016-Schedule.pdf).
+Here is the [2016 QuickGuide](./BIOMOD2016-QuickGuide.pdf) and [2016 Schedule](./BIOMOD2016-Schedule.pdf).
 
 <div class="main">
 <div class="row">

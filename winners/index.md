@@ -28,9 +28,9 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 
 ## Best Project Website
 
-1. [Nano-JLU](https://biomod2016.gitlab.io/jilin/)
+1. [Team Tiny Trap](http://biomod2016.gitlab.io/teamtinytrap/)
 2. [YOKABIO](https://biomod2016.gitlab.io/kyushu/)
-3. [Team Tiny Trap](http://biomod2016.gitlab.io/teamtinytrap/)
+3. [Nano-JLU](https://biomod2016.gitlab.io/jilin/)
 
 ## Best YouTube video
 

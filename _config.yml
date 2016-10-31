@@ -15,7 +15,7 @@ gems:
 # jekyll date format: YYYY-MM-DD HH:MM:SS +/-TTTT
 
 # wiki_video deadline
-upcoming_date: "Feb 15 2017 00:00:00 -1000"
+upcoming_date: "Feb 15 2017 00:00:00"
 
 # important dates
 team_registration_opens: "Feb 15 2016 00:00:00"

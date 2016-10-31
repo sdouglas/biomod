@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "BIOMOD 2015 Winners"
+title: "BIOMOD 2016 Winners"
 ---
 
 Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013.html) [2014](/winners/2014.html) [2015](/winners/2015.html) **2016**

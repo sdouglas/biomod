@@ -9,7 +9,7 @@ BIOMOD registration for 2017 is <a href="https://biomod.wufoo.com/forms/2017-reg
 
 ## Organize your team
 
-Team Registration is USD $255 (*nonrefundable*). Note that there will be a SEPARATE individual registration fee charged to each person to attend the Jamboree. Individual registration is USD $185 per person (*nonrefundable*), plus lodging costs.
+Team Registration is USD ${{ site.team_registration_fee }} (*nonrefundable*). Note that there will be a SEPARATE individual registration fee charged to each person to attend the Jamboree. Individual registration is USD ${{ site.individual_registration_fee }} per person (*nonrefundable*), plus lodging costs.
 
 Before you register, please read the criteria listed on the [Requirements](/requirements) page. All teams are responsible for their own fund raising and travel expenses, so start early.
 

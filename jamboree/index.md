@@ -15,7 +15,7 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Hotel
 
-We have secured a block of rooms at the [Sir Frances Drake](http://www.sirfrancisdrake.com/) Hotel. You can access the URL to book your discounted room once you have registered your account on the BIOMOD website. Up to 4 individuals can fit in each room with no extra charge, which works out to $62.50 per person per night.
+We are working to secure discounted hotel lodging. We will update this page as soon as more information is available.
 
 
 ## Important Dates
@@ -32,7 +32,7 @@ We have secured a block of rooms at the [Sir Frances Drake](http://www.sirfranci
 
 ## Schedule
 
-Here is the [2016 QuickGuide](./BIOMOD2016-QuickGuide.pdf) and [2016 Schedule](./BIOMOD2016-Schedule.pdf).
+The final schedule will be available by October 25, 2017. For reference here is the [2016 QuickGuide](./BIOMOD2016-QuickGuide.pdf) and [2016 Schedule](./BIOMOD2016-Schedule.pdf).
 
 <div class="main">
 <div class="row">

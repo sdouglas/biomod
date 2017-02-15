@@ -5,17 +5,17 @@ date:   2013-08-28 16:27:08
 ---
 
 
-BIOMOD registration for 2016 is <a href="https://biomod.wufoo.com/forms/2016-registration-form/">here</a> and is open until April 30th, or until we run out of team slots.
+BIOMOD registration for 2017 is <a href="https://biomod.wufoo.com/forms/2017-registration-form/">here</a> and is open until April 30th, or until we run out of team slots.
 
 ## Organize your team
 
-Team Registration is USD $250 (*nonrefundable*). Note that there will be a SEPARATE individual registration fee charged to each person to attend the Jamboree. Individual registration is USD $180 per person (*nonrefundable*), plus lodging costs.
+Team Registration is USD $255 (*nonrefundable*). Note that there will be a SEPARATE individual registration fee charged to each person to attend the Jamboree. Individual registration is USD $185 per person (*nonrefundable*), plus lodging costs.
 
 Before you register, please read the criteria listed on the [Requirements](/requirements) page. All teams are responsible for their own fund raising and travel expenses, so start early.
 
 ## Submit your registration information
 
-Fill out the [online registration form](https://biomod.wufoo.com/forms/2015-registration-form/).
+Fill out the [online registration form](https://biomod.wufoo.com/forms/2017-registration-form/).
 
 Once your registration is approved, you will receive a confirmation email and further instructions. Please [contact us](/contact) with any questions.
 

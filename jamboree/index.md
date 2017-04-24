@@ -15,8 +15,13 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Hotel
 
-We are working to secure discounted hotel lodging. We will update this page as soon as more information is available.
+The official hotel of BIOMOD 2017 is the Hotel Zelos in San Francisco.  BIOMOD is pleased to once again be able to offer a lodging credit in the amount of $500 per team for those teams staying at the Hotel Zelos.  This credit will be applied to your final hotel bill at checkout.  Attendees must report hotel information when completing their individual registration information to qualify for this credit.  
 
+Hotel bookings may be made at <a href="https://gc.synxis.com/rez.aspx?Hotel=75030&Chain=1003&arrive=11/3/2017&depart=11/5/2017&adult=1&child=0&group=58591">Hotel Zelos - BIOMOD 2017 - November 3 and 4.</a>
+
+The room block covers the nights of November 3 and 4 only.  If you are arriving earlier, please complete your booking for these two nights, and then email Rebecca Wheeler with your confirmation number and your preferred check-in date. She will then be able to alter your reservation accordingly. There are a limited number of rooms available for early arrivals at the group rate of $239 per night so please book as soon as possible.  
+
+Unfortunately, the hotel is not able to offer the group rate for stays beyond November 4.
 
 ## Important Dates
 

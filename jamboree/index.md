@@ -19,9 +19,9 @@ The official hotel of BIOMOD 2017 is the Hotel Zelos in San Francisco.  BIOMOD i
 
 Hotel bookings may be made at <a href="https://gc.synxis.com/rez.aspx?Hotel=75030&Chain=1003&arrive=11/3/2017&depart=11/5/2017&adult=1&child=0&group=58591">Hotel Zelos - BIOMOD 2017 - November 3 and 4.</a>
 
-The room block covers the nights of November 3 and 4 only.  If you are arriving earlier, please complete your booking for these two nights, and then email Rebecca Wheeler with your confirmation number and your preferred check-in date. She will then be able to alter your reservation accordingly. There are a limited number of rooms available for early arrivals at the group rate of $239 per night so please book as soon as possible.  
+The room block covers the nights of November 3 and 4 only.  If you are arriving earlier, please complete your booking for these two nights, and then email Rebecca Wheeler with your confirmation number and your preferred check-in date. She will then be able to alter your reservation accordingly. There are a limited number of rooms available for early arrivals at the group rate of $239 per night so please book as soon as possible. The hotel is not able to offer the group rate for stays beyond November 4.
 
-Unfortunately, the hotel is not able to offer the group rate for stays beyond November 4.
+Reservations must be made by September 18, 2017 to receive the discounted group rate and the BIOMOD room credit.
 
 ## Important Dates
 

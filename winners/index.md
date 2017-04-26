@@ -7,9 +7,9 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 
 ## Grand Prize — Total Combined Score
 
-- <font style="font-size:200%;"><strong>1st: <a target="_blank" href="http://biomod2016.gitlab.io/teamtinytrap/">Team Tiny Trap - UNSW Australia.</strong></a><br>
+- 1st: <a target="_blank" style="font-size:200%;" href="http://biomod2016.gitlab.io/teamtinytrap/">Team Tiny Trap - UNSW Australia</a><br>
 - 2nd: <a target="_blank" href="https://biomod2016.gitlab.io/sendai">Team Sendai - Tohoku University</a><br>
-- 3nd: <a target="_blank" href="http://hustchina2015.github.io/">OhioMOD - The Ohio State University</a>
+- 3nd: <a target="_blank" href="http://biomod2016.gitlab.io/ohiomod">OhioMOD - The Ohio State University</a>
 
 
 ## Audience Choice Award

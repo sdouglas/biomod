@@ -26,7 +26,7 @@ Reservations must be made by September 18, 2017 to receive the discounted group 
 ## Important Dates
 
 - **{{ site.visa_letter_requests | date: '%B %-d' }}:** Teams outside the United States should [apply for visas](visa-information) by **{{ site.visa_letter_requests | date: '%B %-d, %Y' }}.**
-- **{{ site.jamboree_registration_start | date: '%B %-d' }}:** Jamboree Registration Opens
+- **{{ site.jamboree_registration_start | date: '%B %-d' }}:** Jamboree Registration Opens 
 - **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Registration deadline to attend the Jamboree
 - **{{ site.project_abstract_deadline | date: '%B %-d' }}:** Each team must submit a project title and abstract (150 words max)
 - **{{ site.wiki_video_deadline | date: '%B %-d' }}:** Team wiki freeze and video upload deadline. 11:59PM GMT-7 (Pacific time)

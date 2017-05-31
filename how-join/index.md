@@ -5,7 +5,7 @@ date:   2013-08-28 16:27:08
 ---
 
 
-BIOMOD registration for 2017 is <a href="https://biomod.wufoo.com/forms/2017-registration-form/">here</a> and is open until April 30th, or until we run out of team slots.
+BIOMOD registration for 2018 will open in February 2018.
 
 ## Organize your team
 
@@ -56,6 +56,7 @@ In general, I have found it is best to approach a large number of potentially in
 
 <i>
 This is probably the most important work you do in the entire project. The team should include people with a diverse range of skills and experiences (for instance, one member of our BIOMOD team had previously worked as an Industrial Designer, who had quit his job and gone back to university to study biochemistry. His maturity and skill-set were invaluable). Ideally there should be a set of people with complementary interests and abilities, rather than a group of hotshots who won't be able to work together. Furthermore, in my experience academic record is a poor indicator of whether a person will be good on a team. What seems to be more important is a real passion to learn, a deep interest in biology and science in general, and a sense of honesty and fairness.
+</i>
 
 When looking for team-mates, I try to ask whether they have experience:
 - working in a molecular biology lab
@@ -64,8 +65,7 @@ When looking for team-mates, I try to ask whether they have experience:
 - creating mathematical models
 - building physical prototypes or tools
 - working in teams in a stressful context
-- and MORE.
-</i>
+- and MORE
 
 ### Choosing a project
 

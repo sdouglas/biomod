@@ -11,7 +11,7 @@ This page outlines the requirements for team structure and project deliverables.
 
 - **Team:** Team registration is ${{ site.team_registration_fee }}. This is due before April 30th in order to reserve a team presentation slot at the Jamboree.
 - **Individual:** The *nonrefundable* Jamboree registration fee is ${{ site.individual_registration_fee }} *per person* (not including hotel lodging), due September 25th.
-- **Where does my fee go?** Registration fees cover many expenses including renting the venue, A/V, catering, photographer, t-shirts, award certificates, transportation, and website development.
+- **Where does my fee go?** Registration fees cover program expenses including renting the venue, A/V, catering, photographer, t-shirts, award certificates, transportation, and website development.
 
 ## Team structure
 
@@ -39,5 +39,5 @@ Below is the set of deliverables that each team should produce in time the poste
 ### All teams must complete
 
 - 10 minute talk to be presented by student(s) at the Jamboree
-- ~3 minute youtube video summarizing the project
-- [wiki page](http://openwetware.org/wiki/Biomod/2013) documenting the project goals, data, and results
+- ~3 minute YouTube video summarizing the project
+- Website documenting the project goals, data, and results

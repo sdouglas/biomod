@@ -13,7 +13,7 @@ Osaka University and Molecular Robotics Research Group will hold BIOMOD JAPAN 20
 
 **Place**: Sigma Hall, Toyonaka Campus, Osaka University
 
-**URL**: http://www.es.osaka-u.ac.jp/en/access.html
+**URL**: [http://www.es.osaka-u.ac.jp/en/access.html](http://www.es.osaka-u.ac.jp/en/access.html)
 (The place is No. 27 "Hall".)
 
 **Presentation time**: 10 minutes with 3 minutes Q & A
@@ -22,11 +22,11 @@ Osaka University and Molecular Robotics Research Group will hold BIOMOD JAPAN 20
 
 **Website Freeze**: Friday, August 25, 2017 24:00
 
-**Evaluation**: Website 50 points, Presentation 25 points
+**Evaluations**: Website 50 points, Presentation 25 points
 
 Details of evaluation items are the same for BIOMOD. Contents of presentation and website (wiki) will be evaluated by mentors on the basis of the same criteria of BIOMOD. YouTube videos are not subject to evaluation. Evaluation results will be provided to participating teams.
 
-*To Apply*: Applications to BIOMOD JAPAN 2017 should be sent to:
+**To Apply**: Applications to BIOMOD JAPAN 2017 should be sent to:
 
 Prof. Kaoru Uesugi, Osaka University<br>
 Email: uesugi@live.mech.eng.osaka-u.ac.jp

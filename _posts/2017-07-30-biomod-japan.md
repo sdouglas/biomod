@@ -2,7 +2,7 @@
 layout: post
 title:  BIOMOD Japan 2017
 date:   Sun, 30 Jul 2017 02:00:00 +0000
-categories: jamboree japan
+categories: japan
 ---
 
 **Call for Participation ~ BIOMOD JAPAN 2017**

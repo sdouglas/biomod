@@ -37,7 +37,7 @@ Reservations must be made by September 18, 2017 to receive the discounted group 
 
 ## Schedule
 
-Here is the [2017 QuickGuide](./BIOMOD2017-QuickGuide-v3.pdf), which includes the final schedule.
+Here is the [2017 QuickGuide](./BIOMOD2017-QuickGuide-v4.pdf), which includes the final schedule.
 
 <div class="main">
 <div class="row">

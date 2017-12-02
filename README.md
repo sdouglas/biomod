@@ -37,7 +37,7 @@ Now, the site only loads the .css files, it doesn't know about the the .scss fil
 Never change a .css file, only change a .scss file, or the SASS compiler will overwrite those changes.
 
 ### Important issue with CSS
-  
+
 CSS files aren't being tracked until we're ready for production: this is because every commit creates stupid conflicts needing merges. SO in production, the line in .gitignore must be removed so git just tracks css files again.
 
 ### Dates and
@@ -59,10 +59,10 @@ Countdown is set up in main.js but draws the registration date from _config and 
 
 
 ### The blog
-  
+
 By adding this line to _config.yml
 excerpt_separator: <!--more-->
-We can add <!--more--> to a blog, so it cuts off the excerpt display at its location. This is important as a LONG blog post will display in its entirety on the front page. You don't want that. 
+We can add <!--more--> to a blog, so it cuts off the excerpt display at its location. This is important as a LONG blog post will display in its entirety on the front page. You don't want that.
 
 
 ### Noteworthy links
@@ -72,3 +72,8 @@ We can add <!--more--> to a blog, so it cuts off the excerpt display at its loca
 [Using Jekyll Plugins on Github Pages](http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html) blog entry from blog.nitrous.io
 
 [tapir](http://tapirgo.com/) offers search based on an RSS feed, useful for static sites.
+
+
+### Icons
+
+Credit card icons on the donation page are derived from [https://github.com/muffinresearch/payment-icons](https://github.com/muffinresearch/payment-icons).

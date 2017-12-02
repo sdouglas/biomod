@@ -17,7 +17,6 @@ date:   2013-08-28 16:27:08
 
 * [Paul Rothemund](http://www.dna.caltech.edu/~pwkr/) (Secretary)
 * [Kevan Shokat](http://shokatlab.ucsf.edu/) (Treasurer)
-* [Mary Tolikas](https://wyss.harvard.edu/team/executive-team/mary-tolikas/)
 * [Satoshi Murata](http://www.molbot.mech.tohoku.ac.jp/eng/member_murata.html)
 
 ## Legal & Accounting
@@ -41,6 +40,7 @@ date:   2013-08-28 16:27:08
 * [Jermaine Reid](https://www.linkedin.com/in/reidjermaine/)
 * [Joel Wasko](https://www.linkedin.com/in/joelwasko/)
 * [Leslie Bienen](http://www.c3science.com/)
+* [Mary Tolikas](https://wyss.harvard.edu/team/executive-team/mary-tolikas/)
 * [Mary Wozniak](https://www.linkedin.com/in/mary-wozniak-942b3078/)
 * [Neel Joshi](http://www.joshigroup.seas.harvard.edu/)
 * [Peng Yin](http://yin.hms.harvard.edu/)

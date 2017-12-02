@@ -31,9 +31,11 @@ All sales proceeds go directly to support the BIOMOD Foundation!
 
 ## Amazon Smile
 
+[Designate BIOMOD Foundation](https://smile.amazon.com/ch/81-0731964) to receive donations equal to 0.5% of your Amazon purchases. Note: this program does not charge you anything extra for Amazon orders.
+
 <a target="_new" href="https://smile.amazon.com/ch/81-0731964"><img src="/assets/images/donate-amazon-button.png"/></a>
 
-[Designate BIOMOD Foundation](https://smile.amazon.com/ch/81-0731964) to receive donations equal to 0.5% of your Amazon purchases. You can install browser plug-ins for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/amazon-smile/) and [Chrome](https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf?hl=en) to automatically use the correct URL.
+You can install browser plug-ins for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/amazon-smile/) and [Chrome](https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf?hl=en) to automatically use the correct URL.
 
 ## Industry Sponsorship
 

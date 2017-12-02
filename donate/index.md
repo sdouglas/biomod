@@ -28,6 +28,9 @@ We use donations to support student travel and lodging expenses so they can meet
 
 ## Get the BIOMOD Handbook!
 
-The BIOMOD Handbook is an introduction to biomolecular engineering. Topics include molecular self-assembly, structural DNA nanotechnology, DNA computing, and molecular robotics. We've tailored the Handbook for undergraduate students participating in BIOMOD, but concepts and skills may be applicable beyond the scope of the competition, such as in undergraduate-level laboratory courses. The Handbook originated as a translation of a Japanese-language guide by the [Molecular Robotics Study Group](http://en.molecular-robotics.org/greeting/).
+
+<a target="_new" href="https://leanpub.com/biomod"><img src="/assets/images/biomod-handbook-logo.png"/></a>
+
+The <a target="_new" href="https://leanpub.com/biomod">BIOMOD Handbook</a> is an introduction to biomolecular engineering. Topics include molecular self-assembly, structural DNA nanotechnology, DNA computing, and molecular robotics. We've tailored the Handbook for undergraduate students participating in BIOMOD, but concepts and skills may be applicable beyond the scope of the competition, such as in undergraduate-level laboratory courses. The Handbook originated as a translation of a Japanese-language guide by the [Molecular Robotics Study Group](http://en.molecular-robotics.org/greeting/).
 
 All sales proceeds go directly to support the BIOMOD Foundation!

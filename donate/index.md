@@ -1,12 +1,10 @@
 ---
 layout: page
-title:  "Donate"
+title:  "Donate to BIOMOD!"
 date:   2017-12-02 11:25:00
 ---
 
 &nbsp;
-
-## Donate to BIOMOD!
 
 BIOMOD is run by the BIOMOD Foundation. BIOMOD Foundation is organized under the Nonprofit Public Benefit Corporation Law for public and charitable purposes. It is not organized for the private gain of any person. The specific purpose of BIOMOD Foundation is to promote science and scientific education. It is organized exclusively for charitable, scientific, and educational purposes within the meaning of the Internal Revenue Code §501(c)(3).
 

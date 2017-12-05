@@ -59,7 +59,6 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 - team HANDAI
 - Toehold Conga Nanny
 - UC San DNAgo
-- UsydUfold
 
 ### Silver
 
@@ -80,3 +79,4 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 - NTU-Taiwan
 - Oxford
 - Sendai
+- UsydUfold

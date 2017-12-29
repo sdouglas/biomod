@@ -31,7 +31,6 @@ This is a rough suggestion for how a BIOMOD team might organize their project. P
 - **September–October:** Complete project wiki, video, and presentation. Register for Jamboree.
 
 
-
 ## Project Deliverables
 
 Below is the set of deliverables that each team should produce in time the posted judging deadlines.
@@ -41,3 +40,13 @@ Below is the set of deliverables that each team should produce in time the poste
 - 10 minute talk to be presented by student(s) at the Jamboree
 - ~3 minute YouTube video summarizing the project
 - Website documenting the project goals, data, and results
+
+
+## Intellectual Property
+
+BIOMOD is meant to foster the open exchange of ideas. Teams are welcome to apply for provisional patent protection on any intellectual property (IP) generated during their project, but teams should ensure that any IP protection is in place **before** the beginning of the judging process, and be ready to disclose any technical details related to their project at the jamboree.
+
+
+## Code of Conduct
+
+The BIOMOD Foundation mission is to promote science and science education. This pursuit requires a shared commitment to the core values of the BIOMOD as well as a commitment to ethical conduct in all BIOMOD-related activities. We expect all participants to conduct themselves ethically, honestly and with integrity in all dealings. BIOMOD participants should treat each other with respect and dignity. BIOMOD prohibits discrimination and harassment and provides equal opportunities for all community members and applicants regardless of race, color, national origin, religion, sex, gender identity, pregnancy, physical or mental disability, medical condition, ancestry, marital status, age, sexual orientation, or citizenship. BIOMOD participants engaged in research are not to: fabricate data or results; change or knowingly omit data or results to misrepresent results in the research record; or intentionally misappropriate the ideas, writings, research, or findings of others.

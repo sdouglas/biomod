@@ -12,7 +12,7 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 
 - Judges will be selected from a pool of BIOMOD faculty mentors and outside experts.
 - Mentors will not evaluate their own team.
-- Judges' names will be disclosed.
+- Judges' names will be disclosed in the QuickGuide.
 
 ### Online content scoring
 
@@ -23,7 +23,6 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 - Highest and lowest judges' total scores are excluded to remove outliers.
 - Three remaining judges' scores will each weighted by 1/3 and combined to determine the total scores for each category.
 
-
 ### Live presentation scoring
 
 - All judges present at the Jamboree will be asked to rate all presentations.
@@ -31,14 +30,13 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 - The remaining n judges' scores will be weighted by 1/n and combined to determine the total scores for the presentation.
 
 
+## Requirement compliance
+
+- Teams are responsible for satisfying all project criteria described on this page and the [requirements](/requirements/) page, including maximum team size (8 undergraduate students, plus mentors).
+- Judges have discretion to award points for meeting requirements for video and presentation length.
+- We reserve the right to disqualify teams from receiving awards if they fail to adhere to BIOMOD requirements. Final decisions are at the discretion of the BIOMOD Foundation Board of Directors.
+
 ## Scoring
-
-## • YouTube video (25 points)
-
-- Overall impact: Was the video interesting? Did you want to watch more than once? **(10 points)**
-- Clarity: Was the project described in a simple and clear manner that could be easily understood by a wide audience? **(10 points)**
-- Production: Was the sound and video high quality? Were the images focused and scaled properly? **(5 points)**
-
 
 ## • Project Website (50 points)
 
@@ -63,11 +61,18 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 - Execution: Did the team accomplish what they set out to do? **(10 points)**
 
 
+## • YouTube video (25 points)
+
+- Overall impact: Was the video interesting? Did you want to watch more than once? **(10 points)**
+- Clarity: Was the project described in a simple and clear manner that could be easily understood by a wide audience? **(10 points)**
+- Production: Was the video duration 3 minutes or less? Was the sound and video high quality? Were the images focused and scaled properly? **(5 points)**
+
+
 ## • Presentation (25 points)
 
-- Content: Were the slides clear and easy to understand? Did the project narrative have a logical flow, with clearly stated goals and results? **(10 points)**
-- Delivery: Did the speaker(s) give a well-rehearsed, well-paced presentation? Did the speaker(s) engage with the audience and maintain good eye contact? **(10 points)**
-- Impact: Was the presentation interesting? fun? clever? memorable? **(5 points)**
+- Content: Were the project goals clearly stated? Were the slides clear and easy to understand? Was the team clear and open what work they accomplished? **(10 points)**
+- Delivery: Did the speaker(s) give a well-rehearsed, well-paced presentation? Did the speaker(s) engage with the audience and maintain good eye contact? Did the team finish promptly within the time limit? Was the presentation interesting? fun? clever? memorable? **(10 points)**
+- Q&A: Did the team provide satisfactory responses to audience questions? **(5 points)**
 
 
 ## Awards
@@ -90,16 +95,15 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 
 ### Project awards
 
-- Bronze: Team satisfied all minimum requirements for judging (i.e. Submitted a complete Project wiki and uploaded a YouTube video)
-- Silver: Satisfied criteria for Bronze, plus at least one device (part of the system) in the team's design is worked as expected.
-- Gold: Satisfied criteria for Silver, and overall point score from Wiki + YouTube + Jamboree presentation are in top 50% of all teams.
+- Bronze: Team satisfied all minimum requirements for judging (Completed website, video, and presentation).
+- Silver: Overall score is above 50% of all teams.
+- Gold: Overall score is above 75% of all teams.
 
 &nbsp;
 
 ### Special awards
 
-- Best Use Of [Unity3D](http://unity3d.com/).
-- The Sixth Annual Molecular Robotics Award (by [MOLBOT](http://molbot.org/), Japan)
+- The 7th Annual Molecular Robotics Award (by [MOLBOT](http://molbot.org/), Japan)
 - Best Team T-shirt Award
 
 &nbsp;
@@ -107,4 +111,5 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 ## Feedback
 
 - After the jamboree, teams will receive individual score reports so they can learn how they fared in each category.
+
 

@@ -8,7 +8,7 @@ All the teams who participated in BIOMOD 2017
 
 Team|Institution
 :-|:-
-Biodesigners|Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Querétaro
+Biodesigners|ITESM, Campus Querétaro
 BONMED|Hong Kong Baptist University
 Capsid Constructors|UNSW Sydney
 CGUnion|Chang Gung University

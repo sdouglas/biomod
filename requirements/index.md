@@ -35,12 +35,11 @@ This is a rough suggestion for how a BIOMOD team might organize their project. P
 
 Below is the set of deliverables that each team should produce in time the posted judging deadlines.
 
-### All teams must complete
+**All teams must complete the following**
 
-- 10 minute talk to be presented by student(s) at the Jamboree
-- ~3 minute YouTube video summarizing the project
-- Website documenting the project goals, data, and results
-
+- Project Website documenting the project goals, data, and results
+- YouTube video summarizing the project (3 minutes max)
+- Talk to be presented by student(s) at the Jamboree (10 minutes)
 
 ## Intellectual Property
 

@@ -7,9 +7,10 @@ paginate: 5
 paginate_path: "blog/page:num/index.html"
 excerpt_separator: <!--more-->
 
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-sitemap
 
 # registration date or jamboree date is called UPCOMING_DATE (below)
 # jekyll date format: YYYY-MM-DD HH:MM:SS +/-TTTT
@@ -26,11 +27,11 @@ jamboree_registration_start: "May 1 2018 00:00:00"
 visa_letter_requests: "Jul 1 2018 00:00:00"
 jamboree_registration_deadline: "Sep 26 2018 23:59:00"
 project_abstract_deadline: "Oct 1 2018 23:59:00"
-wiki_video_deadline: "Oct 27 2018 11:59:00"
-hotel_checkin_time: "Nov 2 2018 15:00:00"
-jamboree_start_time: "Nov 3 2018 08:00:00"
-hotel_checkout_time: "Nov 4 2018 11:00:00"
-jamboree_end_time: "Nov 4 2018 17:00:00"
+wiki_video_deadline: "Oct 20 2018 11:59:00"
+hotel_checkin_time: "Oct 26 2018 15:00:00"
+jamboree_start_time: "Oct 27 2018 08:00:00"
+hotel_checkout_time: "Oct 28 2018 11:00:00"
+jamboree_end_time: "Oct 28 2018 17:00:00"
 
 team_registration_fee: 265
 individual_registration_fee: 195

@@ -2,7 +2,7 @@
 layout: post
 title: "Team Registration Opens Feb 14"
 date: Fri, 29 Dec 2017 09:20:00 +0000
-published: false
+published: true
 ---
 
 Hello BIOMODders! It's time to kick off the 7th year of our nano-sized design competition.

@@ -24,7 +24,8 @@ Once your registration is approved, you will receive a confirmation email and fu
 - **{{ site.team_registration_deadline | date: '%B %-d' }}:** Registration closes.
 - **{{ site.judging_criteria_posted | date: '%B %-d' }}:** Project judging criteria posted.
 - **{{ site.visa_letter_requests | date: '%B %-d' }}:** Visa invitation letter requests due for international teams.
-- **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Jamboree registration - deadline. Project title and abstract due.
+- **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Jamboree registration deadline. 
+- **{{ site.abstract_deadline | date: '%B %-d' }}:** Project title and abstract due.
 - **{{ site.wiki_video_deadline | date: '%B %-d' }}:** Team website freeze and video upload deadline. 11:59PM GMT-7 (Pacific time)
 - **{{ site.jamboree_start_time | date: '%B %-d' }} - {{ site.hotel_checkout_time | date: '%B %-d' }}:** Jamboree (everyone meets in person to present).
 

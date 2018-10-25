@@ -17,11 +17,11 @@ Teams will be judged according to [criteria posted here](/judging).
 
 The official hotel of BIOMOD 2018 is the Marriott Marquis located at 780 Mission Street (at 4th Street) in downtown San Francisco.  We were able to secure a group rate of $189 US per night.  Reservations can be made here [Marriott Marquis Room Reservations](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=BIOMOD%202018%20Room%20Block%5ESFODT%60BIOBIOA%60189.00%60USD%60false%604%6010/26/18%6010/31/18%6010/5/18&app=resvlink&stop_mobi=yes).
 
-Unfortunately, due to a city-wide event the week prior to the Jamboree, the Marriott Marquis is not able to accommodate early arrivals.  Rooms will not be available before October 26. There are, however, a limited number of rooms available for late check-out.  If you would like to stay beyond October 28, it is advised to make your bookings immediately.  
+Unfortunately, due to a city-wide event the week prior to the Jamboree, the Marriott Marquis is not able to accommodate early arrivals.  Rooms will not be available before October 26. There are, however, a limited number of rooms available for late check-out.  If you would like to stay beyond October 28, it is advised to make your bookings immediately.
 
-Our room block closes on October 5.  All room reservations must be made by this date in order to secure the group rate of $189 US.  
+Our room block closes on October 5.  All room reservations must be made by this date in order to secure the group rate of $189 US.
 
-In the past, BIOMOD has been able to provide lodging sponsorship for students staying at our group contracted hotel in the form of a team room credit. Although the nightly rate at the Marriott is significantly less expensive than in past years, we are once again trying to secure a grant to be able to continue to provide some amount of financial support to our Jamboree students.  Information about possible room sponsorship for BIOMOD 2018 will be posted here as it becomes available.    
+In the past, BIOMOD has been able to provide lodging sponsorship for students staying at our group contracted hotel in the form of a team room credit. Although the nightly rate at the Marriott is significantly less expensive than in past years, we are once again trying to secure a grant to be able to continue to provide some amount of financial support to our Jamboree students.  Information about possible room sponsorship for BIOMOD 2018 will be posted here as it becomes available.
 
 ## Important Dates
 
@@ -37,7 +37,10 @@ In the past, BIOMOD has been able to provide lodging sponsorship for students st
 
 ## Schedule
 
-The final schedule and QuickGuide for BIOMOD 2018 will be available by October 22, 2018.  For reference, here is the [2017 QuickGuide](./BIOMOD2017-QuickGuide-v4.pdf).
+Download the [BIOMOD 2018 QuickGuide](./BIOMOD2018-QuickGuide.pdf) (PDF).
+
+
+You can also download a single-page: [BIOMOD 2018 Schedule](./BIOMOD2018-Schedule.pdf)
 
 <div class="main">
 <div class="row">

@@ -31,9 +31,7 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 ## Best YouTube video
 
 1. [Team Sendai](https://www.youtube.com/watch?v=iZwVc78QNYw)
-2 (tie). [HUST-CHINA](https://www.youtube.com/watch?v=qm15e49A770)
-2 (tie). [Find'n'Bind](https://www.youtube.com/watch?v=QILPihzp9Eg)
-2 (tie). [Osteotarget](https://www.youtube.com/watch?v=hI3DdnHBrDQ)
+2. [HUST-CHINA](https://www.youtube.com/watch?v=qm15e49A770), [Find'n'Bind](https://www.youtube.com/watch?v=QILPihzp9Eg), and [Osteotarget](https://www.youtube.com/watch?v=hI3DdnHBrDQ) (tie)
 3. [DNAliens](https://www.youtube.com/watch?v=GualpYe7lis)
 
 ## Best Presentation

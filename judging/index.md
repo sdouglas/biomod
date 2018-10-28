@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Visa Information"
+title:  "Judging"
 date:   2013-08-28 16:27:08
 ---
 

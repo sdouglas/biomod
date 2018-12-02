@@ -6,19 +6,28 @@ date:   2013-08-28 16:27:08
 
 Our academic and industry sponsors are a crucial ingredient for the success of BIOMOD.
 
-&nbsp;
-
 Here are some of our past sponsors:
 
-<a target="_new" href="http://wyss.harvard.edu/"><img style="padding-left:2.5em;" src="/assets/images/wysslogo-panel.png"></a><br>
+<div style="display:flex; align-items: center; flex-wrap:wrap; justify-content: space-evenly; align-content: space-around; max-width:700px;">
 
-<a target="_new" href="http://www.autodesk.com/education/"><img style="padding-left:7em;" src="/assets/sponsors/autodesk/autodesk.png"></a><br>
+<a target="_new" href="http://wyss.harvard.edu/"><img src="/assets/sponsors/wyss/wyss.png"></a>
 
-<a target="_new" href="http://www.isnsce.org/"><img style="padding-left:7em;" src="/assets/sponsors/isnsce/isnsce.png"></a><br>
+<a target="_new" href="http://www.autodesk.com/education/"><img src="/assets/sponsors/autodesk/autodesk.png"></a>
 
-<a target="_new" href="http://shop.tilibit.com/"><img style="padding-left:6em;" src="/assets/sponsors/tilibit/tilibit.png"></a><br>
+<a target="_new" href="http://molecular-programming.org/"><img src="/assets/sponsors/nsf/nsf.png"></a>
 
-<a target="_new" href="http://www.bioneer.com/"><img style="padding-left:6em;" src="/assets/sponsors/bioneer/bioneer.png"></a><br>
+<a target="_new" href="https://www.huawei.com/us/"><img src="/assets/sponsors/huawei/huawei.png"></a>
+
+<a target="_new" href="https://www.arl.army.mil/"><img src="/assets/sponsors/aro/aro.png"></a>
+
+<a target="_new" href="http://www.isnsce.org/"><img src="/assets/sponsors/isnsce/isnsce.png"></a>
+
+<a target="_new" href="http://www.bioneer.com/"><img src="/assets/sponsors/bioneer/bioneer.png"></a>
+
+<a target="_new" href="http://shop.tilibit.com/"><img src="/assets/sponsors/tilibit/tilibit.png"></a>
+
+
+</div>
 
 We are happy to partner with [Industry Sponsors](http://biomod.net/sponsors/) for sponsored activities and programs. We can offer tickets to attend the Jamboree, or the opportunity to present a 30-minute or 1-hour workshop to all students during the event. Please [contact us](/contact) to request a sponsorship packet.
 

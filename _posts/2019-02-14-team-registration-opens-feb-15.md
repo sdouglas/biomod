@@ -10,7 +10,7 @@ Hello BIOMODders! It's time to kick off the 9th (!) year of our nano-sized desig
 
 **Registration & Fees**
 
-Watch the timer on the BIOMOD front page...this registration link will go live at the end of the countdown. We had to push back our registration by one day this year to finish making a few updates to our registration portal system.
+Update: The registration form can be found at [this url](https://biomod.wufoo.com/forms/2019-team-registration-form/). We will update remaining team slots as registrations come in, usually it takes about 2 to 3 weeks for us to sell out, so register early!
 
 A fee of $275 USD is due at the time of team registration, payable by credit card or wire transfer. This year's individual Jamboree registration fee will be $200 USD per person, due in late September along with your project title and abstract. Registrations are only considered complete when payment is received and a confirmation email is sent.
 

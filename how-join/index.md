@@ -15,7 +15,7 @@ Before you register, please read the criteria listed on the [Requirements](/requ
 
 ## Submit your registration information
 
-Fill out the [online registration form](https://biomod.wufoo.com/forms/2017-registration-form/).
+Fill out the [online registration form](https://biomod.wufoo.com/forms/2019-team-registration-form/).
 
 Once your registration is approved, you will receive a confirmation email and further instructions. Please [contact us](/contact) with any questions.
 
@@ -24,7 +24,7 @@ Once your registration is approved, you will receive a confirmation email and fu
 - **{{ site.team_registration_deadline | date: '%B %-d' }}:** Registration closes.
 - **{{ site.judging_criteria_posted | date: '%B %-d' }}:** Project judging criteria posted.
 - **{{ site.visa_letter_requests | date: '%B %-d' }}:** Visa invitation letter requests due for international teams.
-- **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Jamboree registration deadline. 
+- **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Jamboree registration deadline.
 - **{{ site.project_abstract_deadline | date: '%B %-d' }}:** Project title and abstract due.
 - **{{ site.wiki_video_deadline | date: '%B %-d' }}:** Team website freeze and video upload deadline. 11:59PM GMT-7 (Pacific time)
 - **{{ site.jamboree_start_time | date: '%B %-d' }} - {{ site.hotel_checkout_time | date: '%B %-d' }}:** Jamboree (everyone meets in person to present).

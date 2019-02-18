@@ -5,7 +5,7 @@ date:   2013-08-28 16:27:08
 ---
 
 
-BIOMOD registration for 2018 will open in February 2018.
+BIOMOD registration for 2019 is now open.
 
 ## Organize your team
 

@@ -60,6 +60,3 @@ You can also download a single-page: [BIOMOD 2018 Schedule](./BIOMOD2018-Schedul
 		<li><img src="/assets/images/photos/8165655658_10c6eafbc2.jpg" /></li>
 	</ul>
 </div>
-
-</div>
-</div>

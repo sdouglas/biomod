@@ -10,7 +10,7 @@ This page outlines the requirements for team structure and project deliverables.
 ## Registration fees
 
 - **Team:** Team registration is ${{ site.team_registration_fee }}. This is due before April 30th in order to reserve a team presentation slot at the Jamboree. Wire transfers will be $25 extra to cover bank fees.
-- **Individual:** The *nonrefundable* Jamboree registration fee is ${{ site.individual_registration_fee }} *per person* (not including hotel lodging), due September 25th. Wire transfers will be $25 extra to cover bank fees.
+- **Individual:** The *nonrefundable* Jamboree registration fee is ${{ site.individual_registration_fee }} *per person* (not including hotel lodging), due September 20th. Wire transfers will be $25 extra to cover bank fees.
 - **Where does my fee go?** Registration fees cover program expenses including renting the venue, A/V, catering, photographer, t-shirts, award certificates, transportation, and website development.
 
 ## Team structure

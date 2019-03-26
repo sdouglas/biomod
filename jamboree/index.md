@@ -15,13 +15,12 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Hotel
 
-The official hotel of BIOMOD 2019 is the Marriott Marquis located at 780 Mission Street (at 4th Street) in downtown San Francisco.  We were able to secure a group rate of $199 US per night for up to quad occupancy.  A reservation link will be provided once individual registration opens.
+The official hotel of BIOMOD 2019 is the Marriott Marquis located at 780 Mission Street (at 4th Street) in downtown San Francisco.  We were able to secure a group rate of $199 US per night for up to quad occupancy.  Reservations can be made here:  https://book.passkey.com/e/49883811 
 
-There are a small number of rooms available for early check-in and/or late check-out.  If you think you will need extra days in the hotel, it is advised that you make your reservations as early as possible.
+There are a small number of rooms available for early check-in and/or late check-out.  If you think you will need extra days in the hotel, it is advised that you make your reservations immediately.
 
-Our room block closes on October 5.  All room reservations must be made by this date in order to secure the group rate of $199 US.
+Our room block closes on October 1.  All room reservations must be made by this date in order to secure the group rate of $199 US.
 
-In the past, BIOMOD has been able to provide lodging sponsorship for students staying at our group contracted hotel in the form of a team room credit. Although the nightly rate at the Marriott is significantly less expensive than in past years, we are once again trying to secure a grant to be able to continue to provide some amount of financial support to our Jamboree students.  Information about possible room sponsorship for BIOMOD 2019 will be posted here as it becomes available.
 
 ## Important Dates
 

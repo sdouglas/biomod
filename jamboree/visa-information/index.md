@@ -12,6 +12,6 @@ Effective January 10, 2010, international visitors to the U.S. from Visa Waiver 
 
 ### Visitor Visas
 
-Students residing in countries that are not part of the Visa Waiver Program should apply for a B-1 Business Visitor Visa (not B-2) in order to be allowed to present at the Jamboree. Visit the [U.S. Department of State website](http://travel.state.gov/content/visas/en/visit/visa-waiver-program.html) for more information about how to apply.
+Students residing in countries that are not part of the Visa Waiver Program should apply for a B-1 Business Visitor Visa (not B-2) in order to be allowed to present at the Jamboree. Visit the [U.S. Department of State website](https://travel.state.gov/content/travel/en/us-visas.html) for more information about how to apply.
 
-Some consulates may have backlogs in scheduling visa interviews. [Click here](http://travel.state.gov/content/visas/en/general/wait-times.html/) to find the current visitor visa appointment wait times for your city.
+Some consulates may have backlogs in scheduling visa interviews. [Click here](https://travel.state.gov/content/travel/en/us-visas.html) to find the current visitor visa appointment wait times for your city.

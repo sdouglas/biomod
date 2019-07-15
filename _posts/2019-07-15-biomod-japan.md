@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BIOMOD Japan 2018"
+title: "BIOMOD Japan 2019"
 date: Mon, 15 Jul 2019 08:21:00 +0000
 published: true
 ---

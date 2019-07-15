@@ -67,6 +67,7 @@ Note that there is an upper limit and conditions.
 
 
 **Organization**
-Program organizer: Ibuki Kawamata kawamata[at]molbot.mech.tohoku.ac.jp
-Local organizer: Shu Okumura, Anthony Genot
-Website: http://www.molecular-robotics.org/2019/07/biomod-japan-2019/
+
+- Program organizer: Ibuki Kawamata kawamata[at]molbot.mech.tohoku.ac.jp
+- Local organizer: Shu Okumura, Anthony Genot
+- Website: http://www.molecular-robotics.org/2019/07/biomod-japan-2019/

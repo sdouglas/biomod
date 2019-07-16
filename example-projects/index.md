@@ -5,7 +5,7 @@ date:   2013-08-28 16:27:08
 ---
 
 
-Winning projects from previous years: [2011](/winners/2011.html)  [2012](/winners/2012.html) [2013](/winners/2013.html) [2014](/winners/2014.html) [2015](/winners/2015.html) [2016](/winners/2016.html)
+Winning projects from previous years: [2011](/winners/2011.html)  [2012](/winners/2012.html) [2013](/winners/2013.html) [2014](/winners/2014.html) [2015](/winners/2015.html) [2016](/winners/2016.html) [2017](/winners/2017.html) [2018](/winners/2018.html)
 
 
 Past project wikis and websites can be found [here](http://openwetware.org/wiki/Biomod).

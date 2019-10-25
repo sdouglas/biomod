@@ -15,7 +15,7 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Hotel
 
-The official hotel of BIOMOD 2019 is the Marriott Marquis located at 780 Mission Street (at 4th Street) in downtown San Francisco.  We were able to secure a group rate of $199 US per night for up to quad occupancy.  Reservations can be made here:  https://book.passkey.com/e/49883811 
+The official hotel of BIOMOD 2019 is the Marriott Marquis located at 780 Mission Street (at 4th Street) in downtown San Francisco.  We were able to secure a group rate of $199 US per night for up to quad occupancy.  Reservations can be made here:  https://book.passkey.com/e/49883811
 
 There are a small number of rooms available for early check-in and/or late check-out.  If you think you will need extra days in the hotel, it is advised that you make your reservations immediately.
 
@@ -36,10 +36,10 @@ Our room block closes on October 1.  All room reservations must be made by this 
 
 ## Schedule
 
-Download the [BIOMOD 2018 QuickGuide](./BIOMOD2018-QuickGuide.pdf) (PDF).
+Download the [BIOMOD 2019 QuickGuide](./BIOMOD2019-QuickGuide.pdf) (PDF).
 
 
-You can also download a single-page: [BIOMOD 2018 Schedule](./BIOMOD2018-Schedule.pdf)
+You can also download a single-page: [BIOMOD 2019 Schedule](./BIOMOD2019-Schedule.pdf)
 
 <div class="main">
 <div class="row">

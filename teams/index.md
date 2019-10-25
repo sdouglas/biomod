@@ -4,29 +4,25 @@ title:  "Teams"
 date:   2017-12-29 09:15:00
 ---
 
-All the teams who participated in BIOMOD 2017
+All the teams who participated in BIOMOD 2019
 
 Team|Institution
 :-|:-
-Biodesigners|ITESM, Campus Querétaro
-BONMED|Hong Kong Baptist University
-Capsid Constructors|UNSW Sydney
-CGUnion|Chang Gung University
-Crystalline Entity|Colorado State University
-HUST-China|Huazhong University of Science and Technology
-Kansai|Kansai University
-Molecular Jedis|Universidad Autonoma de Nuevo Leon
-MultiBrane|Technische Universität Berlin
-Nano-JLU|Jilin University
-NCKU-Taiwan|National Cheng Kung University
-NTU-Taiwan|National Taiwan University
-OhioMOD|The Ohio State University
-Oxford BIOMOD 2017|University of Oxford
-Season|Ocean University of China
-Sendai|Tohoku University
-team HANDAI|Osaka University
-Toehold Conga Nanny|St John's University
-UBerCooleculars|University of British Columbia
-UC San DNAgo|University of California, San Diego
-UsydUfold|University of Sydney
-YOKABIO|Kyushu Institute of Technology
+McMaster University|LegoTMZyme
+Ocean University of China|Team Season
+Tohoku University|Team Sendai
+Colorado State University|BeaconX
+Chang Gung University|CGUMED
+St. John's University|Toehold Conga Nanny
+University of Sydney|FilterPhytes
+National Taiwan University|NTU_Taiwan
+The Ohio State University|OhioMOD
+Kansai University|Team Kansai
+Tecnológico de Monterrey|DNAztech
+TU-Berlin|smart B.O.B.
+University of British Columbia, Vancouver|Biomeddling Kids
+Jilin University|Nano-Jlu
+Imperial College London|nanoDIPs
+National Cheng Kung University|NCKU-ONA
+Kyushu Institute of Technology|YOKABIO
+University of Tokyo|Team Tokyo

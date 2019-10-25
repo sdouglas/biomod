@@ -8,7 +8,7 @@ All the teams who participated in BIOMOD 2019
 
 Team|Institution
 :-|:-
-McMaster University|LegoTMZyme
+McMaster University|Lego&trade;Zyme
 Ocean University of China|Team Season
 Tohoku University|Team Sendai
 Colorado State University|BeaconX

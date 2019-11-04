@@ -18,6 +18,7 @@ date:   2013-08-28 16:27:08
 * [Paul Rothemund](http://www.dna.caltech.edu/~pwkr/) (Secretary)
 * [Kevan Shokat](http://shokatlab.ucsf.edu/) (Treasurer)
 * [Satoshi Murata](http://www.molbot.mech.tohoku.ac.jp/eng/member_murata.html)
+* [Shelley Wickham](https://sydney.edu.au/science/about/our-people/academic-staff/shelley-wickham.html)
 
 ## Legal & Accounting
 

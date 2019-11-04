@@ -10,25 +10,12 @@ body_class: contact
 You've come to the right place.</p>
 
 
-<div id="wufoo-m3h8dz0d7dn01">
-Fill out our <a href="https://biomod.wufoo.com/forms/m3h8dz0d7dn01">online form</a>.
-</div>
-<script type="text/javascript">var m3h8dz0d7dn01;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'biomod',
-'formHash':'m3h8dz0d7dn01',
-'autoResize':true,
-'height':'517',
-'async':true,
-'host':'wufoo.com',
-'header':'show',
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'secure.wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { m3h8dz0d7dn01 = new WufooForm();m3h8dz0d7dn01.initialize(options);m3h8dz0d7dn01.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
+
+<!-- JavaScript -->
+<script src="assets/js/wufoo.js"></script>
+
+<form id="form20" name="form20" class="wufoo topLabel page" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate
+      action="https://biomod.wufoo.com/forms/m3h8dz0d7dn01/#public">
 
 <div class="row">
 	<div class="two-thirds">

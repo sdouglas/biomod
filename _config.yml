@@ -17,21 +17,21 @@ plugins:
 
 # wiki_video deadline
 # upcoming_date: "Oct 27 2017 23:59:00 -1000"
-upcoming_date: "Oct 26 2019 08:00:00"
+upcoming_date: "Mar 1 2020 14:00:00"
 
 # important dates
-team_registration_opens: "Feb 15 2019 14:00:00"
-team_registration_deadline: "Apr 30 2019 23:59:00"
-judging_criteria_posted: "May 1 2019 23:59:00"
-jamboree_registration_start: "May 1 2019 00:00:00"
-visa_letter_requests: "Jul 1 2019 00:00:00"
-jamboree_registration_deadline: "Sep 20 2019 23:59:00"
-project_abstract_deadline: "Sep 30 2019 23:59:00"
-wiki_video_deadline: "Oct 19 2019 11:59:00"
-hotel_checkin_time: "Oct 25 2019 15:00:00"
-jamboree_start_time: "Oct 26 2019 08:00:00"
-hotel_checkout_time: "Oct 27 2019 11:00:00"
-jamboree_end_time: "Oct 27 2019 17:00:00"
+team_registration_opens: "Mar 1 2020 14:00:00"
+team_registration_deadline: "Jul 30 2020 23:59:00"
+judging_criteria_posted: "May 1 2020 23:59:00"
+jamboree_registration_start: "May 1 2020 00:00:00"
+visa_letter_requests: "Jul 1 2020 00:00:00"
+jamboree_registration_deadline: "Feb 1 2020 23:59:00"
+project_abstract_deadline: "Feb 1 2020 23:59:00"
+wiki_video_deadline: "Mar 5 2020 11:59:00"
+hotel_checkin_time: "Mar 12 2020 15:00:00"
+jamboree_start_time: "Mar 13 2020 08:00:00"
+hotel_checkout_time: "Mar 14 2020 11:00:00"
+jamboree_end_time: "Mar 14 2020 17:00:00"
 
-team_registration_fee: 275
-individual_registration_fee: 200
+team_registration_fee: 300
+individual_registration_fee: 225

@@ -15,20 +15,15 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Hotel
 
-The official hotel of BIOMOD 2019 is the Marriott Marquis located at 780 Mission Street (at 4th Street) in downtown San Francisco.  We were able to secure a group rate of $199 US per night for up to quad occupancy.  Reservations can be made here:  https://book.passkey.com/e/49883811
-
-There are a small number of rooms available for early check-in and/or late check-out.  If you think you will need extra days in the hotel, it is advised that you make your reservations immediately.
-
-Our room block closes on October 1.  All room reservations must be made by this date in order to secure the group rate of $199 US.
-
+More information will be posted here when we secure a hotel block.
 
 ## Important Dates
 
-- **{{ site.jamboree_registration_start | date: '%B %-d' }}:** Jamboree Registration Opens
-- **{{ site.visa_letter_requests | date: '%B %-d' }}:** Teams outside the United States should [apply for visas](visa-information) by **{{ site.visa_letter_requests | date: '%B %-d, %Y' }}.**
+- **{{ site.jamboree_registration_start | date: '%B %-d %Y' }}:** Jamboree Registration Opens
+- **{{ site.visa_letter_requests | date: '%B %-d %Y' }}:** Teams outside the United States should [apply for visas](visa-information) by **{{ site.visa_letter_requests | date: '%B %-d, %Y' }}.**
 - **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Registration deadline to attend the Jamboree
 - **{{ site.project_abstract_deadline | date: '%B %-d' }}:** Each team must submit a project title and abstract (150 words max)
-- **{{ site.wiki_video_deadline | date: '%B %-d' }}:** Team wiki freeze and video upload deadline. 11:59PM GMT-7 (Pacific time)
+- **{{ site.wiki_video_deadline | date: '%B %-d  %Y' }}:** Team wiki freeze and video upload deadline. 11:59PM GMT-7 (Pacific time)
 - **{{ site.hotel_checkin_time | date: '%B %-d' }}:** Check into hotel (after 15:00)
 - **{{ site.jamboree_start_time | date: '%B %-d' }}:** Jamboree Begins (8:00)
 - **{{ site.hotel_checkout_time | date: '%B %-d' }}:** Check out of hotel (before 11:00)

@@ -15,12 +15,7 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Hotel
 
-<<<<<<< Updated upstream
-More information will be posted here when we secure a hotel block.
-=======
-Please check back for hotel information.
-
->>>>>>> Stashed changes
+Please check back later for hotel information.
 
 ## Important Dates
 

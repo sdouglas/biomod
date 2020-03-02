@@ -88,7 +88,7 @@ Individual registration fees are not refundable, however may be transferred to a
 Yes, please email Rebecca Wheeler (rebecca@biomod.net) to change primary contact information.
 
 **Is the Jamboree open to the public?**
-No, given the size limits of the auditorium, the Jamboree is not open to the public. We do have a limited number of day passes available for pre-registered guests at a cost of $125 per day. Please contact Rebecca Wheeler for more information on guest registration.
+No, given the size limits of the auditorium, the Jamboree is not open to the public. We do have a limited number of day passes available for pre-registered guests at a cost of $125 per day. Please contact Rebecca Wheeler for more information on guest registration. We do accept tax-deductible sponsorships which may include Jamboree registrations, depending on the level of support.
 
 **What are the specifications of the presentation room?**
 Projects are presented in the Byers Auditorium at UCSF. The auditorium is 2,317 sq. ft, with a capacity for 261 people. The room is equipped with a Proxima 9550 double projector and the projection screen measures 40 feet wide. There is a wooden podium with a fixed microphone, 2 wireless hand-held microphones and one clip-on lavalier microphone. Food and drinks are not allowed in the auditorium at any time.

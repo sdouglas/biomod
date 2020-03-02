@@ -24,10 +24,10 @@ This page outlines the requirements for team structure and project deliverables.
 
 This is a rough suggestion for how a BIOMOD team might organize their project. Please also note the important deadlines on [this page](/how-join).
 
-• **January–March**: Team organizers should recruit team members: post fliers and email announcements, interview interested students, and send notifications early while everyone is still finalizing their school-year plans.
-• **March–June**: Register your team. Students should begin independent background reading to start learning about topics that may interest them. Organize brainstorming meetings to determine project topic.
-• **July–December**: Do the project! Also, start planning the YouTube video as early as possible. Book travel arrangements and apply for Visas if necessary.  Register for Jamboree.
-• **January–February**: Complete project website, video, and presentation. Prepare to travel!
+- **January–March**: Team organizers should recruit team members: post fliers and email announcements, interview interested students, and send notifications early while everyone is still finalizing their school-year plans.
+- **March–June**: Register your team. Students should begin independent background reading to start learning about topics that may interest them. Organize brainstorming meetings to determine project topic.
+- **July–December**: Do the project! Also, start planning the YouTube video as early as possible. Book travel arrangements and apply for Visas if necessary.  Register for Jamboree.
+- **January–February**: Complete project website, video, and presentation. Prepare to travel!
 
 
 ## Project Deliverables

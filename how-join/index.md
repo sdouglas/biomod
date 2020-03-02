@@ -5,17 +5,17 @@ date:   2013-08-28 16:27:08
 ---
 
 
-BIOMOD registration for 2019 is now open.
+BIOMOD registration for the 2021 Jamboree is now open.  
 
 ## Organize your team
 
-Team Registration is USD ${{ site.team_registration_fee }} (*nonrefundable*). Note that there will be a SEPARATE individual registration fee charged to each person to attend the Jamboree. Individual registration is USD ${{ site.individual_registration_fee }} per person (*nonrefundable*), plus lodging costs.
+Team Registration is USD ${{ site.team_registration_fee }} (*nonrefundable*). Note that there will be a SEPARATE individual registration fee charged to each person to attend the Jamboree. Individual registration is USD ${{ site.individual_registration_fee }} per person (*nonrefundable*), plus travel and lodging costs.
 
 Before you register, please read the criteria listed on the [Requirements](/requirements) page. All teams are responsible for their own fund raising and travel expenses, so start early.
 
 ## Submit your registration information
 
-Fill out the [online registration form](https://biomod.wufoo.com/forms/2019-team-registration-form/).
+Fill out the [online registration form](https://biomod.wufoo.com/forms/2021-team-registration-form/).
 
 Once your registration is approved, you will receive a confirmation email and further instructions. Please [contact us](/contact) with any questions.
 

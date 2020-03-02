@@ -17,6 +17,7 @@ plugins:
 
 # wiki_video deadline
 # upcoming_date: "Oct 27 2017 23:59:00 -1000"
+<<<<<<< Updated upstream
 upcoming_date: "Jun 30 2020 23:59:00"
 
 # important dates
@@ -32,6 +33,23 @@ hotel_checkin_time: "Mar 12 2021 15:00:00"
 jamboree_start_time: "Mar 13 2021 08:00:00"
 hotel_checkout_time: "Mar 14 2021 11:00:00"
 jamboree_end_time: "Mar 14 2021 17:00:00"
+=======
+upcoming_date: "July 2020 14:00:00"
+
+# important dates
+team_registration_opens: "July 2020 14:00:00"
+team_registration_deadline: "September 2020 23:59:00"
+judging_criteria_posted: "October 2020 23:59:00"
+jamboree_registration_start: "January 2021 00:00:00"
+visa_letter_requests: "January 2021 00:00:00"
+jamboree_registration_deadline: "February 2021 23:59:00"
+project_abstract_deadline: "February 2021 23:59:00"
+wiki_video_deadline: "March 2021 11:59:00"
+hotel_checkin_time: "March 2021 15:00:00"
+jamboree_start_time: "Mar 2021 08:00:00"
+hotel_checkout_time: "March 2021 11:00:00"
+jamboree_end_time: "March 2021 17:00:00"
+>>>>>>> Stashed changes
 
 team_registration_fee: 300
 individual_registration_fee: 225

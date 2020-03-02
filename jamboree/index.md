@@ -7,7 +7,7 @@ date:   2013-08-28 16:27:08
 
 ## What is it?
 
-The BIOMOD Jamboree is an annual conference at which all BIOMOD teams will convene to present their work from the summer. This year's Jamboree is scheduled to take place in Genentech Hall at UCSF in San Francisco, CA starting on {{ site.jamboree_start_time | date: '%B %-d, %Y' }}.
+The BIOMOD Jamboree is an annual conference at which all BIOMOD teams will convene to present their team projects. The 2021 Jamboree is scheduled to take place in Genentech Hall at UCSF in San Francisco, CA in {{ site.jamboree_start_time | date: '%B %-d, %Y' }}.
 
 ## Judging and Awards
 
@@ -15,7 +15,12 @@ Teams will be judged according to [criteria posted here](/judging).
 
 ## Hotel
 
+<<<<<<< Updated upstream
 More information will be posted here when we secure a hotel block.
+=======
+Please check back for hotel information.
+
+>>>>>>> Stashed changes
 
 ## Important Dates
 

@@ -49,21 +49,13 @@ The BIOMOD mission is to promote science and science education. This pursuit req
 
 ## Frequently asked questions
 **How many people can we have on our team?**
-
 Team size is limited to 8 undergraduate students, 2 graduate student/post-doctoral student mentors, and 2 faculty mentors.
 
 **How many team members can travel to the Jamboree?**
-
 Participation in the Jamboree is limited to 8 undergraduate students, 2 graduate student/post-doctoral scholar mentors, and up to 2 faculty mentors.
 
 **Why do you have team size limits?**
-One reason is due to the size of the Jamboree venue; we want to be able to fit everyone in the room and abide the safety rules and capacity limits imposed by the City of San Francisco.
-
-The second concern is maximizing fairness for all participants in BIOMOD.
-
-If a team with more than 8 students earns a top score, then other teams who followed the rules may feel that the top team had an unfair advantage. In addition, any members of a larger team who are forced to stay home while the rest of the team travels may feel frustrated. It is typically easier to avoid those issues at the time of team formation rather than letting too many people join and invest a lot of effort before they are denied the chance to attend. An interview process can help narrow down the final team roster.
-
-Of course, it is possible for larger teams to form and then only send 8 students to the Jamboree, which is impossible for the BIOMOD organizers to enforce. However, any teams that do not follow the size limit rules risk being disqualified for consideration for awards, and perhaps future participation in BIOMOD if we experience repeated problems.
+One reason is due to the size of the Jamboree venue; we want to be able to fit everyone in the room and abide the safety rules and capacity limits imposed by the City of San Francisco. The second concern is maximizing fairness for all participants in BIOMOD. If a team with more than 8 students earns a top score, then other teams who followed the rules may feel that the top team had an unfair advantage. In addition, any members of a larger team who are forced to stay home while the rest of the team travels may feel frustrated. It is typically easier to avoid those issues at the time of team formation rather than letting too many people join and invest a lot of effort before they are denied the chance to attend. An interview process can help narrow down the final team roster. Of course, it is possible for larger teams to form and then only send 8 students to the Jamboree, which is impossible for the BIOMOD organizers to enforce. However, any teams that do not follow the size limit rules risk being disqualified for consideration for awards, and perhaps future participation in BIOMOD if we experience repeated problems.
 
 **What happens if we exceed the team size limit?**
 Team that do not follow the size limit rules risk being disqualified for consideration for awards, and perhaps future participation in BIOMOD events.

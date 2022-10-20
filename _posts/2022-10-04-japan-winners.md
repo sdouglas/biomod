@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BIOMOD Japan"
+title: "Japan 2022 Winners"
 date: Tuesday, 4 Oct 2022 10:30:00 +0000
 ---
 

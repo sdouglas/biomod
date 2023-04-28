@@ -27,7 +27,7 @@ Once your registration is approved, you will receive a confirmation email and fu
 - **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Jamboree registration deadline.
 - **{{ site.project_abstract_deadline | date: '%B %-d' }}:** Project title and abstract due.
 - **{{ site.wiki_video_deadline | date: '%B %-d' }}:** Team website freeze and video upload deadline. 11:59PM GMT+9 (Japan Standard Time)
-- **{{ site.jamboree_start_time | date: '%B %-d' }} - {{ site.hotel_checkout_time | date: '%B %-d' }}:** Jamboree (everyone meets in person to present).
+- **{{ site.jamboree_start_time | date: '%B %-d' }} - {{ site.jamboree_end_time | date: '%B %-d' }}:** Jamboree (everyone meets in person to present).
 
 
 # Advice From A Past Participant

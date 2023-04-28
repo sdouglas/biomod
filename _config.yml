@@ -33,5 +33,5 @@ jamboree_start_time: "Nov 4 2023 09:00:00 +09:00"
 #hotel_checkout_time: "Mar 14 2021 11:00:00"
 jamboree_end_time: "Nov 5 2023 14:00:00 +09:00"
 
-team_registration_fee: 300 #JPY
+team_registration_fee: 30000 #JPY
 individual_registration_fee: "TBD"

@@ -5,17 +5,17 @@ date:   2013-08-28 16:27:08
 ---
 
 
-BIOMOD registration for the 2021 Jamboree is now open.  
+Team registration for BIOMOD 2023 is [now open](https://peatix.com/event/3562202/view?k=fae1f3a05f7e51417bdd49dcaac609392f05b210).  
 
 ## Organize your team
 
-Team Registration is USD ${{ site.team_registration_fee }} (*nonrefundable*). Note that there will be a SEPARATE individual registration fee charged to each person to attend the Jamboree. Individual registration is USD ${{ site.individual_registration_fee }} per person (*nonrefundable*), plus travel and lodging costs.
+Team Registration is JPY ${{ site.team_registration_fee }} (*nonrefundable*). Note that there will be a SEPARATE individual registration fee charged to each person to attend the Jamboree. Individual registration is JPY ${{ site.individual_registration_fee }} per person (*nonrefundable*), plus travel and lodging costs.
 
 Before you register, please read the criteria listed on the [Requirements](/requirements) page. All teams are responsible for their own fund raising and travel expenses, so start early.
 
 ## Submit your registration information
 
-Fill out the [online registration form](https://biomod.wufoo.com/forms/2021-team-registration-form/).
+Fill out the [online registration form](https://peatix.com/event/3562202/view?k=fae1f3a05f7e51417bdd49dcaac609392f05b210).
 
 Once your registration is approved, you will receive a confirmation email and further instructions. Please [contact us](/contact) with any questions.
 

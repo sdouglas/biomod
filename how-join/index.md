@@ -22,11 +22,11 @@ Once your registration is approved, you will receive a confirmation email and fu
 ## Note important future dates
 
 - **{{ site.team_registration_deadline | date: '%B %-d' }}:** Registration closes.
-- **{{ site.judging_criteria_posted | date: '%B %-d' }}:** Project judging criteria posted.
+<!-- - **{{ site.judging_criteria_posted | date: '%B %-d' }}:** Project judging criteria posted. -->
 - **{{ site.visa_letter_requests | date: '%B %-d' }}:** Visa invitation letter requests due for international teams.
 - **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Jamboree registration deadline.
 - **{{ site.project_abstract_deadline | date: '%B %-d' }}:** Project title and abstract due.
-- **{{ site.wiki_video_deadline | date: '%B %-d' }}:** Team website freeze and video upload deadline. 11:59PM GMT-7 (Pacific time)
+- **{{ site.wiki_video_deadline | date: '%B %-d' }}:** Team website freeze and video upload deadline. 11:59PM GMT+9 (Japan Standard Time)
 - **{{ site.jamboree_start_time | date: '%B %-d' }} - {{ site.hotel_checkout_time | date: '%B %-d' }}:** Jamboree (everyone meets in person to present).
 
 

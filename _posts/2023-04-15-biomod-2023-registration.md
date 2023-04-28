@@ -5,7 +5,11 @@ date: Sat, 15 Apr 2023 12:40:00 +0000
 ---
 
 
-We are excited to announce that the team registration for this year's BIOMOD starts on **April 29, 2023**. The link will be posted on this website soon.
+We are excited to announce that the team registration for this year's BIOMOD starts on **April 29, 2023**. 
+
+
+**Update 2023/04/29: [Team Registration Page (Peatix)](https://peatix.com/event/3562202/view?k=fae1f3a05f7e51417bdd49dcaac609392f05b210) is now online!**
+
 
 It has been more than three years since the last international BIOMOD. As a refresher, we plan to do an **Online briefing session** on April 29 (12:00-13:00 (JST), Zoom). Rules, schedule, jamboree venue, awards, etc., will be covered. The recording will also be available online.
 

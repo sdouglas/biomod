@@ -15,23 +15,23 @@ plugins:
 # registration date or jamboree date is called UPCOMING_DATE (below)
 # jekyll date format: YYYY-MM-DD HH:MM:SS +/-TTTT
 
-# wiki_video deadline
+# team registration deadline
 # upcoming_date: "Oct 27 2017 23:59:00 -1000"
-upcoming_date: "Jun 30 2020 23:59:00"
+upcoming_date: "May 31 2023 23:59:00 +09:00" # JST / UTC+0900
 
 # important dates
-team_registration_opens: "Mar 1 2020 14:00:00"
-team_registration_deadline: "Jun 30 2020 23:59:00"
-judging_criteria_posted: "Jun 30 2020 23:59:00"
-jamboree_registration_start: "Oct 1 2020 00:00:00"
-visa_letter_requests: "Oct 1 2020 00:00:00"
-jamboree_registration_deadline: "Nov 15 2020 23:59:00"
-project_abstract_deadline: "Feb 1 2021 23:59:00"
-wiki_video_deadline: "Mar 5 2021 11:59:00"
-hotel_checkin_time: "Mar 12 2021 15:00:00"
-jamboree_start_time: "Mar 13 2021 08:00:00"
-hotel_checkout_time: "Mar 14 2021 11:00:00"
-jamboree_end_time: "Mar 14 2021 17:00:00"
+team_registration_opens: "Apr 29 2023 12:00:00 +09:00"
+team_registration_deadline: "May 31 2023 23:59:00 +09:00"
+#judging_criteria_posted: "Jun 30 2020 23:59:00"
+jamboree_registration_start: "Aug 15 2023 00:00:00 +09:00"
+visa_letter_requests: "Sep 1 2023 00:00:00 +09:00"
+jamboree_registration_deadline: "Sep 15 2023 23:59:00 +09:00"
+project_abstract_deadline: "Sep 15 2023 23:59:00 +09:00"
+wiki_video_deadline: "Oct 28 2023 11:59:00 +09:00"
+#hotel_checkin_time: "Mar 12 2021 15:00:00"
+jamboree_start_time: "Nov 4 2023 09:00:00 +09:00"
+#hotel_checkout_time: "Mar 14 2021 11:00:00"
+jamboree_end_time: "Nov 5 2023 14:00:00 +09:00"
 
-team_registration_fee: 300
-individual_registration_fee: 220
+team_registration_fee: 30000 #JPY
+individual_registration_fee: "TBD"

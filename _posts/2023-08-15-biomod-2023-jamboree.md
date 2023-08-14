@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BIOMOD 2023 Jamboree Registration Opens Aug. 15"
-date: Tue, 15 Aug 2023 00:00:00 +0000
+date: Mon, 14 Aug 2023 19:00:00 -0900
 ---
 
 Jamboree registration and project abstract submission for BIOMOD 2023 starts Aug. 15! We reduced this year's jamboree attendance fee:

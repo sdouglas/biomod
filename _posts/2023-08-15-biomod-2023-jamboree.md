@@ -5,7 +5,7 @@ date: Mon, 14 Aug 2023 19:00:00 +0900
 ---
 
 Jamboree registration and project abstract submission for BIOMOD 2023 starts Aug. 15! We reduced this year's jamboree attendance fee:
-- Offline: 5,000 JPY (approx. 35 USD) per attendee
+- On-site: 5,000 JPY (approx. 35 USD) per attendee
 - Online: Free
 
 We hope this pricing will encourage many participants to join the jamboree on-site in Tokyo this year.

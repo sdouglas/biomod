@@ -22,7 +22,7 @@ Please check back later for hotel information.
 ## Important Dates
 
 - **{{ site.jamboree_registration_start | date: '%B %-d %Y' }}:** Jamboree Registration Opens
-- **{{ site.visa_letter_requests | date: '%B %-d %Y' }}:** Teams outside Japan should [apply for visas](visa-information) by **{{ site.visa_letter_requests | date: '%B %-d, %Y' }}.**
+- **{{ site.visa_letter_requests | date: '%B %-d %Y' }}:** Teams outside Japan should apply for visas by **{{ site.visa_letter_requests | date: '%B %-d, %Y' }}.** Please contact Steering Committee (info@biomod.jp) for invitation letters.
 - **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Registration deadline to attend the Jamboree
 - **{{ site.project_abstract_deadline | date: '%B %-d %Y' }}:** Each team must submit a project title and abstract (150 words max)
 - **{{ site.wiki_video_deadline | date: '%B %-d %Y' }}:** Team wiki freeze and video upload deadline. 11:59PM GMT+9 (JST)

@@ -25,7 +25,7 @@ Thank you in advance for your time and cooperation.
 
 Best regards,
 
-Shogo Hamada
-Chair, BIOMOD 2023
-Assistant Professor
+Shogo Hamada\
+Chair, BIOMOD 2023\
+Assistant Professor\
 Dept. of Computer Science, Tokyo Tech

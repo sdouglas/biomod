@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BIOMOD 2023 Call For Judges & Discussion for Future Plans"
-date: Tue, 03 Aug 2023 10:00:00 +0900
+date: Tue, 03 Oct 2023 10:00:00 +0900
 ---
 
 Dear Colleagues,

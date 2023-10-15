@@ -35,7 +35,7 @@ verifies or discards the presence of the CTX-M-15 gene could be provided, functi
 **Abstract:** As is well known, a long DNA strand serves as the main strand, and many short strands are added to guide the assembly of this long strand to form a predetermined structure.Recently, the OUC-SeaSon team has invented a new assembly technology, which involves designing DNA strands to self connect to form dumbbell rings, which are then hybridized to achieve the purpose of assembly. At the same time, by modifying the sequence, we can change the angle of hybridization between dumbbells, thereby forming other structures.Due to the structure of z-dna produced in the process of dumbbell ring hybridization, we used polyacrylamide gel electrophoresis and domain proteins that can specifically recognize z-dna, such as ADAR1, to verify the success of hybridization.Our project provides a new solution for the assembly of DNA structures, and the assembled structures also provide raw materials for studying z-dna and its specific binding proteins.
 
 
-**Team #5:** Team Kansai<br>
+**Team #6:** Team Kansai<br>
 **Title:** Can shuriken hit a target? <br>
 **Abstract:** As of 2018, cancer affects more than 18.1 million people worldwide and kills more than half of those affected.
 Cancer is mostly treated with anticancer drugs. Anticancer drugs are prescribed as intravenous infusions, injections, or oral medications, and once inside the body, they travel throughout the body in the bloodstream to attack cancer cells.

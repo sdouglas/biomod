@@ -29,10 +29,11 @@ Please check back later for hotel information.
 <!-- - **{{ site.hotel_checkin_time | date: '%B %-d' }}:** Check into hotel (after 15:00) -->
 - **{{ site.jamboree_start_time | date: '%B %-d' }}:** Jamboree Begins (8:00)
 <!-- - **{{ site.hotel_checkout_time | date: '%B %-d' }}:** Check out of hotel (before 11:00) -->
-- **{{ site.jamboree_end_time | date: '%B %-d' }}:** Jamboree Ends (probably around 15:00)
+- **{{ site.jamboree_end_time | date: '%B %-d' }}:** Jamboree Ends (around 12:00)
 
 ## Schedule
-TBA
+
+Download the [BIOMOD 2023 QuickGuide](./BIOMOD2023-QuickGuide.pdf) (PDF).
 
 <!--
 Download the [BIOMOD 2019 QuickGuide](./BIOMOD2019-QuickGuide.pdf) (PDF).

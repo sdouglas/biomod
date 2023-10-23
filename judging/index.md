@@ -103,7 +103,8 @@ Our aim is to maintain an open and fair process for evaluating each team's perfo
 
 ### Special awards
 
-- The 7th Annual Molecular Robotics Award (by [MOLBOT](http://molbot.org/), Japan)
+- Molecular Robotics Award
+- Best ELSI Practice Award
 - Best Team T-shirt Award
 
 &nbsp;

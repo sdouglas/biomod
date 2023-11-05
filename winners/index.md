@@ -15,7 +15,7 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 ## Audience Favorite
 
 1. [XMU-Bionova - Xiamen University]()
-2. (tie) [Team NoKo - Tokyo University of Agriculture and Technology]() \& [Team Sendai - Tohoku University]()
+2. (tie) [Team NoKo - Tokyo University of Agriculture and Technology]() & [Team Sendai - Tohoku University]()
 3. [USYD UFOLD - University of Sydney]()
 
 

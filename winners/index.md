@@ -27,7 +27,7 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 2. [YOKABIO - Kyushu Institute of Technology]()
 3. [USYD UFOLD - University of Sydney]()
 
-## Best YouTube video
+## Best YouTube Video
 
 1. [USYD UFOLD - University of Sydney]()
 2. [Team Kansai - Kansai University]()

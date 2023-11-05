@@ -12,7 +12,7 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 - 3nd: <a target="_blank" href="">USYD UFOLD - University of Sydney</a>
 
 
-## Audience Favorite Award
+## Audience Favorite
 
 1. XMU-Bionova - Xiamen University
 2. Team NoKo - Tokyo University of Agriculture and Technology

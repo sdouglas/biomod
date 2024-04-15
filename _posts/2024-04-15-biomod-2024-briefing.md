@@ -15,7 +15,7 @@ An **Online briefing session** will be held on April 29 (12:00-13:00 (JST), Zoom
 	- The session will be held in English
 
 
-## BIOMOD 2024 Steering Committee
+## BIOMOD 2024 Committee
 ### Steering Committee (SC)
 - Shogo Hamada (Tokyo Tech, Japan)
 - Shawn Douglas (UCSF, USA; Advisor)

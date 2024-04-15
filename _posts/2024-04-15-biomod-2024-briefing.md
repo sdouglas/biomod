@@ -16,6 +16,7 @@ An **Online briefing session** will be held on April 29 (12:00-13:00 (JST), Zoom
 
 
 ## BIOMOD 2024 Committee
+
 ### Steering Committee (SC)
 - Shogo Hamada (Tokyo Tech, Japan)
 - Shawn Douglas (UCSF, USA; Advisor)
@@ -25,6 +26,7 @@ An **Online briefing session** will be held on April 29 (12:00-13:00 (JST), Zoom
 - Zhouqing Luo (Xiamen U, China)
 - Jonathan Bath (Oxford U., UK)
 - Yusuke Sato (Kyutech, Japan; 2024 LC chair)
+
 ### 2024 Local Committee (LC) Kyushu, Japan
 - Yusuke Sato (Kyutech, Japan)
 - Yusuke Morimoto (Kyutech, Japan)

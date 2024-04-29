@@ -15,6 +15,11 @@ An **Online briefing session** will be held on April 29 (12:00-13:00 (JST), Zoom
 	- The session will be held in English
 
 
+** [UPDATE Apr. 29, 2024] [Team registration website](https://biomod2024-team-registration.peatix.com/) is now live **
+Please check the details on the [BIOMOD 2024 Online Briefing & Schedule](https://biomod.net/2024/04/29/biomod-2024-schedule) post
+
+
+
 ## BIOMOD 2024 Committee
 
 ### Steering Committee (SC)

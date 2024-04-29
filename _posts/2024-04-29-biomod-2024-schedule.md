@@ -4,7 +4,7 @@ title: "BIOMOD 2024 Online Briefing & Schedule"
 date: Mon, 29 Apr 2024 14:30:00 +0900
 ---
 
-Thank you all for joining the online briefing! Here are the detailed information of BIOMOD 2024, including recorded video from the online briefing session. We look forward to receiving your team registration.
+Thank you all for joining the online briefing! Here are the detailed information of BIOMOD 2024, including recorded video from the session. We look forward to receiving your team registration.
 
 # Team Registration
 

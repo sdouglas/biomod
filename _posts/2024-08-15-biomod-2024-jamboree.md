@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BIOMOD 2024 Jamboree Registration Opens Aug. 15"
-date: Thu, Aug 2024 09:00:00 +0900
+date: Thu, 15 Aug 2024 09:00:00 +0900
 ---
 
 # Jamboree Registration

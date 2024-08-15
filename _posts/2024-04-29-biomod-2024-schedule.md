@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BIOMOD 2024 Online Briefing & Schedule"
+title: "BIOMOD 2024 Online Briefing & Schedule (Updated: Aug. 15)"
 date: Mon, 29 Apr 2024 14:30:00 +0900
 ---
 

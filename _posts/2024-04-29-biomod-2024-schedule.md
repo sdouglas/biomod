@@ -6,7 +6,7 @@ date: Mon, 29 Apr 2024 14:30:00 +0900
 
 _** Updated 2024/08/15 **_
 
-Jamboree Registration Page (Peatix) & Abstract Submission Form are now online! Please go to (https://biomod.net/2024/08/01/biomod-2024-jamboree.html)[https://biomod.net/2024/08/01/biomod-2024-jamboree.html] for details.
+Jamboree Registration Page (Peatix) & Abstract Submission Form are now online! Please go to [https://biomod.net/2024/08/15/biomod-2024-jamboree.html](https://biomod.net/2024/08/15/biomod-2024-jamboree.html) for details.
 
 ---
 

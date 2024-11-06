@@ -7,7 +7,8 @@ date:   2013-08-28 16:27:08
 
 ## What is it?
 
-The BIOMOD Jamboree is an annual conference at which all BIOMOD teams will convene to present their team projects. The 2023 Jamboree is scheduled to take place at Kyushu Institute of Technology (Tobata Campus) in {{ site.jamboree_start_time | date: '%B %-d, %Y' }}.
+The BIOMOD Jamboree is an annual conference at which all BIOMOD teams will convene to present their team projects.
+The 2024 Jamboree is scheduled to take place at Kyushu Institute of Technology (Tobata Campus) in {{ site.jamboree_start_time | date: '%B %-d, %Y' }}.
 
 ## Abstracts
 

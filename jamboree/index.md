@@ -22,23 +22,25 @@ Teams will be judged according to [criteria posted here](/judging).
 ## Hotel
 
 Please check back later for hotel information.
--->
 
-```
+
+<!--
 ## Important Dates
-
 - **{{ site.jamboree_registration_start | date: '%B %-d %Y' }}:** Jamboree Registration Opens
 - **{{ site.visa_letter_requests | date: '%B %-d %Y' }}:** Teams outside Japan should apply for visas by **{{ site.visa_letter_requests | date: '%B %-d, %Y' }}.** Please contact Steering Committee (info@biomod.jp) for invitation letters.
 - **{{ site.jamboree_registration_deadline | date: '%B %-d' }}:** Registration deadline to attend the Jamboree
 - **{{ site.project_abstract_deadline | date: '%B %-d %Y' }}:** Each team must submit a project title and abstract (150 words max)
 - **{{ site.wiki_video_deadline | date: '%B %-d %Y' }}:** Team wiki freeze and video upload deadline. 11:59PM GMT+9 (JST)
+-->
 <!-- - **{{ site.hotel_checkin_time | date: '%B %-d' }}:** Check into hotel (after 15:00) -->
-- **{{ site.jamboree_start_time | date: '%B %-d' }}:** Jamboree Begins (8:00)
+<!-- - **{{ site.jamboree_start_time | date: '%B %-d' }}:** Jamboree Begins (8:00) -->
 <!-- - **{{ site.hotel_checkout_time | date: '%B %-d' }}:** Check out of hotel (before 11:00) -->
-- **{{ site.jamboree_end_time | date: '%B %-d' }}:** Jamboree Ends (around 12:00)
-```
+<!-- - **{{ site.jamboree_end_time | date: '%B %-d' }}:** Jamboree Ends (around 12:00) -->
+
 
 ## Schedule
+- **{{ site.jamboree_start_time | date: '%B %-d' }}:** Jamboree Begins (8:00)
+- **{{ site.jamboree_end_time | date: '%B %-d' }}:** Jamboree Ends (around 12:00)
 
 Download the [BIOMOD 2024 QuickGuide](./BIOMOD2024-QuickGuide.pdf) (PDF).
 

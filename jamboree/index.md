@@ -7,7 +7,11 @@ date:   2013-08-28 16:27:08
 
 ## What is it?
 
-The BIOMOD Jamboree is an annual conference at which all BIOMOD teams will convene to present their team projects. The 2023 Jamboree is scheduled to take place in West Bldg. 9 Hall at Tokyo Tech, Japan in {{ site.jamboree_start_time | date: '%B %-d, %Y' }}.
+The BIOMOD Jamboree is an annual conference at which all BIOMOD teams will convene to present their team projects. The 2023 Jamboree is scheduled to take place at Kyushu Institute of Technology (Tobata Campus) in {{ site.jamboree_start_time | date: '%B %-d, %Y' }}.
+
+## Abstracts
+
+Project abstracts from the participating teams are listed [here](http://biomod.net/abstracts/).
 
 ## Judging and Awards
 
@@ -19,6 +23,7 @@ Teams will be judged according to [criteria posted here](/judging).
 Please check back later for hotel information.
 -->
 
+```
 ## Important Dates
 
 - **{{ site.jamboree_registration_start | date: '%B %-d %Y' }}:** Jamboree Registration Opens
@@ -30,10 +35,11 @@ Please check back later for hotel information.
 - **{{ site.jamboree_start_time | date: '%B %-d' }}:** Jamboree Begins (8:00)
 <!-- - **{{ site.hotel_checkout_time | date: '%B %-d' }}:** Check out of hotel (before 11:00) -->
 - **{{ site.jamboree_end_time | date: '%B %-d' }}:** Jamboree Ends (around 12:00)
+```
 
 ## Schedule
 
-Download the [BIOMOD 2023 QuickGuide](./BIOMOD2023-QuickGuide.pdf) (PDF).
+Download the [BIOMOD 2024 QuickGuide](./BIOMOD2024-QuickGuide.pdf) (PDF).
 
 <!--
 Download the [BIOMOD 2019 QuickGuide](./BIOMOD2019-QuickGuide.pdf) (PDF).

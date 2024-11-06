@@ -6,7 +6,7 @@ date:   2024-11-03 10:00:00
 
 (In the order of jamboree presentation)
 
-**Team #1:** Imperial 2024<br>
+**Team #1:** Imperial BIOMOD Team<br>
 **Title:** DNA Origami PETase-MHETase Cascade<br>
 **Abstract:** Of the 450 million tonnes of plastic produced globally every year, less than 10% is
 estimated to be recycled. Insufficient and expensive recycling technologies limit the

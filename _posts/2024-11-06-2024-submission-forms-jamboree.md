@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BIOMOD 2024 Jamboree Quickguide; Webpage & video submission form"
-date: Wed, 7 Nov 2024 09:00:00 +0900
+date: Wed, 6 Nov 2024 09:00:00 +0900
 ---
 
 # Jamboree Quickguide (for Teams)

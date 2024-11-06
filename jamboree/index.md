@@ -39,6 +39,7 @@ Please check back later for hotel information.
 
 
 ## Schedule
+- **November 21:** Practice session, Check-in (16:00-19:45)
 - **{{ site.jamboree_start_time | date: '%B %-d' }}:** Jamboree Begins (8:00)
 - **{{ site.jamboree_end_time | date: '%B %-d' }}:** Jamboree Ends (around 12:00)
 

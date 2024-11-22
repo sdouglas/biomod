@@ -34,3 +34,15 @@ Please submit one abstract per team. The abstract PDF will be included in the Ja
 - Nov. 21: Jamboree check-in and rehearsal
 - Nov. 22-23: Jamboree (on-site in Kita-kyushu, Japan, and online via Zoom)
 
+# Our Sponsors
+
+We thank the support by the following organizations, companies, and agencies to make this event possible.
+
+![Molecular Cybernetics](http://biomod.net/jamboree/2024-sponsor/molcy.png "Molecular Cybernetics")
+
+![City of Kitakyushu](http://biomod.net/jamboree/2024-sponsor/kitakyushu-city.png "City of Kitakyushu")
+
+![Kitakyushu CVA](http://biomod.net/jamboree/2024-sponsor/kitakyushu_cva.png "Kitakyushu Convention and Visitors Association")
+
+![Shinkouseki-co-ltd](http://biomod.net/jamboree/2024-sponsor/shinkouseiki.png "Shinkouseki-co-ltd")
+

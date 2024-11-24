@@ -61,23 +61,23 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 
 ### Bronze
 
-- DNADetect - BIOMOD UCalgary
-- OhioMOD
-- Team Kansai
-- Team Tokyo Tech
-- BioRegen
+- DNADetect - BIOMOD UCalgary - University of Calgary
+- OhioMOD - The Ohio State University
+- Team Kansai - Kansai University
+- Team Tokyo Tech - Institute of Science Tokyo
+- BioRegen - Instituto Tecnológico y de Estudios Superiores de Monterrey
 
 ### Silver
 
-- USYD UFOLD
-- KRNM-SPH
-- YOKABIO
-- NTU_Taiwan
+- USYD UFOLD - University of Sydney
+- KRNM-SPH - NHC Key Laboratory of Radiobiology
+- YOKABIO - Kyushu Institute of Technology
+- NTU_Taiwan - National Taiwan University
 
 ### Gold
 
-- Nano_JLU
-- Team Sendai
-- Carbonova
-- UBC BIOMOD
-- Team Noko
+- Nano_JLU - Jilin University
+- Team Sendai - Tohoku University
+- Carbonova - Institute of Chemical Technology, Mumbai 
+- UBC BIOMOD - University of British Columbia
+- Team Noko - Tokyo University of Agriculture and Technology

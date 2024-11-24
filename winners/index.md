@@ -5,8 +5,6 @@ title: "BIOMOD 2024 Winners"
 
 Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013.html) [2014](/winners/2014.html) [2015](/winners/2015.html) [2016](/winners/2016.html) [2017](/winners/2017.html) [2018](/winners/2018.html)  [2019](/winners/2019.html) [2020-2022 (Japan Open)](https://biomod.jp/winners.html) [2023](/winners/2023.html) **2024**
 
-## BIOMOD 2024 Kyutech
-
 ## Grand Prize — Total Combined Score
 
 - 1st: <a target="_blank" style="font-size:200%;" href="http://47.94.211.141">Nano_JLU - Jilin University</a><br>

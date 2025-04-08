@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BIOMOD 2025 Team Registration Opens Apr. 18"
-date: Mon, 8 Apr 2024 10:00:00 +0900
+date: Tue, 8 Apr 2025 10:00:00 +0900
 ---
 
 

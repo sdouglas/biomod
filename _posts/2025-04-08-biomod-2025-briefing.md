@@ -19,4 +19,4 @@ An **Online briefing session** will be held on April 18 (14:00-15:00 (JST), Zoom
 
 **UPDATE Apr. 18, 2025** [Team registration website](https://biomod2025-team-registration.peatix.com/) is now live!
 
-Please check the details on the [BIOMOD 2025 Online BSchedule](https://biomod.net/2025/04/18/biomod-2025-schedule) post.
+Please check the details on the [BIOMOD Jilin 2025 Schedule](https://biomod.net/2025/04/18/biomod-2025-schedule) post.

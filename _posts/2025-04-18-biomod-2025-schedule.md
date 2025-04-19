@@ -63,6 +63,6 @@ You can find the invitation link in the [briefing slides](https://biomod.jp/comp
 
 
 # Inquiry
-- [Steering Committee (SC)](competition-sc@biomod.jp): Rules and Schedules
-- [Jilin 2025 Local Committee (LC)](competition-lc25@biomod.jp): Jamboree-related topics incl. visa
-- [Office (BIOMOD Institute HQ)](info@biomod.jp): Other general questions
+- [Steering Committee (SC)](mailto:competition-sc@biomod.jp): Rules and Schedules
+- [Jilin 2025 Local Committee (LC)](mailto:competition-lc25@biomod.jp): Jamboree-related topics incl. visa
+- [Office (BIOMOD Institute HQ)](mailto:info@biomod.jp): Other general questions

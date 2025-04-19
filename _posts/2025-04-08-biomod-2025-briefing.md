@@ -10,9 +10,10 @@ We are excited to announce that the team registration for this year's BIOMOD sta
 An **Online briefing session** will be held on April 18 (14:00-15:00 (JST), Zoom). Rules, schedule, jamboree venue, awards, etc., will be covered. A recording of the session will be made available afterward for those who can’t join live. We look forward to seeing you all at the briefing!
 
 # Online Briefing
-- April 18, 14:00 - 15:00 (JST, Japan Standard Time)
-	- [Zoom Link](https://zoom.us/j/99304747176?pwd=XbHueoJbNhKMhWwTHmmUtp5xyEZAxX.1)
-	- The session will be held in English
+- ~~April 18, 14:00 - 15:00 (JST, Japan Standard Time)~~
+	- ~~[Zoom Link](https://zoom.us/j/99304747176?pwd=XbHueoJbNhKMhWwTHmmUtp5xyEZAxX.1)~~
+	- ~~The session will be held in English~~
+- The session has concluded. Please find the recordings and related materials below.
 
 
 

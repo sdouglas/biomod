@@ -4,7 +4,7 @@ title: "BIOMOD Jilin 2025 Schedule"
 date: Fri, 18 Apr 2025 15:00:00 +0900
 ---
 
-Thank you all for joining the online briefing! Here are the detailed information of BIOMOD 2024, including recorded video from the session. We look forward to receiving your team registration.
+Thank you all for joining the online briefing! Here are the detailed information of BIOMOD 2025, including recorded video from the session. We look forward to receiving your team registration.
 
 # Team Registration
 

@@ -45,7 +45,7 @@ Registrations are only considered complete when payment is received, and a confi
 
 # Online Briefing Video
 
-<div><video controls src="https://biomod.jp/competition/briefing/2025/2025.mp4" muted="false"></video></div>
+<div max-width: 500px><video controls src="https://biomod.jp/competition/briefing/2025/2025.mp4" muted="false"></video></div>
 
 # Slides (PDF)
 

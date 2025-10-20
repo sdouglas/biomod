@@ -10,14 +10,14 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 
 ## Grand Prize — Total Combined Score
 
-- 1st: <a target="_blank" style="font-size:200%;" href="https://www.nanojlu-biomod.cloud/">Nano_JLU - Jilin University</a><br>
+- 1st: <a target="_blank" style="font-size:200%;" href="https://www.nanojlu-biomod.cloud/">Nano-JLU - Jilin University</a><br>
 - 2nd: <a target="_blank" href="https://sites.google.com/st.go.tuat.ac.jp/biomod-tuat-2025/">BIOMOD TUAT - Tokyo University of Agriculture and Technology</a><br>
 - 3nd: <a target="_blank" href="https://yokabio2025.github.io/wiki/index.html">YOKABIO - Kyushu Institute of Technology</a>
 
 
 ## Audience Favorite
 
-1. [Nano_JLU - Jilin University](https://www.nanojlu-biomod.cloud/)
+1. [Nano-JLU - Jilin University](https://www.nanojlu-biomod.cloud/)
 2. [Team ZZU - Zhengzhou University](https://iched.github.io/biomod/)
 3. [SYNBIO UB - Brawijaya University](https://biomod2025.vercel.app/)
 
@@ -26,13 +26,13 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 
 ## Best Project Website
 
-1. [Nano_JLU - Jilin University](https://www.nanojlu-biomod.cloud/)
+1. [Nano-JLU - Jilin University](https://www.nanojlu-biomod.cloud/)
 2. [YOKABIO - Kyushu Institute of Technology](https://yokabio2025.github.io/wiki/index.html)
 3. (tie) [BIOMOD TUAT - Tokyo University of Agriculture and Technology](https://sites.google.com/st.go.tuat.ac.jp/biomod-tuat-2025/) & [Team ZZU - Zhengzhou University](https://iched.github.io/biomod/)
 
 ## Best Video
 
-1. (tie) [Nano_JLU - Jilin University](https://www.youtube.com/watch?v=nscJUBw9NYk) & [BIOMOD TUAT - Tokyo University of Agriculture and Technology](https://www.youtube.com/watch?v=ymWMypM5OsE)
+1. (tie) [Nano-JLU - Jilin University](https://www.youtube.com/watch?v=nscJUBw9NYk) & [BIOMOD TUAT - Tokyo University of Agriculture and Technology](https://www.youtube.com/watch?v=ymWMypM5OsE)
 2. [xmu-HeliCipher - Xiamen University](https://www.youtube.com/watch?v=utONiTpBs1A)
 3. [YOKABIO - Kyushu Institute of Technology](https://yokabio2025.github.io/wiki/index.html)
 
@@ -40,7 +40,7 @@ Year: [2011](/winners/2011.html) [2012](/winners/2012.html) [2013](/winners/2013
 ## Best Presentation
 
 1. [Team ZZU - Zhengzhou University](https://iched.github.io/biomod/)
-2. [Nano_JLU - Jilin University](https://www.nanojlu-biomod.cloud/)
+2. [Nano-JLU - Jilin University](https://www.nanojlu-biomod.cloud/)
 3. [NTU_Taiwan - National Taiwan University](https://ntu-taiwan-biomod2025.github.io/)
 
 

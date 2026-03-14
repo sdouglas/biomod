@@ -11,4 +11,4 @@ This year, our annual jamboree will take place at **Campus Querétaro, Tecnológ
 
 Team registration will be open from **April 15 to May 31**. We will release the event details and guidelines on April 15, so please keep an eye on our updates.
 
-![BIOMOD 2026 Flyer](https://biomod.net/assets/images/BIOMOD2026-flyer_sml.png){width=600px}
+![BIOMOD 2026 Flyer](https://biomod.net/assets/images/BIOMOD2026-flyer_sml.png)

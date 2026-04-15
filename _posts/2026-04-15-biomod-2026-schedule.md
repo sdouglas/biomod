@@ -25,7 +25,7 @@ Team registration starts April 15. The registration may close early or extend du
 **Cancellation Policy:** Please be advised that the team registration fee is non-refundable.
 
 
-**About Individual Registration:** This year’s individual Jamboree registration fee will be decided based on the number of teams that are willing to attend on-site ($220/person in 2019). Online participation may also require an online registration fee to cover streaming etc. We strongly recommend joining on-site to experience the BIOMOD jamboree fully. Jamboree registration starts in August and is due in September, along with your project title and abstract.
+**About Individual Jamboree Registration:** This year’s individual Jamboree registration fee will be decided based on the number of teams that are willing to attend on-site ($220/person in 2019). Online participation may also require an online registration fee to cover streaming etc. We strongly recommend joining on-site to experience the BIOMOD jamboree fully. Jamboree registration starts in August and is due in September, along with your project title and abstract.
 
 
 Registrations are only considered complete when payment is received, and a confirmation email is sent.

@@ -11,7 +11,7 @@ We are happy to share the detailed information of BIOMOD 2026, held at Tecnologi
 - Team: 30,000 JPY (approx. 200 USD)
 - Jamboree (individual): TBD (see below)
 
-Team Registration Website (Molecular Robotics Society (Molbot) Payment System):
+**Team Registration Website** (Molecular Robotics Society (Molbot) Payment System):
 
 - English: [https://molbot.org/en/event-categories/biomod-event/18-biomod-2026-team](https://molbot.org/en/event-categories/biomod-event/18-biomod-2026-team)
 - 中文: [https://molbot.org/zh/event-categories/biomod-event/18-biomod-2026-team](https://molbot.org/zh/event-categories/biomod-event/18-biomod-2026-team)
@@ -25,7 +25,7 @@ Team registration starts April 15. The registration may close early or extend du
 **Cancellation Policy:** Please be advised that the team registration fee is non-refundable.
 
 
-This year’s individual Jamboree registration fee will be decided based on the number of teams that are willing to attend on-site ($220/person in 2019). Online participation may also require an online registration fee to cover streaming etc. We strongly recommend joining on-site to experience the BIOMOD jamboree fully. Jamboree registration starts in August and is due in September, along with your project title and abstract.
+**About Individual Registration:** This year’s individual Jamboree registration fee will be decided based on the number of teams that are willing to attend on-site ($220/person in 2019). Online participation may also require an online registration fee to cover streaming etc. We strongly recommend joining on-site to experience the BIOMOD jamboree fully. Jamboree registration starts in August and is due in September, along with your project title and abstract.
 
 
 Registrations are only considered complete when payment is received, and a confirmation email is sent.
@@ -42,7 +42,7 @@ Registrations are only considered complete when payment is received, and a confi
 
 # Jamboree
 
-- Date: November 20-22, 2026
+- **Date: November 20-22, 2026**
 - Place:
 	- Map: [Tecnologico de Monterrey, Querétaro campus](https://maps.app.goo.gl/YXyinKmyaxs9whxE9)
 	- Address: Epigmenio González 500, Fracc, San Pablo, 76130 Santiago de Querétaro, Querétaro, Mexico

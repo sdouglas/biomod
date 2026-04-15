@@ -53,7 +53,7 @@ Registrations are only considered complete when payment is received, and a confi
 - Local Committee: Maritza Alonzo Macías, Sujay Paul, Víctor Rodríguez
 
 ## Welcome to Querétaro!
-<div><video controls src="https://biomod.jp/competition/briefing/2026/2026.mp4" muted="false" width="480"></video></div>
+<div><video controls src="https://biomod.jp/competition/briefing/2026/2026.mp4" muted="false" width="600"></video></div>
 
 
 

@@ -34,8 +34,8 @@ Registrations are only considered complete when payment is received, and a confi
 # Schedule
 
 - **Apr. 15 - Jun. 1**: Team registration (may close early / extend due to the number cap)
-- **Aug. 15 - Sep. 15** (may change): Individual Jamboree registration
-- **Sep. 1** Visa invitation letter requests due
+- **Aug. 15 - Sep. 15**: (may change): Individual Jamboree registration
+- **Sep. 1**: Visa invitation letter requests due
 - **Nov. 14**: Website/Youtube freeze
 - **Nov. 20-22**: Jamboree (on-site (Querétaro, Mexico) and online (Zoom))
 

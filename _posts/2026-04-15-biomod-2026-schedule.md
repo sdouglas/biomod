@@ -57,7 +57,7 @@ Registrations are only considered complete when payment is received, and a confi
 
 
 
--  [Additional Introduction of the campus (YouTube, in Spanish)](https://youtu.be/DFerjIsQzeE?si=MXHrmYmHAM8HcW-I)
+-  [Additional introduction of the campus (YouTube, in Spanish)](https://youtu.be/DFerjIsQzeE?si=MXHrmYmHAM8HcW-I)
 
 # Join BIOMOD Portal & Slack Community
 
